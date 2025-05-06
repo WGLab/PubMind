@@ -29,7 +29,7 @@ def get_cds_genomic_positions(tx):
     return genomic_positions
 
 
-def protein_to_genomic(gene_name, aa_pos, aa_ref):
+def protein_to_genomic(gene_name, aa_pos, aa_ref=None):
     try:
         #print(len(ensembl.genes_by_name(gene_name)))
         genes = ensembl.genes_by_name(gene_name)
@@ -46,33 +46,39 @@ def protein_to_genomic(gene_name, aa_pos, aa_ref):
                     aa_seq = Seq(cds).translate()
 
                     if aa_pos <= len(aa_seq):
-                        if aa_ref==aa_dict.get(aa_seq[aa_pos - 1],'wrong'):
-                            codon_start = (aa_pos - 1) * 3
+                        aa_from_aa_seq = aa_dict.get(aa_seq[aa_pos - 1])
+                        if aa_ref:
                             
-                            # Get full CDS genomic position map
-                            cds_genome = get_cds_genomic_positions(tx)
+                            #check if the user provided aa same as ref aa based on pos
+                            if aa_ref!=aa_from_aa_seq:
+                                #print('ref aa not match')
+                                continue
+                                
+                        codon_start = (aa_pos - 1) * 3
 
-                            # get genome coodirnate based on codon_start
-                            codon_coords = cds_genome[codon_start:codon_start+3]
-                            # get cDNA codon
-                            codon = cds[codon_start:codon_start + 3]
-                            # get genome ref
-                            if tx.strand=='+':
-                                genome_codon = codon
-                            else:
-                                genome_codon = str(Seq(codon).reverse_complement())
+                        # Get full CDS genomic position map
+                        cds_genome = get_cds_genomic_positions(tx)
 
-                            all_match_tx.append({
-                                "transcript_id": tx.transcript_id,
-                                "chromosome": tx.contig,
-                                "strand": tx.strand,
-                                "genomic_coords": codon_coords,
-                                "ref_aa": aa_seq[aa_pos - 1],
-                                "codon_cDNA": codon,
-                                'genomic_codon': genome_codon
-                            })
-                        #else:
-                            #print('ref aa not match')
+                        # get genome coodirnate based on codon_start
+                        codon_coords = cds_genome[codon_start:codon_start+3]
+                        # get cDNA codon
+                        codon = cds[codon_start:codon_start + 3]
+                        # get genome ref
+                        if tx.strand=='+':
+                            genome_codon = codon
+                        else:
+                            genome_codon = str(Seq(codon).reverse_complement())
+
+                        all_match_tx.append({
+                            "transcript_id": tx.transcript_id,
+                            "chromosome": tx.contig,
+                            "strand": tx.strand,
+                            "genomic_coords": codon_coords,
+                            "ref_aa": aa_seq[aa_pos - 1],
+                            "codon_cDNA": codon,
+                            'gnomic_codon': genome_codon
+                        })
+                        
                     #else:
                         #print('ref tx is too short')
                 except Exception:
@@ -162,6 +168,8 @@ def annotate_row(row):
 
 
 cdna_to_genomic('PDGFRB',1681,'C')
+cdna_to_genomic('PDGFRB',1681)
 cdna_to_genomic('ZSWIM7',201+1, 'G')
 protein_to_genomic('PDGFRB',561,'Arg')
 protein_to_genomic('CTNND1',439,'Arg')
+protein_to_genomic('CTNND1',439)
