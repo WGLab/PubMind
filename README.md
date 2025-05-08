@@ -4,7 +4,8 @@ PubVarDB is a human genetic variant database generated using large language mode
 
 
 ## Remaining Tasks (ranked in Priority)
-- [ ] Evalaute and finalize BERT-filtering (get larger train dataset with ~10000 abstracts, try BioMedBERT and PubMedBERT, compare final LLM output)
+- [X] Evalaute and finalize BERT-filtering (get larger train dataset with ~10000 abstracts, try BioMedBERT and PubMedBERT, compare final LLM output)
+- [ ] Do a seperate LLM run using the paragraph that filtered out by old distillBERT but kept by BioMedBERT
 - [ ] Finalize the DB (incorperate protein change -> genome coordinates), run ANNOVAR and check model performance
 - [ ] Build Web Access (using SQL + Phen2Gene template)
 - [ ] Write a Paper
