@@ -6,7 +6,7 @@ from difflib import SequenceMatcher
 import numpy as np
 import sys
 
-mondo_df = pd.read_csv('../../../MONDO/MONDO_id_name.tsv',sep='\t',header=0)
+mondo_df = pd.read_csv('/mnt/isilon/wang_lab/pengwang/projects/LLM/MONDO/MONDO_id_name.tsv',sep='\t',header=0)
 
 job_id=int(sys.argv[1])
 
@@ -20,6 +20,9 @@ def text_similarity(a, b):
 
 def find_similarity_emb(entity, graph_features_nodes,features_embeddings, emb_model = emb_model, threshold = 0.9):
     # Compute embeddings for the entity and graph_nodes
+    if type(entity)!=str:
+        return ()
+    
     entity = entity.lower()
     #if graph_features_nodes:
     #    features_embeddings = emb_model.encode(graph_features_nodes, convert_to_tensor=True)
@@ -54,7 +57,7 @@ def find_similarity_emb(entity, graph_features_nodes,features_embeddings, emb_mo
     
 
 # load llm dx output
-llm_out = pd.read_csv('../2-variant_regex_extract/run_20250425.genename.patho_filter.variant_norm.tsv',
+llm_out = pd.read_csv('/mnt/isilon/wang_lab/pengwang/projects/LLM/PubVarDB/intermediate_DB_during_norm/2-variant_regex_extract/run_20250501.genename.patho_filter.variant_norm.tsv',
                      sep='\t',dtype='str')['disease'].unique()
 
 llm_dx_lst = list(llm_out)
@@ -72,13 +75,13 @@ print('Total LLM disease to be normalized:', len(llm_dx_lst_job))
 
 # perform normalization
 dx_llm_mondo_dict = {}
-counter=1
+#counter=1
 for dx in llm_dx_lst_job:
     
-    if counter % 5==0:
-        print(counter,end=' ')
+    #if counter % 5==0:
+    #    print(counter,end=' ')
         
-    counter+=1
+    #counter+=1
     
     dx_llm_mondo_dict[dx]=find_similarity_emb(dx,mondo_dx_lst,features_embeddings,emb_model,0)
     
@@ -88,5 +91,6 @@ print('Finish normalization, saving the result...')
 df_lst=[[k,v[0],v[1],v[2],v[3]] if len(v)!=0 else [k,None,np.nan,np.nan,np.nan] for k,v in dx_llm_mondo_dict.items() ]
 df_norm = pd.DataFrame(df_lst,columns=['disease','MONDO name','disease pbmbert sim','disease string sim','disease combine sim'])
 df_norm_merge = df_norm.merge(mondo_df,on='MONDO name',how='left')
-df_norm_merge.to_csv(f'llm_mondo_norm_{job_id}.tsv', sep='\t',index=False,header=True)
-print(f'Disease normalization saved to llm_mondo_norm_{job_id}.tsv')
+save_path=f'/mnt/isilon/wang_lab/pengwang/projects/LLM/PubVarDB/intermediate_DB_during_norm/3-disease_phenotype_norm/llm_mondo_norm_{job_id}.run20250501.tsv'
+df_norm_merge.to_csv(save_path, sep='\t',index=False,header=True)
+print(f'Disease normalization saved to {save_path}')

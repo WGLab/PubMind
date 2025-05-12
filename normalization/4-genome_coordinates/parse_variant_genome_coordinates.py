@@ -141,3 +141,9 @@ def parse_variant_from_transcript(row, mane_tx_dict):
 
     return unique_results if unique_results else None
 
+
+#######
+mane_select = pd.read_csv('/mnt/isilon/wang_lab/pengwang/projects/LLM/variant_coordinate/mane.bed',sep='\t',header=None)
+mane_select['ENST']=mane_select[3].apply(lambda x: x.split('.')[0])
+mane_tx_df = mane_select[[18,'ENST']].rename(columns={18:'gene'})
+mane_tx_dict = dict(zip(mane_tx_df['gene'], mane_tx_df['ENST']))

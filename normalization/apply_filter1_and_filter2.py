@@ -6,7 +6,15 @@ import os
 from pyensembl import EnsemblRelease
 
 input_path = sys.argv[1]  # First argument: input folder path
-output_path=input_path.replace('.out.tsv','.out.qc.tsv')
+
+base_name = os.path.basename(input_path)
+output_dir1 = "/mnt/isilon/wang_lab/pengwang/projects/LLM/PubVarDB/intermediate_DB_during_norm/1-initial_quality_filter"
+output_path1 = os.path.join(output_dir1, base_name.replace('.out.tsv', '.out.qc.tsv'))
+output_dir2 = "/mnt/isilon/wang_lab/pengwang/projects/LLM/PubVarDB/intermediate_DB_during_norm/2-variant_regex_extract"
+output_path2 = os.path.join(output_dir1, base_name.replace('.out.tsv', '.out.qc.var_regex.tsv'))
+
+os.makedirs(output_dir1, exist_ok=True)
+os.makedirs(output_dir2, exist_ok=True)
 
 #2-variant_regex_extract
 # Dictionary to convert one-letter to three-letter amino acid codes
@@ -103,8 +111,8 @@ gene_names = [gene for gene in gene_names if gene !='']
 df = pd.read_csv(input_path, sep="\t")
 df = df[df['gene'].isin(gene_names)]
 df=df[(df['DNA mutation']!='-') | (df['protein mutation']!='-')]
-df.to_csv(output_path,sep='\t')
-print(f'Finished filter-1: save output at {output_path}')
+df.to_csv(output_path1,sep='\t')
+#print(f'Finished filter-1: save output at {output_path}')
 
 
 #2-variant_regex_extract
@@ -121,6 +129,5 @@ df['dna_change']=df['dna_from']+df['dna_pos']+df['dna_to']
 df['aa_change']=df['aa_from']+df['aa_pos']+df['aa_to']
 
 #save
-output_path2 = output_path.replace('.out.qc.tsv','.out.qc.var_regex.tsv')
 df.to_csv(output_path2,sep='\t',index=False)
-print(f'Finished filter-2: saved to {output_path2}')
+#print(f'Finished filter-2: saved to {output_path2}')

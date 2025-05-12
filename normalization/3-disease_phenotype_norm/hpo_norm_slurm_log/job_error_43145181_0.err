@@ -1,0 +1,6 @@
+Traceback (most recent call last):
+  File "/mnt/isilon/wang_lab/pengwang/projects/PubVarDB/normalization/3-disease_phenotype_norm/llm_dx_norm_hpo.py", line 83, in <module>
+    dx_llm_mondo_dict[dx]=find_similarity_emb(dx,mondo_dx_lst,features_embeddings,emb_model,0)
+  File "/mnt/isilon/wang_lab/pengwang/projects/PubVarDB/normalization/3-disease_phenotype_norm/llm_dx_norm_hpo.py", line 24, in find_similarity_emb
+    entity = entity.lower()
+AttributeError: 'float' object has no attribute 'lower'

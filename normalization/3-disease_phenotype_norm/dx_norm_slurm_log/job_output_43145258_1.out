@@ -1,0 +1,5 @@
+Run ID: 1
+Total LLM disease to be normalized: 53924
+
+Finish normalization, saving the result...
+Disease normalization saved to /mnt/isilon/wang_lab/pengwang/projects/LLM/PubVarDB/intermediate_DB_during_norm/3-disease_phenotype_norm/llm_mondo_norm_1.run20250501.tsv
