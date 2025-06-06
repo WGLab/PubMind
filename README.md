@@ -1,7 +1,7 @@
 # PubMind
 PubMind is an LLM-based framework for **Pub**lication **M**utation and **in**formation **D**iscovery directly using PubMed abstracts and central full texts.
 
-<img width="468" alt="image" src="https://github.com/user-attachments/assets/174bf110-efcf-4ceb-93f3-25f7129c56ea" />
+<img width="1112" alt="image" src="https://github.com/user-attachments/assets/91bfd712-0754-436d-ab16-086fefd451ed" />
 
 
 
