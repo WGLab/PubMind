@@ -5,18 +5,18 @@ PubMind is a large language model (LLM)-assisted framework for <ins>**Pub**</ins
 
 PubMind is for academic use. For commercial use please contact CHOP office of technology transfer.
 
-# Running PubMind
-
 ## Prerequisite
 Please refer to `requirements.txt` for necessary python packages.
 
-## Use PubMind
+## Run PubMind
 Please refer to `run_PubMind.ipynb` for the use of PubMind. All example input and output are in the `example` folder.
 
 PubMind includes the following steps:
 1. Filtering Module (finetuned BERT model)
-2. Inference Module (instruction-tuned LLM)
-3. Normalization Module
+   - Wangwpi/PubMind_finetuned_BERT (Hugging Face)
+3. Inference Module (instruction-tuned LLM)
+   - meta-llama/Llama-3.3-70B-Instruct (Hugging Face)
+5. Normalization Module
    - Quality filter (gene name, pathogenicity)
    - Variant parser (cDNA, protein, RSID)
    - Map to transcript
