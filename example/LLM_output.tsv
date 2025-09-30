@@ -1,10 +1,37 @@
-PMID	gene	DNA mutation	protein mutation	disease	phenotype	LLM reasoning	pathogenicity
-22016685	F11	c.1517A>G	p.Asp506Gly	Factor XI deficiency	mild FXI deficiency, prolonged activated partial thromboplastin time, slightly lower FXI activity	novel missense mutation, first genetically confirmed case of mild FXI deficiency in Korea	unknown
-21850008	MT-ND3	T10191C	p.S45P	MELAS	-	novel mutation, affecting mitochondrially encoded complex I	unknown
-21850008	MT-ND4	A11470C	p.K237N	MELAS	-	novel mutation, affecting mitochondrially encoded complex I	unknown
-21850008	MT-ND5	T13046C	p.M237T	MELAS	-	novel mutation, affecting mitochondrially encoded complex I	unknown
-21850008	MT-ND5	-	-	MELAS	-	large-scale deletion involving partial ND5 and ND6 subunits of complex I	unknown
-21850008	MT-TL1	A3243G	-	MELAS	-	most common causal genotype	pathogenic
-21850008	MT-ND5	G13513A	-	MELAS	-	second common gene mutation	likely pathogenic
-22104738	MLYCD	c.920T>G	p.Leu307Arg	malonic aciduria	developmental delay, short stature, brain abnormalities, massive excretion of malonic acid and methylmalonic acid	not found in 100 healthy controls and not previously reported	likely pathogenic
-22104738	MLYCD	exon 1 deletion	-	malonic aciduria	developmental delay, short stature, brain abnormalities, massive excretion of malonic acid and methylmalonic acid	-	likely pathogenic
+PMCID	section	gene	DNA mutation	protein mutation	disease	phenotype	LLM reasoning	pathogenicity
+PMC5628943	abstract	IRF6	-	-	orofacial clefts	periderm rupture phenotype	retained partial or full protein function and rescued the zebrafish irf6 -/- periderm rupture phenotype	likely benign
+PMC5628943	abstract	IRF6	-	-	orofacial clefts	periderm rupture phenotype	complete loss-of-function	pathogenic
+PMC5628943	abstract	IRF6	-	-	orofacial clefts	periderm rupture phenotype	reduced function	likely pathogenic
+PMC5628943	Introduction	-	-	-	-	-	-	unknown
+PMC5628943	Introduction	IRF6	-	-	orofacial clefts, Van der Woude syndrome (VWS), Popliteal Pterygium syndrome (PPS)	cleft lip and/or palate (CL/P), skin abnormalities, oral epithelial adhesions, poor epithelial barrier functions, improper skin stratification	disruption of Irf6 led to a CL/P phenotype in addition to oral epithelial adhesions, poor epithelial barrier functions, and improper skin stratification	pathogenic
+PMC5628943	Introduction	IRF6	-	-	-	ruptured embryos	required for the proper development of the embryonic epithelium (periderm) during epiboly	unknown
+PMC5628943	Results	irf6	c.772_779del	-	-	normal embryonic and craniofacial development	normal embryonic and craniofacial development in homozygous progeny	benign
+PMC5628943	Results	irf6	-8bp deletion	truncated protein to 29 kD	-	periderm rupture phenotype, incomplete periderm differentiation and animal pole/yolk separation	frameshift and premature stop codon, lack of Irf6 full-length or truncated protein	pathogenic
+PMC5628943	Results	irf6	+5bp insertion	-	-	-	-	unknown
+PMC5628943	Results	IRF6	Δ8bp	-	embryonic lethality	periderm rupture, separation of the animal pole structures from the underlying yolk	failed to appropriately initiate epiboly	pathogenic
+PMC5628943	Results	IRF6	5 bp insertion in exon 6	-	embryonic lethality	periderm rupture, separation of the animal pole structures from the underlying yolk	produced the same set of phenotypes as the Δ8bp deletion line	pathogenic
+PMC5628943	Results	IRF6	irf6 Δ8bp	p.Trp264*	-	undetectable irf6 transcripts, undetectable Irf6 protein	irf6 transcript destabilization and degradation in the oocyte cytoplasm	pathogenic
+PMC5628943	Results	IRF6	-	p.F252L	cleft lip/palate (CL/P)	periderm rupture phenotype	unable to rescue the maternal-null irf6 -/- rupture phenotype	likely pathogenic
+PMC5628943	Results	IRF6	-	p.V274I	cleft lip/palate (CL/P)	periderm rupture phenotype	able to rescue the rupture phenotype	benign
+PMC5628943	Results	IRF6	-	-	-	periderm rupture	rescue of periderm rupture phenotype in maternal-null irf6 -/- embryos	unknown
+PMC5628943	Results	IRF6	specific DNA mutation	specific protein mutation	disease	phenotype	pathogenicity reasoning	pathogenicity
+PMC5628943	Results	IRF6	-	p.R45Q	orofacial cleft	-	rescued the periderm rupture phenotype of maternal-null irf6 -/- embryos, but with limited evidence	unknown
+PMC5628943	Results	IRF6	-	p.R45W	orofacial cleft	-	rescued the periderm rupture phenotype of maternal-null irf6 -/- embryos, but with limited evidence	unknown
+PMC5628943	Results	IRF6	-	p.G70R	orofacial cleft	-	rescued the periderm rupture phenotype of maternal-null irf6 -/- embryos, but with limited evidence	unknown
+PMC5628943	Results	IRF6	-	p.V274I	orofacial cleft	-	high allele frequency in ExAC, considered benign by ACMG standards	benign
+PMC5628943	Results	IRF6	-	p.D354N	orofacial cleft	-	non-conserved in zebrafish irf6, found in ExAC/gnomAD database	likely benign
+PMC5628943	Results	IRF6	-	p.F369S	orofacial cleft	-	non-conserved in zebrafish irf6	likely benign
+PMC5628943	Results	IRF6	-	p.V274I	periderm rupture	-	could rescue the periderm rupture phenotype	benign
+PMC5628943	Results	IRF6	-	-	periderm rupture phenotype	periderm rupture, abnormal craniofacial development	retained their biological functions, able to rescue the zebrafish periderm rupture phenotype, permitted normal embryonic development	benign
+PMC5628943	Results	IRF6	-	p.P12L	-	craniofacial abnormalities	rescued by human IRF6 missense gene variant mRNA microinjections	unknown
+PMC5628943	Results	IRF6	-	p.P76L	-	craniofacial abnormalities	rescued by human IRF6 missense gene variant mRNA microinjections	unknown
+PMC5628943	Results	IRF6	-	p.T100A	-	craniofacial abnormalities	rescued by human IRF6 missense gene variant mRNA microinjections	unknown
+PMC5628943	Results	IRF6	-	p.P222L	-	craniofacial abnormalities	rescued by human IRF6 missense gene variant mRNA microinjections	unknown
+PMC5628943	Discussion	IRF6	-	-	orofacial clefts	-	-	unknown
+PMC5628943	Discussion	IRF6	-	p.R45W	Van der Woude Syndrome (VWS)	variable expressivity of phenotypes	rescued maternal-null irf6 -/- periderm rupture and function quantitatively to the same degree as wild type IRF6	likely benign
+PMC5628943	Discussion	IRF6	-	p.R45Q	-	periderm rupture phenotype	retained full function in zebrafish model	likely benign
+PMC5628943	Discussion	IRF6	-	p.R45W	-	periderm rupture phenotype	retained full function in zebrafish model	likely benign
+PMC5628943	Discussion	IRF6	-	p.G70R	-	periderm rupture phenotype	retained full function in zebrafish model	likely benign
+PMC5628943	Discussion	IRF6	-	p.V274I	-	periderm rupture phenotype	retained full function in zebrafish model	likely benign
+PMC5628943	Discussion	IRF6	-	-	Van der Weyden syndrome (VWS)	periderm rupture phenotype	complete loss-of-function	pathogenic
+PMC5628943	Others	IRF6	-	-	-	-	-	unknown
