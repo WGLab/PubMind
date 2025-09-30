@@ -27,4 +27,4 @@ PubMind-DB could be accessed here: https://pubmind.wglab.org/
 
 ## License
 
-PubMind is freely available for academic use. For license details, please refer to [LICENSE.md](this page).
+PubMind is freely available for academic use. For license details, please refer to (LICENSE.md)[this page].
