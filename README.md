@@ -6,7 +6,7 @@ PubMind is a large language model (LLM)-assisted framework for <ins>**Pub**</ins
 PubMind is for academic use. For commercial use please contact CHOP office of technology transfer.
 
 ## Prerequisite
-Please refer to `requirements.txt` for necessary python packages.
+Please refer to `requirements.txt` for required packages.
 
 ## Run PubMind
 Please refer to `run_PubMind.ipynb` for the use of PubMind. All example input and output are in the `example` folder.
@@ -24,3 +24,5 @@ PubMind includes the following steps:
    - MONDO Disease name
    - HPO term
    
+## PubMind-DB
+PubMind-DB could be accessed here: https://pubmind.wglab.org/
