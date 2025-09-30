@@ -3,8 +3,6 @@ PubMind is a large language model (LLM)-assisted framework for <ins>**Pub**</ins
 
 <img width="1095" alt="image" src="https://github.com/user-attachments/assets/fa4717dd-07e6-48d4-8a50-64ecd478b807" />
 
-PubMind is for academic use. For commercial use please contact CHOP office of technology transfer.
-
 ## Prerequisite
 Please refer to `requirements.txt` for required packages.
 
@@ -26,3 +24,7 @@ PubMind includes the following steps:
    
 ## PubMind-DB
 PubMind-DB could be accessed here: https://pubmind.wglab.org/
+
+## License
+
+PubMind is freely available for academic use. For license details, please refer to [LICENSE.md](this page).
