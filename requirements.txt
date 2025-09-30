@@ -1,0 +1,17 @@
+# Core libraries
+pandas>=1.5.0
+numpy>=1.23.0
+torch>=2.0.0
+
+# Hugging Face ecosystem
+transformers>=4.30.0
+sentence-transformers>=2.2.0
+
+# LLM inference
+vllm>=0.3.0
+
+# Bioinformatics
+biopython>=1.81
+pyensembl>=2.2.4
+intervaltree>=3.1.0
+

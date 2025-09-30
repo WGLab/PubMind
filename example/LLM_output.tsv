@@ -1,0 +1,10 @@
+PMID	gene	DNA mutation	protein mutation	disease	phenotype	LLM reasoning	pathogenicity
+22016685	F11	c.1517A>G	p.Asp506Gly	Factor XI deficiency	mild FXI deficiency, prolonged activated partial thromboplastin time, slightly lower FXI activity	novel missense mutation, first genetically confirmed case of mild FXI deficiency in Korea	unknown
+21850008	MT-ND3	T10191C	p.S45P	MELAS	-	novel mutation, affecting mitochondrially encoded complex I	unknown
+21850008	MT-ND4	A11470C	p.K237N	MELAS	-	novel mutation, affecting mitochondrially encoded complex I	unknown
+21850008	MT-ND5	T13046C	p.M237T	MELAS	-	novel mutation, affecting mitochondrially encoded complex I	unknown
+21850008	MT-ND5	-	-	MELAS	-	large-scale deletion involving partial ND5 and ND6 subunits of complex I	unknown
+21850008	MT-TL1	A3243G	-	MELAS	-	most common causal genotype	pathogenic
+21850008	MT-ND5	G13513A	-	MELAS	-	second common gene mutation	likely pathogenic
+22104738	MLYCD	c.920T>G	p.Leu307Arg	malonic aciduria	developmental delay, short stature, brain abnormalities, massive excretion of malonic acid and methylmalonic acid	not found in 100 healthy controls and not previously reported	likely pathogenic
+22104738	MLYCD	exon 1 deletion	-	malonic aciduria	developmental delay, short stature, brain abnormalities, massive excretion of malonic acid and methylmalonic acid	-	likely pathogenic
