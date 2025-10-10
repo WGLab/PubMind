@@ -1,4 +1,4 @@
-# PubMind
+# <img width="180" height="68" alt="PubMind_logo_trim" src="https://github.com/user-attachments/assets/7d796642-cbc9-4d95-b844-68a2dac80947" />
 
 PubMind is a large language model (LLM)-assisted framework for <ins>**Pub**</ins>lication <ins>**M**</ins>utation and <ins>**in**</ins>formation <ins>**D**</ins>iscovery, designed to extract variant–disease–pathogenicity relationships directly from biomedical literature.
 
