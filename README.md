@@ -32,6 +32,10 @@ PubMind frameworkds includes the following modules:
 
 PubMind-DB could be accessed here: https://pubmind.wglab.org/
 
+## Reference (Preprint)
+
+Wang, P. and K. Wang (2025). [PubMind: Literature-Based Genetic Variant Extraction and Functional Annotation Using Large Language Models.](https://www.biorxiv.org/content/10.1101/2025.10.13.682183v1) bioRxiv: 2025.2010.2013.682183.
+
 ## License
 
 PubMind is freely available for academic use. For license details, please refer to [this page](LICENSE.md).
