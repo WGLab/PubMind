@@ -1,0 +1,377 @@
+PMID	GT_Mutations	SETH-tmVar3_Mutations	TP	FP	FN	Total_GT	Total_SETH-tmVar3	Precision	Recall	F1	Accuracy
+12636044	{'c2403T>C', 'c5398T>C', 'c4475C>A', 'Ala1492withanAsp'}	{'Ala1492withanAsp'}	1	0	3	4	1	1.0	0.25	0.4	0.25
+12650796	{'3020insC', 'cysineinsertionatposition3020'}	{'3020insC'}	1	0	1	2	1	1.0	0.5	0.6666666666666666	0.5
+12653841	{'878delA', '1936delG', '1195delC'}	{'878delA', '1936delG', '1195delC'}	3	0	0	3	3	1.0	1.0	1.0	1.0
+12668354	{'44basepairinsertion/deletion'}	set()	0	0	1	1	0	0.0	0.0	0.0	0.0
+12668609	{'A262T'}	{'A262T'}	1	0	0	1	1	1.0	1.0	1.0	1.0
+12673366	{'GCsubstitutionatposition135'}	set()	0	0	1	1	0	0.0	0.0	0.0	0.0
+12701064	{'3basedeletionTCC,either350351or351352codon', '1basedeletion', 'TAC>AAatcodon329', '3basedeletion'}	set()	0	0	4	4	0	0.0	0.0	0.0	0.0
+12716337	{'GCsubstitutionatposition174'}	set()	0	0	1	1	0	0.0	0.0	0.0	0.0
+12719097	{'Cdeletionatnucleotideposition4548', 'terminationatcodon1524'}	set()	0	0	2	2	0	0.0	0.0	0.0	0.0
+12729343	{'469+14G/C', '1729+55del4', 'D543N'}	{'469+14G/C', '1729+55del4', 'D543N'}	3	0	0	3	3	1.0	1.0	1.0	1.0
+12736721	{'192bpinsert'}	set()	0	0	1	1	0	0.0	0.0	0.0	0.0
+12737948	{'251G', 'IVS123T', 'IVS348C', 'IVS10+1,g>t'}	set()	0	0	4	4	0	0.0	0.0	0.0	0.0
+12750403	{'1631delC', '1bpdeletion', '573X'}	{'1631delC'}	1	0	2	3	1	1.0	0.3333333333333333	0.5	0.3333333333333333
+12752111	{'IVSI1G>A', 'codonCD26GAG>GAA', 'IVSI129A>C', 'IVSI5G>C', '13bpdeletion'}	set()	0	0	5	5	0	0.0	0.0	0.0	0.0
+12791036	{'duplicationof17bp', 'R238X', '12851301dup', '615delC'}	{'12851301dup', 'R238X', '615delC'}	3	0	1	4	3	1.0	0.75	0.8571428571428571	0.75
+12809638	{'752758delGCCGGCC', 'R84Q', 'C488R', '25902591insCCCC', '2566T>C'}	{'752758delGCCGGCC', 'R84Q', 'C488R', '25902591insCCCC', '2566T>C'}	5	0	0	5	5	1.0	1.0	1.0	1.0
+12820697	{'P261L', '1009delA', 'A182T', 'V330M'}	{'P261L', '1009delA', 'A182T', 'V330M'}	4	0	0	4	4	1.0	1.0	1.0	1.0
+12829659	{'C174C', 'G308A', '308A', 'G308G', 'C174G'}	{'C174G', 'G308A'}	3	0	2	5	2	1.0	0.6	0.7499999999999999	0.6
+12862311	{'R497X', '791G>T', 'Q1169X', 'R295C'}	{'R295C', '791G>T', 'Q1169X', 'R497X'}	4	0	0	4	4	1.0	1.0	1.0	1.0
+12872254	{'4bpdeletion', '399402delAGAG'}	{'399402delAGAG', '399402del'}	1	0	1	2	2	1.0	0.5	0.6666666666666666	0.5
+12898858	{'A1166C', 'M235T'}	{'A1166C', 'M235T'}	2	0	0	2	2	1.0	1.0	1.0	1.0
+12915397	{'45ntinsertion', 'A55V', 'Ala55Val', '866A', '866G/A'}	{'Ala55Val', 'A55V'}	2	0	3	5	2	1.0	0.4	0.5714285714285715	0.4
+12915882	{'Arg139', 'Tyr113', 'histidinetyrosineatresidue113', 'His113', 'His139', 'argininehistidineatresidue139'}	{'histidinetyrosineatresidue113', 'argininehistidineatresidue139'}	2	0	4	6	2	1.0	0.3333333333333333	0.5	0.3333333333333333
+12925671	{'C877T', '620621del'}	{'C877T'}	1	0	1	2	1	1.0	0.5	0.6666666666666666	0.5
+12925722	{'glycinesubstitutionatcodon154', 'glycineforanasparticacidresidueatcodon262'}	set()	0	0	2	2	0	0.0	0.0	0.0	0.0
+12968672	{'G1739A'}	{'G1739A'}	1	0	0	1	1	1.0	1.0	1.0	1.0
+14508191	{'T/C704', 'A/C1166', 'T/C344'}	{'T/C704', 'A/C1166'}	2	0	1	3	2	1.0	0.6666666666666666	0.8	0.6666666666666666
+14510914	{'lackingthefiveterminalaminoacidsofexonXI439443', 'deletionofthecodingsequencent1314throughnt1328', '15ntduplicating', 'del439443'}	set()	0	0	4	4	0	0.0	0.0	0.0	0.0
+14510916	{'1892G>C', 'A68P'}	{'1892G>C', 'A68P'}	2	0	0	2	2	1.0	1.0	1.0	1.0
+14533983	{'32nucleotidedeletion', 'D32'}	set()	0	0	2	2	0	0.0	0.0	0.0	0.0
+14562027	{'13C/T', '1001C/T', '263G/A', '+142C/G', '+355G/T'}	{'13C/T', '1001C/T', '263G/A', '+142C/G', '+355G/T'}	5	0	0	5	5	1.0	1.0	1.0	1.0
+14568816	{'GATTduplicationnucleotides763766', 'GAmutationatcodon456', 'spcodonatnucleotides766768'}	set()	0	0	3	3	0	0.0	0.0	0.0	0.0
+14576201	{'G5947A', 'deletionofthymidineinapolypyrimidinetractlocated3346bps', 'R1851Q', 'IVS46:delT39...46'}	{'R1851Q', 'G5947A'}	2	0	2	4	2	1.0	0.5	0.6666666666666666	0.5
+14623369	{'C270T'}	{'C270T'}	1	0	0	1	1	1.0	1.0	1.0	1.0
+14639526	{'dup17p11.2p11.2', '2.1kbATrichinvertedrepeats', '4Mbheterozygousinterstitialdeletion'}	set()	0	0	3	3	0	0.0	0.0	0.0	0.0
+14673473	{'Val30Met', 'V30M'}	{'Val30Met', 'V30M'}	2	0	0	2	2	1.0	1.0	1.0	1.0
+14708104	{'spatcodon1129', '33853386delTT', 'F1129X'}	{'33853386delTT', 'F1129X'}	2	0	1	3	2	1.0	0.6666666666666666	0.8	0.6666666666666666
+14709355	{'spcodonatresidue178', '5GCrepeats'}	set()	0	0	2	2	0	0.0	0.0	0.0	0.0
+14722925	{'N34S', '27delC', 'G>Asubstitutionatnucleotide+1ofintron2', '87+1G>A'}	{'N34S', '27delC', '87+1G>A'}	3	0	1	4	3	1.0	0.75	0.8571428571428571	0.75
+14742428	{'H391R', 'S133sp', 'V69G', 'C219W', 'IVS9del[7:4]', '1109ins8bp', 'H156Y'}	{'H391R', 'S133sp', 'V69G', 'C219W', 'H156Y'}	5	0	2	7	5	1.0	0.7142857142857143	0.8333333333333333	0.7142857142857143
+14751036	{'GGCCinsertionatexon8,position1277', 'GGCCinsertionatexon81277', '9+1G>T', '1780C>A', '2084G>A', 'Cinsertioninexon14betweenpositions25052511', '1242G>T', '2068G>C'}	{'2068G>C', '9+1G>T', '1780C>A', '2084G>A', '1242G>T'}	5	0	3	8	5	1.0	0.625	0.7692307692307693	0.625
+14962306	{'M1561', 'V1561M', 'V1561'}	{'V1561M'}	2	0	1	3	1	1.0	0.6666666666666666	0.8	0.6666666666666666
+14979495	{'arginineglutaminesubstitutionatresidue753polymorphism', 'Arg753GLn', 'Arg753Gln', 'arginineglutaminesubstitutionatresidue753'}	{'Arg753GLn', 'Arg753Gln', 'arginineglutaminesubstitutionatresidue753'}	4	0	0	4	3	1.0	1.0	1.0	1.0
+15000256	{'ACsubstitutionatnucleotide879'}	set()	0	0	1	1	0	0.0	0.0	0.0	0.0
+15003823	{'825+2T>C', '10671068ins5bp', '3451G>C', '962GA', '49913Delta14bpindelTGA', '825+1G>C', '181G>C', '498+15G>T', '26761del8bp', '1067delA', '33+2T>C'}	{'825+2T>C', '3451G>C', '10671068ins5', '825+1G>C', '181G>C', '498+15G>T', '33+2T>C', '1067delA', '26761del8'}	9	0	2	11	9	1.0	0.8181818181818182	0.9	0.8181818181818182
+15009222	{'C435G', 'del329C', 'singlenucleotidedeletionatposition329'}	{'C435G'}	1	0	2	3	1	1.0	0.3333333333333333	0.5	0.3333333333333333
+15018851	{'L501I', 'N495K'}	{'L501I', 'N495K'}	2	0	0	2	2	1.0	1.0	1.0	1.0
+15033202	{'5nucleotidedeletion'}	set()	0	0	1	1	0	0.0	0.0	0.0	0.0
+15041272	{'CTtransitionatnucleotide3916', 'Arg1306Trp', 'R1306W'}	{'Arg1306Trp', 'R1306W'}	2	0	1	3	2	1.0	0.6666666666666666	0.8	0.6666666666666666
+15064320	{'Tdel219', 'R227Q', 'Tnucleotidedeletion,whichpredictsaframeshiftmutationfromcodon219'}	{'R227Q'}	1	0	2	3	1	1.0	0.3333333333333333	0.5	0.3333333333333333
+15069170	{'IVS16+1G>A', '1932delC', 'Met1Leu', '1930C>T', '7A>T', 'Arg642Cys', 'Ala569Val', 'Thr60Met', '1712C>T', '2552T>A', '11811186+20del26', '185C>T', 'Leu849His', '18111812delAT', '96bpinsertion'}	{'IVS16+1G>A', '1932delC', 'Met1Leu', '1930C>T', '7A>T', 'Arg642Cys', 'Ala569Val', '185C>T', '11811186+20del26', '2552T>A', '1712C>T', '18111812delAT', 'Leu849His', 'Thr60Met'}	14	0	1	15	14	1.0	0.9333333333333333	0.9655172413793104	0.9333333333333333
+15086325	{'IVS82A>G', 'G6410T', 'Gly2079Val', '22389delAG'}	{'G6410T', 'IVS82A>G', '22389delAG', '2A>G', 'Gly2079Val'}	4	0	0	4	5	1.0	1.0	1.0	1.0
+15086338	{'5504delA', '6573+1G>C'}	{'5504delA', '6573+1G>C'}	2	0	0	2	2	1.0	1.0	1.0	1.0
+15111599	{'279delGAG', 'IVS3+1G/A', '3bpdeletion', 'deletionofglycine91', 'DeltaG91'}	{'279delGAG', 'IVS3+1G/A', 'DeltaG91'}	3	0	2	5	3	1.0	0.6	0.7499999999999999	0.6
+15122708	{'del92nucleotide19/+73'}	set()	0	0	1	1	0	0.0	0.0	0.0	0.0
+15122711	{'Glu873Sp', 'Ala467Thr', 'G1681A'}	{'Glu873Sp', 'Ala467Thr', 'G1681A'}	3	0	0	3	3	1.0	1.0	1.0	1.0
+15135245	{'R3531C', 'His3543Tyr', 'R3500W', 'R3500Q', 'R3480W', 'H3543Y', 'Arg3500Gln', 'CAC3543TAC'}	{'R3531C', 'His3543Tyr', 'R3500W', 'R3500Q', 'R3480W', 'H3543Y', 'Arg3500Gln'}	7	0	1	8	7	1.0	0.875	0.9333333333333333	0.875
+15147378	{'36bpinsertion'}	set()	0	0	1	1	0	0.0	0.0	0.0	0.0
+15148206	{'429A>C', 'duplicationof27nucleotides', '1222ins27', '27bpduplicationwasfoundinsertedinthe2Bdomainatnucleotideposition1222', '27bpinsertion', 'Arg135Ser'}	{'1222ins27', '429A>C', 'Arg135Ser'}	3	0	3	6	3	1.0	0.5	0.6666666666666666	0.5
+15191352	{'I280S', '1123T>G'}	{'I280S', '1123T>G'}	2	0	0	2	2	1.0	1.0	1.0	1.0
+15198485	{'134delA', 'Lys198Asn', 'LysAsnatposition198'}	{'134delA', 'Lys198Asn', 'LysAsnatposition198'}	3	0	0	3	3	1.0	1.0	1.0	1.0
+15200408	{'Pro154Ala', 'Ala7Val'}	{'Pro154Ala', 'Ala7Val'}	2	0	0	2	2	1.0	1.0	1.0	1.0
+15200509	{'cysineCforguanineGatcodon246', 'spcodonatthe246residue', 'Tyr246X'}	{'Tyr246X'}	1	0	2	3	1	1.0	0.3333333333333333	0.5	0.3333333333333333
+15205584	{'W486C'}	{'W486C'}	1	0	0	1	1	1.0	1.0	1.0	1.0
+15272913	{'306basepairinsertion'}	set()	0	0	1	1	0	0.0	0.0	0.0	0.0
+15304120	{'Y486D', 'P229Q', '1091C>T', 'P364L', 'G71R'}	{'Y486D', 'P229Q', '1091C>T', 'P364L', 'G71R'}	5	0	0	5	5	1.0	1.0	1.0	1.0
+15316799	{'352G', '15T>C', '+45CC', 'intron3,+45C>T', '352asGGorGA', 'Phe>Seratcodon15', 'intron4,+718C>T', 'intron2,352G>A'}	{'+718C>T', '15T>C', '352G>A', '+45C>T'}	5	0	3	8	4	1.0	0.625	0.7692307692307693	0.625
+15377356	{'18772A>C', '3432delT'}	{'18772A>C', '3432delT'}	2	0	0	2	2	1.0	1.0	1.0	1.0
+15459183	{'13nucleotiderepeat', '232Ile', 'Ile232Thr', '4bpdeletion', '232Thr'}	{'Ile232Thr'}	2	0	3	5	1	1.0	0.4	0.5714285714285715	0.4
+15461822	{'Delta304995', '30nucleotidedeletion', 'Delta30'}	set()	0	0	3	3	0	0.0	0.0	0.0	0.0
+15464247	{'4bpinsertion/deletion', '1188A/C', '1188C'}	set()	0	0	3	3	0	0.0	0.0	0.0	0.0
+15481887	{'codon29,GGC>AGC', 'codon26,GAG>GCG'}	set()	0	0	2	2	0	0.0	0.0	0.0	0.0
+15485686	{'V1764M', 'I1762A', 'G>Asubstitutionatcodon1763', 'V1763M'}	{'V1764M', 'I1762A', 'V1763M'}	3	0	1	4	3	1.0	0.75	0.8571428571428571	0.75
+15579915	{'IVS10+4G'}	set()	0	0	1	1	0	0.0	0.0	0.0	0.0
+15607529	{'tyrosinecodoninaspcodonatcodon612', 'TGtransversionatnucleotide1836'}	set()	0	0	2	2	0	0.0	0.0	0.0	0.0
+15609295	{'changesasparagine86foralanineandeliminatesaminoacids87,88,and89arginine,threonine,andproline', 'asparagineAACforserineAGCatresidue45', 'Asn45Ser', 'ninenucleotidedeletionstartingatposition1952'}	{'asparagine86foralanine', 'Asn45Ser'}	2	0	2	4	2	1.0	0.5	0.6666666666666666	0.5
+15623763	{'Val624Val625del', 'histidine626arginine', 'His626Arg', 'leucine269phenylalanine', 'arginine555trypphan', 'Leu269Phe', 'Val539Asp', 'Arg124Leu', 'valine539asparticacid', 'Arg124Cys', 'Gly594Val', 'deletionofvaline624,valine625', 'arginine124cysteine', 'Arg555Trp', 'glycine594valine'}	{'histidine626arginine', 'His626Arg', 'leucine269phenylalanine', 'arginine555trypphan', 'Leu269Phe', 'Val539Asp', 'Arg124Leu', 'valine539asparticacid', 'Arg124Cys', 'Gly594Val', 'arginine124cysteine', 'Arg555Trp', 'glycine594valine'}	13	0	2	15	13	1.0	0.8666666666666667	0.9285714285714286	0.8666666666666667
+15636431	{'TCsubstitutionatposition1833'}	set()	0	0	1	1	0	0.0	0.0	0.0	0.0
+15642853	{'R396G', 'G284R'}	{'R396G', 'G284R'}	2	0	0	2	2	1.0	1.0	1.0	1.0
+15649253	{'L50R'}	{'L50R'}	1	0	0	1	1	1.0	1.0	1.0	1.0
+15661214	{'guanineinsertion2Gpolymorphismatnucleotide1607'}	set()	0	0	1	1	0	0.0	0.0	0.0	0.0
+15667541	{'g.3907G>A', 'Glu29Lys', 'E29K'}	{'E29K', 'Glu29Lys'}	2	0	1	3	2	1.0	0.6666666666666666	0.8	0.6666666666666666
+15668505	{'203G>A', '203A', 'N372H'}	{'203G>A', 'N372H'}	2	0	1	3	2	1.0	0.6666666666666666	0.8	0.6666666666666666
+15672026	{'A>Gpolymorphismatposition670', 'adenineAguanineGsubstitutionatposition670'}	set()	0	0	2	2	0	0.0	0.0	0.0	0.0
+15680411	{'R399Q', 'T241M', 'GACTAnmicrosatellitelocated120kb', 'R194W', 'I134T'}	{'T241M', 'R399Q', 'R194W', 'I134T'}	4	0	1	5	4	1.0	0.8	0.888888888888889	0.8
+15710861	{'F219V'}	{'F219V'}	1	0	0	1	1	1.0	1.0	1.0	1.0
+15749661	{'V561X', 'L490R', '1665delC', '1469T>G', 'AVAQ594597deletion', '714C', 'C282Y', 'I238M'}	{'V561X', 'L490R', '1665delC', '1469T>G', 'C282Y', 'I238M'}	6	0	2	8	6	1.0	0.75	0.8571428571428571	0.75
+15754732	{'835del18', 'Q536X', 'R171Q', '912delTA', 'D418D', '222insT', 'P291A', 'L89R'}	{'835del18', 'Q536X', 'R171Q', '912delTA', '222insT', 'P291A', 'L89R'}	7	0	1	8	7	1.0	0.875	0.9333333333333333	0.875
+15755837	{'19basepairdeletion'}	set()	0	0	1	1	0	0.0	0.0	0.0	0.0
+15768551	{'GTT>GCTtransitionatcodon23'}	set()	0	0	1	1	0	0.0	0.0	0.0	0.0
+15770495	{'Q126R', 'del642T', 'R266W', 'A49T', 'G196S', 'A207D', 'G183S', '217218insC', 'V89L', 'del418T', 'R246W', 'IVS3+1G>A', 'G158R'}	{'Q126R', 'R266W', 'A49T', 'A207D', 'G196S', 'G183S', '217218insC', 'V89L', 'R246W', 'IVS3+1G>A', 'G158R'}	11	0	2	13	11	1.0	0.8461538461538461	0.9166666666666666	0.8461538461538461
+15807692	{'3472delC', 'IVS51+1G>A'}	{'3472delC', '1G>A', 'IVS51+1G>A'}	2	0	0	2	3	1.0	1.0	1.0	1.0
+15818664	{'143bpTC', '+14bpCT', '4bpGA', '4basepairGA'}	set()	0	0	4	4	0	0.0	0.0	0.0	0.0
+15820770	{'GAT>GAGsubstitutionreplacesasparticacidglutamicacidincodon416', 'ACG>AAGsubstitutionincodon420'}	set()	0	0	2	2	0	0.0	0.0	0.0	0.0
+15824163	{'rs1639679'}	{'rs1639679'}	1	0	0	1	1	1.0	1.0	1.0	1.0
+15834874	{'G1915T/A', 'G529A', 'C3026T', 'A1053G', 'C934A', 'T2005C/A'}	{'T2005C', 'G529A', 'C3026T', 'A1053G', 'G1915T', 'C934A'}	6	0	0	6	6	1.0	1.0	1.0	1.0
+15837627	{'V617F'}	set()	0	0	1	1	0	0.0	0.0	0.0	0.0
+15851735	{'2607C>A'}	{'2607C>A'}	1	0	0	1	1	1.0	1.0	1.0	1.0
+15867855	{'157delMTTTVP', 'rs2277025'}	{'rs2277025'}	1	0	1	2	1	1.0	0.5	0.6666666666666666	0.5
+15880727	{'A150P', '865delC', '841842delAC', '1131G>A', '851T>C', '612T>G', '360363delCAAA', 'N335K', 'A175D', '532T>C', 'L284P', 'C178R', 'R60X', '10441049delTTCTGGinsACACT', '345372del28', '799+2T>A', 'Y204X'}	{'A150P', '1131G>A', '841842delAC', '851T>C', '865delC', '612T>G', '360363delCAAA', 'N335K', 'A175D', '532T>C', 'L284P', 'C178R', 'R60X', '10441049delTTCTGGinsACACT', '345372del28', '799+2T>A', 'Y204X'}	17	0	0	17	17	1.0	1.0	1.0	1.0
+15929706	{'3bpinsertion', '3basepairinsertion'}	set()	0	0	2	2	0	0.0	0.0	0.0	0.0
+15983230	{'rs5393'}	{'rs5393'}	1	0	0	1	1	1.0	1.0	1.0	1.0
+16000134	{'Glu272sp', 'Tinsertionat7916and7917'}	{'Glu272sp'}	1	0	1	2	1	1.0	0.5	0.6666666666666666	0.5
+16005363	{'AFF344345ins'}	set()	0	0	1	1	0	0.0	0.0	0.0	0.0
+16018252	{'AwasreplacedaGincodon38', 'TAtransitionatthenucleotideposition+387'}	set()	0	0	2	2	0	0.0	0.0	0.0	0.0
+16046395	{'A118', 'A118G', 'adenosine,guanosine,cytidine,andthymidineinposition118', 'G118', 'N40D'}	{'A118G', 'N40D'}	3	0	2	5	2	1.0	0.6	0.7499999999999999	0.6
+16051693	{'Met/Metatresidue175', 'V175M'}	{'V175M'}	1	0	1	2	1	1.0	0.5	0.6666666666666666	0.5
+16088915	{'arginineataminoacid792acodonforglycine', 'Arg792Gly', 'AGtransitionatnucleotide+79'}	{'Arg792Gly'}	1	0	2	3	1	1.0	0.3333333333333333	0.5	0.3333333333333333
+16120104	{'111G', 'C1228T', 'G3853A', 'C111G'}	{'C1228T', 'G3853A', 'C111G'}	4	0	0	4	3	1.0	1.0	1.0	1.0
+16143638	{'IVS25855insT'}	set()	0	0	1	1	0	0.0	0.0	0.0	0.0
+16152606	{'R215W', '643C>T', '657del5'}	{'R215W', '643C>T', '657del5'}	3	0	0	3	3	1.0	1.0	1.0	1.0
+16157158	{'Cys23Ser', 'Cys23Ser23'}	{'Cys23Ser'}	2	0	0	2	1	1.0	1.0	1.0	1.0
+16159638	{'15bpinsertion/deletion'}	set()	0	0	1	1	0	0.0	0.0	0.0	0.0
+16167150	{'ins/del;45bpand3bp', '45bpins/del', 'Ala55Val', '3bpins/del', '866G/A'}	{'Ala55Val', '866G/A'}	2	0	3	5	2	1.0	0.4	0.5714285714285715	0.4
+16181814	{'E873sp', 'A467T', 'E873TAG'}	{'E873sp', 'A467T'}	2	0	1	3	2	1.0	0.6666666666666666	0.8	0.6666666666666666
+16186368	{'K386T', '15bpdeletion', 'S482X'}	{'K386T', 'S482X'}	2	0	1	3	2	1.0	0.6666666666666666	0.8	0.6666666666666666
+16211251	{'Glu4Lys', '10G>A'}	{'Glu4Lys', '10G>A'}	2	0	0	2	2	1.0	1.0	1.0	1.0
+16216473	{'C>TtransversionatcDNAbase463', 'P155S', 'C463T', 'prolineserinesubstitutionatcodon155'}	{'P155S', 'C463T', 'prolineserinesubstitutionatcodon155'}	3	0	1	4	3	1.0	0.75	0.8571428571428571	0.75
+16252083	{'G>Atransitionat1032position', 'Gly>Aspchangeatcodon322', 'Gly322Asp', 'Asn127Ser', 'Asn>Sersubstitutionatcodon127', 'A>Gtransitionat127position'}	{'Asn127Ser', 'Gly322Asp'}	2	0	4	6	2	1.0	0.3333333333333333	0.5	0.3333333333333333
+16256386	{'R157K', 'IVS12+4A>G', 'R413P', 'L367L', 'IVS4+3G>C', 'Y154H', 'R157I', 'R243Q', 'Q267E', 'I38fsX19', 'F302fsX39', 'R111X', 'G346R', 'Y356X', 'S349A', 'EX696A>G', 'IVS12+6T>A', 'Q267H', 'R400K', 'T200fsX6'}	{'R243Q', 'Y356X', 'S349A', 'IVS12+4A>G', 'Q267E', 'R413P', 'R157K', 'I38fsX19', 'F302fsX39', 'R400K', 'IVS4+3G>C', 'Q267H', 'IVS12+6T>A', 'R111X', 'G346R', 'Y154H', 'T200fsX6', 'R157I'}	18	0	2	20	18	1.0	0.9	0.9473684210526316	0.9
+16277682	{'M404V', 'methionine>valinesubstitutionatcodon404'}	{'M404V', 'methionine>valinesubstitutionatcodon404'}	2	0	0	2	2	1.0	1.0	1.0	1.0
+16288197	{'Q48H', '144G>A'}	{'144G>A', 'Q48H'}	2	0	0	2	2	1.0	1.0	1.0	1.0
+16288199	{'CCTTT13', 'CCTTT10', 'CCTTT14'}	set()	0	0	3	3	0	0.0	0.0	0.0	0.0
+16321363	{'338G>A', 'deletion1012Mb', 'del1p31.2p32.3'}	{'338G>A'}	1	0	2	3	1	1.0	0.3333333333333333	0.5	0.3333333333333333
+16379540	{'del14b17b', 'D110H', '4002A>G', 'S589N'}	{'D110H', 'S589N'}	2	0	2	4	2	1.0	0.5	0.6666666666666666	0.5
+16410744	{'codon787CAG/CAA'}	set()	0	0	1	1	0	0.0	0.0	0.0	0.0
+16418600	{'457458insG', 'F366L'}	{'457458insG', 'F366L'}	2	0	0	2	2	1.0	1.0	1.0	1.0
+16419642	{'S810L', 'L809L', 'F826Y'}	{'S810L', 'F826Y'}	2	0	1	3	2	1.0	0.6666666666666666	0.8	0.6666666666666666
+16424663	{'deletionofcDNAnucleotide81', 'nt81Gdeletion'}	set()	0	0	2	2	0	0.0	0.0	0.0	0.0
+16480574	{'30bpdeleted', '30bpdeletioncodon:346355'}	set()	0	0	2	2	0	0.0	0.0	0.0	0.0
+16506214	{'+8365C/T', '+3100T/G'}	{'+8365C/T', '+3100T/G'}	2	0	0	2	2	1.0	1.0	1.0	1.0
+16525586	{'Tyr69X', '892895dupG', 'Tyr547fs', 'Ser413Leu', '20451G>A', '16421644dupA', 'Ser263Phe', 'Arg260His', '210T>G', '791C>T', 'Val414Phe', 'Ser290/Ala291fs'}	{'Tyr69X', '892895dupG', 'Ser413Leu', '16421644dupA', 'Ser263Phe', 'Arg260His', 'Val414Phe'}	7	0	5	12	7	1.0	0.5833333333333334	0.7368421052631579	0.5833333333333334
+16543197	{'G1103R'}	{'G1103R'}	1	0	0	1	1	1.0	1.0	1.0	1.0
+16575011	{'1494del6'}	{'1494del6'}	1	0	0	1	1	1.0	1.0	1.0	1.0
+16601880	{'2838+5G>A', 'V705M', '23161G>A', 'C644F', '2422delA', '14021C>G', 'G171A', 'H651R', 'T187K', 'G771R', 'E270X', '28delC', 'N732K', 'Y138F', '2186delC', '1175delC', 'R236X', 'T269M', 'S957P', 'R373W', 'H775R', '12851286insCAAA', 'T830M', 'I440N', '10021003insT', 'R461Q', 'R212K', 'A841P', 'R424X', '861+1G>T', 'N533Y', 'R966G', '2919+1G>A', '21532155delinsTCCTGGTTTA', 'R337X', 'S132W', 'E153X', 'D880V'}	{'V705M', 'C644F', '2422delA', 'G171A', 'H651R', 'T187K', 'G771R', 'E270X', '28delC', 'N732K', 'Y138F', '2186delC', '1175delC', 'R236X', 'T269M', 'S957P', 'R373W', 'T830M', '12851286insCAAA', 'H775R', 'I440N', '10021003insT', 'R212K', 'R461Q', 'A841P', 'R966G', 'R424X', 'N533Y', '21532155delinsTCCTGGTTTA', 'R337X', 'S132W', 'E153X', 'D880V'}	33	0	5	38	33	1.0	0.868421052631579	0.9295774647887324	0.868421052631579
+16628674	{'V1188E'}	{'V1188E'}	1	0	0	1	1	1.0	1.0	1.0	1.0
+16644711	{'Tyr1306', 'Cys1306', 'Tyr1306Cys'}	{'Tyr1306Cys'}	2	0	1	3	1	1.0	0.6666666666666666	0.8	0.6666666666666666
+16723031	{'1494del6', '28bptandemrepeat', '6bpdeletion/insertion', 'del6'}	{'1494del6'}	2	0	2	4	1	1.0	0.5	0.6666666666666666	0.5
+16728705	{'863C>A', 'C>Asubstitutionatposition863'}	set()	0	0	2	2	0	0.0	0.0	0.0	0.0
+16781314	{'888delC', 'deletionofCatnucleotide888'}	{'888delC'}	1	0	1	2	1	1.0	0.5	0.6666666666666666	0.5
+16822828	{'Y329fs', 'V311fs', '8bpnucleotideTTAAATGGdeletion', 'D487S488F489deletion', 'TAC>AAatcodon329'}	{'V311fs', 'Y329fs'}	2	0	3	5	2	1.0	0.4	0.5714285714285715	0.4
+16838170	{'rs1884614', 'rs2144908', 'rs3818247', 'rs4810424', 'rs2071197'}	{'rs1884614', 'rs2144908', 'rs3818247', 'rs4810424', 'rs2071197'}	5	0	0	5	5	1.0	1.0	1.0	1.0
+16840830	{'AGtransitionatcodon557AAG>GAG', 'mutationatcodon418ofexon9GAC>TAT'}	set()	0	0	2	2	0	0.0	0.0	0.0	0.0
+16843501	{'G>Ctransversionat1245position', 'Ser326Cys', 'G>Csubstitutionatposition135', 'Ser>Cyssubstitutionatthecodon326', 'G135C', 'Ser1245Cys'}	{'Ser326Cys', 'G135C', 'Ser1245Cys'}	3	0	3	6	3	1.0	0.5	0.6666666666666666	0.5
+16849419	{'101bpdeletion', '85bpdeletion'}	set()	0	0	2	2	0	0.0	0.0	0.0	0.0
+16911351	{'3bpdeletion', '904906delGAG', '646G>C', 'Asp216His'}	{'904906delGAG', 'Asp216His'}	2	0	2	4	2	1.0	0.5	0.6666666666666666	0.5
+16953235	{'I11T', '32T', '32C>T', 'T11'}	{'I11T', '32C>T'}	2	0	2	4	2	1.0	0.5	0.6666666666666666	0.5
+16970763	{'His43Arg', 'Leu103Val', '14bpdeletion'}	{'His43Arg', 'Leu103Val'}	2	0	1	3	2	1.0	0.6666666666666666	0.8	0.6666666666666666
+16989765	{'His158Arg', 'histidine158'}	{'His158Arg'}	1	0	1	2	1	1.0	0.5	0.6666666666666666	0.5
+17000021	{'Walleleatcodon620', '+1858C>T', 'rs2488457', 'R620W', 'Ralleleatcodon620', 'rs2476601', '1123G>C', '+2740A>G', 'rs1217412'}	{'+1858C>T', 'rs2488457', 'R620W', 'rs2476601', '1123G>C', 'rs1217412'}	6	0	3	9	6	1.0	0.6666666666666666	0.8	0.6666666666666666
+17002658	{'g.1043510809del', 'Arg4', 'R4Q', 'g.1755G>A'}	{'g.1043510809del'}	1	0	3	4	1	1.0	0.25	0.4	0.25
+17003357	{'2250G/C', '1858C/T', '1858T'}	{'2250G/C', '1858C/T'}	2	0	1	3	2	1.0	0.6666666666666666	0.8	0.6666666666666666
+17003923	{'536C>T', '675insertion/deletion', '455G>A', '20210G>A', '4070A>G', 'Arg353Gln', 'Val34Leu', '127G>A', '807C>T', '1601G>A', '677C>T', '1691G>A'}	{'536C>T', '455G>A', '20210G>A', '4070A>G', 'Arg353Gln', 'Val34Leu', '127G>A', 'V1691G>A', '807C>T', 'V4070A>G', '1601G>A', '677C>T', '1691G>A'}	11	0	1	12	13	1.0	0.9166666666666666	0.9565217391304348	0.9166666666666666
+17033974	{'2406C>A'}	set()	0	0	1	1	0	0.0	0.0	0.0	0.0
+17050029	{'prolineserinesubstitutionatcodon38'}	{'prolineserinesubstitutionatcodon38'}	1	0	0	1	1	1.0	1.0	1.0	1.0
+17059986	{'serineleucineataminoacidposition555', '2633+1G>C', 'r.25212634del', 'Ser555Leu'}	{'2633+1G>C', 'r.25212634del', 'Ser555Leu'}	3	0	1	4	3	1.0	0.75	0.8571428571428571	0.75
+17065190	{'rs3917887', 'rs2857657', 'rs13900', 'rs4586'}	{'rs3917887', 'rs2857657', 'rs13900', 'rs4586'}	4	0	0	4	4	1.0	1.0	1.0	1.0
+17065479	{'7.36kbhomozygousdeletion'}	set()	0	0	1	1	0	0.0	0.0	0.0	0.0
+17079875	{'1282G>A', '2084G>C'}	{'1282G>A', '2084G>C'}	2	0	0	2	2	1.0	1.0	1.0	1.0
+17083016	{'glutaminewithlysineatresidue223', 'lysineatresidue223'}	{'glutaminewithlysineatresidue223'}	2	0	0	2	1	1.0	1.0	1.0	1.0
+17160997	{'22bptandemduplication', '22basepairduplication'}	set()	0	0	2	2	0	0.0	0.0	0.0	0.0
+17166870	{'6bINS', '6baseinsertion'}	set()	0	0	2	2	0	0.0	0.0	0.0	0.0
+17169596	{'671G>A'}	{'671G>A'}	1	0	0	1	1	1.0	1.0	1.0	1.0
+17177139	{'glutamicacid333asparticacid', '1284A>C', 'E333D'}	{'glutamicacid333asparticacid', '1284A>C', 'E333D'}	3	0	0	3	3	1.0	1.0	1.0	1.0
+17192049	{'T3801C', 'Ile462Val'}	{'Ile462Val', 'T3801C'}	2	0	0	2	2	1.0	1.0	1.0	1.0
+17221831	{'serineglycineatposition51', 'G51S'}	{'serineglycineatposition51', 'G51S'}	2	0	0	2	2	1.0	1.0	1.0	1.0
+17250663	{'D572N', 'G1714C', 'D572H', 'G1714A'}	{'D572N', 'D572H'}	2	0	2	4	2	1.0	0.5	0.6666666666666666	0.5
+17250667	{'Adeletionincodon242', 'Cdeletionincodon241'}	set()	0	0	2	2	0	0.0	0.0	0.0	0.0
+17273972	{'H194Q'}	{'H194Q'}	1	0	0	1	1	1.0	1.0	1.0	1.0
+17292585	{'N334K', 'Delta4E4', 'A149P', 'A174D'}	{'N334K', 'A149P', 'A174D'}	3	0	1	4	3	1.0	0.75	0.8571428571428571	0.75
+17311329	{'30bpdeletion'}	set()	0	0	1	1	0	0.0	0.0	0.0	0.0
+17327131	{'1bpinsertion', '1415insC', 'Asp218Asn', 'Gln266His'}	{'1415insC', 'Asp218Asn', 'Gln266His'}	3	0	1	4	3	1.0	0.75	0.8571428571428571	0.75
+17372760	{'L638P', 'L638', 'IVS101G>A'}	{'L638P', 'IVS101G>A'}	3	0	0	3	2	1.0	1.0	1.0	1.0
+17391797	{'Val175Met', 'V175M'}	{'Val175Met', 'V175M'}	2	0	0	2	2	1.0	1.0	1.0	1.0
+17392687	{'12nucleotideinframedeletion'}	set()	0	0	1	1	0	0.0	0.0	0.0	0.0
+17395743	{'rs2720709', 'rs2648875'}	{'rs2720709', 'rs2648875'}	2	0	0	2	2	1.0	1.0	1.0	1.0
+17426470	{'adenosinedeletionatposition5772'}	set()	0	0	1	1	0	0.0	0.0	0.0	0.0
+17495183	{'rs2073163', 'rs5966709', 'rs1155974', 'rs4828037', 'rs2073162', 'rs11798018', 'rs1155794'}	{'rs2073163', 'rs5966709', 'rs1155974', 'rs4828037', 'rs2073162', 'rs11798018', 'rs1155794'}	7	0	0	7	7	1.0	1.0	1.0	1.0
+17549393	{'Y67X', '201C>A', 'tyrosinecodonataminoacidposition67inasp'}	{'Y67X', '201C>A'}	2	0	1	3	2	1.0	0.6666666666666666	0.8	0.6666666666666666
+17595233	{'D299G', 'P631H'}	{'D299G', 'P631H'}	2	0	0	2	2	1.0	1.0	1.0	1.0
+17615540	{'C260T', 'T87M', 'threonineatposition87methionine'}	{'C260T', 'T87M', 'threonineatposition87methionine'}	3	0	0	3	3	1.0	1.0	1.0	1.0
+17628794	{'valineValalanineAlasubstitutionataminoacid16'}	set()	0	0	1	1	0	0.0	0.0	0.0	0.0
+17634480	{'rs713041', 'rs757229'}	{'rs713041', 'rs757229'}	2	0	0	2	2	1.0	1.0	1.0	1.0
+17635946	{'T>Csubstitutionatposition2209', 'phenylalanineFleucineLsubstitutionataminoacidposition737', 'F737L'}	set()	0	0	3	3	0	0.0	0.0	0.0	0.0
+17671735	{'357C>T', '35delG', '3170G>A', '94C>T', 'DeltaGJB6D13S1830', 'R127H', 'R32W', '798C>T'}	{'357C>T', '35delG', '3170G>A', '94C>T', 'R127H', 'R32W', '798C>T'}	7	0	1	8	7	1.0	0.875	0.9333333333333333	0.875
+17683901	{'GAorGCsubstitutionatnucleotideposition1138', '1138G>C', 'G380R', '1138G>A'}	{'1138G>A', '1138G>C', 'G380R'}	3	0	1	4	3	1.0	0.75	0.8571428571428571	0.75
+17710578	{'A1166C'}	{'A1166C'}	1	0	0	1	1	1.0	1.0	1.0	1.0
+17868390	{'spcodonatposition372', 'IVS8+4A>G'}	{'IVS8+4A>G'}	1	0	1	2	1	1.0	0.5	0.6666666666666666	0.5
+17876530	{'Delta32', '32bpdeletion'}	set()	0	0	2	2	0	0.0	0.0	0.0	0.0
+17909797	{'Delta32', '32bpdeletion'}	set()	0	0	2	2	0	0.0	0.0	0.0	0.0
+17910065	{'C139T', 'R47W'}	{'C139T', 'R47W'}	2	0	0	2	2	1.0	1.0	1.0	1.0
+17935240	{'AGdeletionatnucleotide652and653', 'g.ORF15+652653delAG'}	{'652653delAG'}	1	0	1	2	1	1.0	0.5	0.6666666666666666	0.5
+17951029	{'G>Tsubstitutionatnucleotidec.898', 'E300X'}	{'E300X'}	1	0	1	2	1	1.0	0.5	0.6666666666666666	0.5
+17959715	{'rs1800734'}	{'rs1800734'}	1	0	0	1	1	1.0	1.0	1.0	1.0
+17961316	{'IVS11G>A', 'IVS11G>C'}	{'IVS11G>A', 'IVS11G>C'}	2	0	0	2	2	1.0	1.0	1.0	1.0
+17962394	{'686C>G', 'R229G', 'arginineataminoacidposition229glycine'}	{'686C>G', 'R229G'}	2	0	1	3	2	1.0	0.6666666666666666	0.8	0.6666666666666666
+17962469	{'6baseinframeduplication'}	set()	0	0	1	1	0	0.0	0.0	0.0	0.0
+17968299	{'Aatposition1082', '1082G/A'}	set()	0	0	2	2	0	0.0	0.0	0.0	0.0
+17990063	{'T3708fs3769'}	{'T3708fs'}	1	0	0	1	1	1.0	1.0	1.0	1.0
+18046082	{'prolineresidueforarginineresidueatposition150', 'arginine150proline', 'GCpointmutationinexon4base308'}	{'arginine150proline'}	1	0	2	3	1	1.0	0.3333333333333333	0.5	0.3333333333333333
+18050247	{'C203S', 'N673S'}	{'C203S', 'N673S'}	2	0	0	2	2	1.0	1.0	1.0	1.0
+18164595	{'2bpdeletion', '3097delG', 'N970S', 'AGtransitionatnucleotide276', '178283delAG'}	{'3097delG', 'N970S', '178283delAG'}	3	0	2	5	3	1.0	0.6	0.7499999999999999	0.6
+18166824	{'M200V', 'P29S', 'prolinewithapolaraminoacidserineatposition29'}	{'M200V', 'P29S'}	2	0	1	3	2	1.0	0.6666666666666666	0.8	0.6666666666666666
+18189233	{'20bpinsertion/deletionpolymorphism1,109bpupstreamoftheinitiationcodon', 'K294E', 'D541E', 'R462Q', 'A/Gtransition1,071bp'}	{'D541E', 'R462Q', 'K294E'}	3	0	2	5	3	1.0	0.6	0.7499999999999999	0.6
+18202102	{'deletiona2.5Mb'}	set()	0	0	1	1	0	0.0	0.0	0.0	0.0
+18241046	{'g.203A>C'}	{'g.203A>C', '1:g.203A>C'}	1	0	0	1	2	1.0	1.0	1.0	1.0
+18257781	{'F482C', '1445T>G', 'phenylalaninethepolarhydrophiliccysteineinexon6atcodon482', 'IVS212delAG'}	{'F482C'}	1	0	3	4	1	1.0	0.25	0.4	0.25
+18266724	{'Thr105Ile', 'C314T'}	{'Thr105Ile', 'C314T'}	2	0	0	2	2	1.0	1.0	1.0	1.0
+18270997	{'G472A', 'Val158Met'}	{'G472A', 'Val158Met'}	2	0	0	2	2	1.0	1.0	1.0	1.0
+18272172	{'2398+1G>C', 'insertionof18aminoacids'}	{'2398+1G>C'}	1	0	1	2	1	1.0	0.5	0.6666666666666666	0.5
+18372165	{'899+1G>T', 'Arg153X', '1570+2T>C', '956delC', '681dupA', '360+1G>C', '520delC'}	{'899+1G>T', 'Arg153X', '1570+2T>C', '956delC', '681dupA', '360+1G>C', '520delC'}	7	0	0	7	7	1.0	1.0	1.0	1.0
+18385169	{'guanineadeninesubstitutionofnucleotide308', '308adenine', '252A>G', '308G>A'}	{'252A>G', '308G>A'}	2	0	2	4	2	1.0	0.5	0.6666666666666666	0.5
+18385794	{'471C>T', '310G>T', 'Ser157Ser', 'rs11915160', '549delC', 'Pro184ArgfsX19', '*557G>A', 'Gln193Gln', 'rs35435463', '*469C>A', '871G>A', 'Glu104X', 'Asp291Asn', '579G>A'}	{'Ser157Ser', 'rs11915160', '549delC', '*557G>A', 'rs35435463', '*469C>A', 'Glu104X', 'Asp291Asn'}	8	0	6	14	8	1.0	0.5714285714285714	0.7272727272727273	0.5714285714285714
+18397285	{'L1503R', 'L1503Q', 'T>Gtransversionatnucleotide4508'}	{'L1503R', 'L1503Q'}	2	0	1	3	2	1.0	0.6666666666666666	0.8	0.6666666666666666
+18408250	{'rs729302'}	{'rs729302'}	1	0	0	1	1	1.0	1.0	1.0	1.0
+18410548	{'Y248del', '742744delTAC'}	{'Y248del', '742744delTAC'}	2	0	0	2	2	1.0	1.0	1.0	1.0
+18426832	{'TTTA11', '4TTTAnrepeat'}	set()	0	0	2	2	0	0.0	0.0	0.0	0.0
+18439317	{'Dalleleforthe1607', 'guanineinsertion/deletionG/D,the1607polymorphism'}	set()	0	0	2	2	0	0.0	0.0	0.0	0.0
+18457324	{'V244M', 'valine[V]methionine[M]substitutionatposition244', 'M244', 'V244'}	{'V244M'}	2	0	2	4	1	1.0	0.5	0.6666666666666666	0.5
+18470323	{'C417T', 'R124C'}	{'C417T', 'R124C'}	2	0	0	2	2	1.0	1.0	1.0	1.0
+18492086	{'7bpdeletion', '20684T>A'}	{'20684T>A'}	1	0	1	2	1	1.0	0.5	0.6666666666666666	0.5
+18606230	{'R1858X', 'Y1854X'}	{'R1858X', 'Y1854X'}	2	0	0	2	2	1.0	1.0	1.0	1.0
+18672102	{'E359K', '118119insA', 'S429T', '1146+25insA', '125126insAA', '46delS', 'A6V', 'A442V', 'P407Q', 'P163S'}	{'E359K', '118119insA', 'S429T', '1146+25insA', '125126insAA', 'A442V', 'P407Q', 'P163S'}	8	0	2	10	8	1.0	0.8	0.888888888888889	0.8
+18681856	{'1358T>C', 'methionineATGthreonineACGatcodon453', 'M453T'}	{'M453T'}	1	0	2	3	1	1.0	0.3333333333333333	0.5	0.3333333333333333
+18694509	{'rs12329760'}	{'rs12329760'}	1	0	0	1	1	1.0	1.0	1.0	1.0
+18699851	set()	{'t11;14q13;q32'}	0	1	0	0	1	0.0	0.0	0.0	0.0
+18726896	{'deletion10Mborless'}	set()	0	0	1	1	0	0.0	0.0	0.0	0.0
+18779591	{'Ile146>Leu', 'I146L'}	{'Ile146>Leu', 'I146L'}	2	0	0	2	2	1.0	1.0	1.0	1.0
+18790087	{'Delta32', '32bpdeletion'}	set()	0	0	2	2	0	0.0	0.0	0.0	0.0
+18791947	{'Ser39'}	set()	0	0	1	1	0	0.0	0.0	0.0	0.0
+18806880	{'1493A>T', 'glutamicacidforvalineatcodon498', 'E498V'}	{'1493A>T', 'glutamicacidforvalineatcodon498', 'E498V'}	3	0	0	3	3	1.0	1.0	1.0	1.0
+18813858	{'deletionofGatthenucleotideposition520', '520delG', 'TAatnucleotideposition1135', 'T1135A'}	{'520delG', 'T1135A'}	2	0	2	4	2	1.0	0.5	0.6666666666666666	0.5
+18827003	{'asparticacidhistidinesubstitutionataminoacidposition401', 'G>Csubstitutionatposition1201', 'D401H'}	{'asparticacidhistidinesubstitutionataminoacidposition401', 'D401H'}	2	0	1	3	2	1.0	0.6666666666666666	0.8	0.6666666666666666
+18945288	{'Arg58fs', '342delA', 'R58fs'}	{'Arg58fs', '342delA', 'R58fs'}	3	0	0	3	3	1.0	1.0	1.0	1.0
+19012332	{'Arg282Trp'}	{'Arg282Trp'}	1	0	0	1	1	1.0	1.0	1.0	1.0
+19067809	{'A1166C', 'M235', 'A11666C'}	set()	0	0	3	3	0	0.0	0.0	0.0	0.0
+19082493	{'ins/del6bp', '28bpvariablenumberoftandemrepeats', 'deletionof6bpatposition1494'}	set()	0	0	3	3	0	0.0	0.0	0.0	0.0
+19101703	{'GCG6GCA3GCGsequencewasreplacedGCG6GCAGCG4GCA3GCG', 'insertionofGCG4GCA'}	set()	0	0	2	2	0	0.0	0.0	0.0	0.0
+19110214	{'D2267N', 'D2267', '6799G>A'}	{'D2267N'}	2	0	1	3	1	1.0	0.6666666666666666	0.8	0.6666666666666666
+19129715	{'L244F', 'C60S', 'insertionof3aminoacids', '13081316dup9'}	{'L244F', 'C60S'}	2	0	2	4	2	1.0	0.5	0.6666666666666666	0.5
+19144556	{'1849T>A', '2192C>T', '2122C>T', '2234TGTA57', '2193ATCT513', '1978TATC12', 'TTATtetranucleotidewasinsertedbetweennt2057and2058', '2180C>T'}	{'1849T>A', '2122C>T', '2192C>T', '2180C>T'}	4	0	4	8	4	1.0	0.5	0.6666666666666666	0.5
+19218574	{'Met326Met', '326Ile', 'Met326Ile', 'Ile326Ile'}	{'Met326Ile'}	2	0	2	4	1	1.0	0.5	0.6666666666666666	0.5
+19223935	{'G669A', 'deletionofTGatthenucleotideposition608609', '669G', '669A', 'Leu203fsX15', 'Glu98X', 'Ser863Asn'}	{'Glu98X', 'Ser863Asn', 'G669A'}	4	0	3	7	3	1.0	0.5714285714285714	0.7272727272727273	0.5714285714285714
+19276632	{'Tyr428Tyr', '25*G>A', '1284T>C', '1272C>T', '97GCC[9]+[10]', '262G>A', 'Ala88Thr', 'Ser424Ser'}	{'97GCC[9]', '1284T>C', '1272C>T', '262G>A', 'Ala88Thr'}	5	0	3	8	5	1.0	0.625	0.7692307692307693	0.625
+19298002	{'referenceSNPno.4359426', '2aspartate2Asp2alanine2Ala', '16C>A'}	{'16C>A'}	1	0	2	3	1	1.0	0.3333333333333333	0.5	0.3333333333333333
+19365571	{'codon358,tyrosinehistidine', '892C>T', '1072T>C', 'spcodonforglutamineatcodon298', 'Y358H', 'Q298X'}	{'Q298X', '892C>T', '1072T>C', 'Y358H'}	4	0	2	6	4	1.0	0.6666666666666666	0.8	0.6666666666666666
+19370764	{'G204VfsX28', '609+2861016del', 'T286M', '611delG', '6102A>G', 'G204VfsX17', 'G204K247del', '33bpgenomicdeletion', '640667del28', 'W111X'}	{'G204VfsX28', '609+2861016del', 'T286M', '611delG', '6102A>G', 'G204VfsX17', 'G204K247del', '640667del28', 'W111X'}	9	0	1	10	9	1.0	0.9	0.9473684210526316	0.9
+19394258	{'insertionof20aminoacids', '44462C>A'}	{'44462C>A'}	1	0	1	2	1	1.0	0.5	0.6666666666666666	0.5
+19404517	{'missensemutationinposition1829ARG', 'N45S'}	{'N45S'}	1	0	1	2	1	1.0	0.5	0.6666666666666666	0.5
+19429592	{'15581559insA', 'G289sp', '867G>T', '897G>T', 'E299sp', 'S522fs525sp', 'E169sp', '507G>T'}	{'15581559insA', 'S522fs', '867G>T', '897G>T', '507G>T'}	5	0	3	8	5	1.0	0.625	0.7692307692307693	0.625
+19429807	{'G1315R', '3943G>A', '1544?2916+?'}	{'G1315R', '3943G>A'}	2	0	1	3	2	1.0	0.6666666666666666	0.8	0.6666666666666666
+19444361	{'2209G>A', 'rs1800255'}	{'2209G>A', 'rs1800255'}	2	0	0	2	2	1.0	1.0	1.0	1.0
+19448408	{'C1256088C', 'T1270533G'}	{'T1270533G'}	1	0	1	2	1	1.0	0.5	0.6666666666666666	0.5
+19473658	{'deletionoftwosuccessiveadenineresiduesincodon138', 'deletionmutationincodon138', 'codon138deletion'}	set()	0	0	3	3	0	0.0	0.0	0.0	0.0
+19476483	{'Delta32', '32basepairdeletion'}	set()	0	0	2	2	0	0.0	0.0	0.0	0.0
+19484664	set()	{'M/F25', 'M/F26'}	0	2	0	0	2	0.0	0.0	0.0	0.0
+19521089	{'rs25531'}	{'rs25531'}	1	0	0	1	1	1.0	1.0	1.0	1.0
+19559455	{'Delta32', 'deletionsof1088and228', '247nucleotidedeletion'}	set()	0	0	3	3	0	0.0	0.0	0.0	0.0
+19561170	{'Thr111'}	set()	0	0	1	1	0	0.0	0.0	0.0	0.0
+19565319	{'rs5751876', 'rs35320474', 'rs3761422', 'rs2236624'}	{'rs35320474', 'rs3761422', 'rs5751876', 'rs2236624'}	4	0	0	4	4	1.0	1.0	1.0	1.0
+19592582	{'P686fs', '468C>T', '21722173insCCCC', '467C>A', 'A118D'}	{'P686fs', '468C>T', '21722173insCCCC', '467C>A', 'A118D'}	5	0	0	5	5	1.0	1.0	1.0	1.0
+19624485	{'rs16375', '14bpinsertion/deletion', '14bpdeletion/insertion'}	{'rs16375'}	1	0	2	3	1	1.0	0.3333333333333333	0.5	0.3333333333333333
+19664890	{'387+107A>T'}	{'387+107A>T'}	1	0	0	1	1	1.0	1.0	1.0	1.0
+19681861	{'rs1799750', 'deletionof4kb'}	{'rs1799750'}	1	0	1	2	1	1.0	0.5	0.6666666666666666	0.5
+19728872	{'1922G>A', 'Arg641His'}	{'1922G>A', 'Arg641His'}	2	0	0	2	2	1.0	1.0	1.0	1.0
+19766614	{'S124fsX127', '370371insA'}	{'S124fsX127', '370371insA'}	2	0	0	2	2	1.0	1.0	1.0	1.0
+19781362	{'rs16864880', 'G>Asubstitutionatnucleotide893', 'R298Q'}	{'rs16864880', 'R298Q'}	2	0	1	3	2	1.0	0.6666666666666666	0.8	0.6666666666666666
+19808398	{'A1180V'}	{'A1180V'}	1	0	0	1	1	1.0	1.0	1.0	1.0
+19823838	{'264C>A', 'cysineadenineatposition264', 'guaninecysineatposition263', '263G>C'}	set()	0	0	4	4	0	0.0	0.0	0.0	0.0
+19880293	{'IVS9+459,A/G', '6054,deletion/ATT', '3279AC', 'IVS9+459GA+GG', 'IVS9+459AA', '924,A/G', 'IVS9+459GG', '3279,A/C', '3279CC'}	set()	0	0	9	9	0	0.0	0.0	0.0	0.0
+19881468	{'Cys326', '326fromSerCys', 'Ser326Cys', 'rs1052133'}	{'Ser326Cys', '326fromSerCys', 'rs1052133'}	3	0	1	4	3	1.0	0.75	0.8571428571428571	0.75
+19897031	{'rs12203592'}	{'rs12203592'}	1	0	0	1	1	1.0	1.0	1.0	1.0
+19918264	{'Gly388Arg'}	{'Gly388Arg'}	1	0	0	1	1	1.0	1.0	1.0	1.0
+19929939	{'terminationcodonataminoacidposition831', 'Cys817ValfsX15', '2449delT'}	{'Cys817Val', '2449delT'}	2	0	1	3	2	1.0	0.6666666666666666	0.8	0.6666666666666666
+19958188	{'21A', 'Aalleleofthe588', '369C>G', '603/604GA>AG', '588A>G', 'IVSII1G>A', '611T', 'AAGCat222225', 'Aalleleof588'}	set()	0	0	9	9	0	0.0	0.0	0.0	0.0
+20005218	{'395G', '395A', 'G395A'}	{'G395A'}	2	0	1	3	1	1.0	0.6666666666666666	0.8	0.6666666666666666
+20017074	{'1bpguaninedeletion/insertion'}	set()	0	0	1	1	0	0.0	0.0	0.0	0.0
+20019594	{'E180K', 'S173fsX174', 'R194S', 'D157fsX158', 'C152G'}	{'E180K', 'S173fsX174', 'R194S', 'D157fsX158', 'C152G'}	5	0	0	5	5	1.0	1.0	1.0	1.0
+20026870	{'A1166', 'A1166C'}	{'A1166C'}	2	0	0	2	1	1.0	1.0	1.0	1.0
+20080916	{'rs2070197', 'rs2004640', 'rs10954213'}	{'rs2070197', 'rs2004640', 'rs10954213'}	3	0	0	3	3	1.0	1.0	1.0	1.0
+20086182	{'6526Nins/del', 'D302H', '6526Ndel', '302H'}	{'D302H'}	2	0	2	4	1	1.0	0.5	0.6666666666666666	0.5
+20143913	{'8991142del', 'g.99367102002del', 'R315X'}	{'8991142del', 'g.99367102002del', 'R315X'}	3	0	0	3	3	1.0	1.0	1.0	1.0
+20154289	{'codon104G>A'}	{'104G>A'}	1	0	0	1	1	1.0	1.0	1.0	1.0
+20227423	{'Ser704', 'Ser704Cys', 'Cys704'}	{'Ser704Cys'}	2	0	1	3	1	1.0	0.6666666666666666	0.8	0.6666666666666666
+20331852	{'LCE3CLCE3Bdeletion', 'rs4112788', 'LCE3CLCE3Bdel', 'R68C'}	{'rs4112788', 'R68C'}	2	0	2	4	2	1.0	0.5	0.6666666666666666	0.5
+20335448	{'arginine714', 'G>Aatnucleotideposition2141', 'arginineglutamineatposition714', 'arginineglutamineataminoacidposition714'}	{'arginineglutamineatposition714'}	1	0	3	4	1	1.0	0.25	0.4	0.25
+20367983	{'IVS3+18C>T', '15461547insC'}	{'IVS3+18C>T', '15461547insC', '18C>T'}	2	0	0	2	3	1.0	1.0	1.0	1.0
+20454699	{'356G>A', 'rs13267', 'C119Y'}	{'356G>A', 'rs13267', 'C119Y'}	3	0	0	3	3	1.0	1.0	1.0	1.0
+20512659	{'25152519delAAGTT'}	{'25152519delAAGTT'}	1	0	0	1	1	1.0	1.0	1.0	1.0
+20523265	{'rs800292', 'rs1061170', 'rs1410996', 'rs3753394', 'rs7535263', 'rs1329428', 'rs2274700'}	{'rs800292', 'rs1061170', 'rs1410996', 'rs3753394', 'rs7535263', 'rs1329428', 'rs2274700'}	7	0	0	7	7	1.0	1.0	1.0	1.0
+20529581	{'AspValatthe300', '899A>T', 'Asp300Val'}	{'Asp300Val', 'AspValatthe300'}	2	0	1	3	2	1.0	0.6666666666666666	0.8	0.6666666666666666
+20534142	{'N221D', 'rs6235', 'rs6232'}	{'N221D', 'rs6235', 'rs6232'}	3	0	0	3	3	1.0	1.0	1.0	1.0
+20534762	{'GforAatcDNAnucleotideposition323', 'C88Y', 'C105Vfs114X', '313delT'}	{'C88Y', '313delT'}	2	0	2	4	2	1.0	0.5	0.6666666666666666	0.5
+20577006	{'R594', 'P799L', 'R594H', 'F471del', 'P799'}	{'R594H', 'F471del', 'P799L'}	5	0	0	5	3	1.0	1.0	1.0	1.0
+20579626	{'1052delA'}	{'1052delA'}	1	0	0	1	1	1.0	1.0	1.0	1.0
+20583543	{'8nucleotidedeletion', 'G196S', 'R246Q', 'g.8087delTCGCGAAG', 'A27fsX132'}	{'G196S', 'R246Q', 'g.8087delT', 'A27fsX132'}	4	0	1	5	4	1.0	0.8	0.888888888888889	0.8
+20602574	{'T189C', '218G', '189T', 'G218C'}	{'T189C', 'G218C'}	2	0	2	4	2	1.0	0.5	0.6666666666666666	0.5
+20606392	{'duplicationofanucleotideinexon9', '899dupC', 'R211H'}	{'R211H'}	1	0	2	3	1	1.0	0.3333333333333333	0.5	0.3333333333333333
+20648600	{'G1896A', 'I195M', 'L180M', 'G1899A', 'A1762T', 'M204V', 'G1764A', 'E164D', 'V173L'}	{'G1764A', 'A1762T', 'G1899A', 'G1896A'}	4	0	5	9	4	1.0	0.4444444444444444	0.6153846153846153	0.4444444444444444
+20651814	{'12nucleotideinsertion/deletionindel', 'indelpolymorphismatposition4825'}	set()	0	0	2	2	0	0.0	0.0	0.0	0.0
+20682662	{'32basepairDD32deletion', 'DD32deletion', 'DD32'}	set()	0	0	3	3	0	0.0	0.0	0.0	0.0
+20693575	{'695X', 'insertionof13nucleotides'}	set()	0	0	2	2	0	0.0	0.0	0.0	0.0
+20708777	{'A2803G', 'rs6387', 'G225A', 'rs1799998', 'A2718G', 'C344T', 'rs4539', 'rs6410'}	{'A2803G', 'rs4539', 'rs1799998', 'A2718G', 'rs6387', 'rs6410'}	6	0	2	8	6	1.0	0.75	0.8571428571428571	0.75
+20709368	{'rs2066865', '10034C>T', '10034T'}	{'rs2066865', '10034C>T'}	2	0	1	3	2	1.0	0.6666666666666666	0.8	0.6666666666666666
+20728296	{'deletionof54Mbp'}	set()	0	0	1	1	0	0.0	0.0	0.0	0.0
+20738799	{'I597T'}	{'I597T'}	1	0	0	1	1	1.0	1.0	1.0	1.0
+20801104	{'1240L/S', '616C/G', '521C/T', '120bpduplication'}	{'616C/G', '521C/T'}	2	0	2	4	2	1.0	0.5	0.6666666666666666	0.5
+20801540	{'deletionofaminoacids809852', '2554+1G>T'}	{'2554+1G>T'}	1	0	1	2	1	1.0	0.5	0.6666666666666666	0.5
+20806042	{'R198W', '592C>T', 'argininetrypphanatcodon198'}	{'R198W', 'argininetrypphanatcodon198'}	2	0	1	3	2	1.0	0.6666666666666666	0.8	0.6666666666666666
+20846357	{'Ala88Val', '263C>T', 'alanineforvalineatposition88', 'Asp50Asn'}	{'Ala88Val', '263C>T', 'alanineforvalineatposition88', 'Asp50Asn'}	4	0	0	4	4	1.0	1.0	1.0	1.0
+20854438	{'GAsubstitutioninnucleotide256', 'glycineargininesubstitutionataminoacid86', 'G86R'}	{'glycineargininesubstitutionataminoacid86', 'G86R'}	2	0	1	3	2	1.0	0.6666666666666666	0.8	0.6666666666666666
+20887110	{'C>Ttransitionatnucleotide677', '677C>T', '677TT', 'C677T'}	{'677C>T', 'C677T'}	2	0	2	4	2	1.0	0.5	0.6666666666666666	0.5
+20949073	{'E831X', '2623G>T'}	{'E831X', '2623G>T'}	2	0	0	2	2	1.0	1.0	1.0	1.0
+21042587	{'R469[R,X]', 'arginineCGAaspTGAataminoacid469'}	set()	0	0	2	2	0	0.0	0.0	0.0	0.0
+21054465	{'Tdeletionat5063', 'C35322T', 'C35322C', 'CTat33468'}	{'C35322T'}	1	0	3	4	1	1.0	0.25	0.4	0.25
+21059483	{'5.5kbdeletion'}	set()	0	0	1	1	0	0.0	0.0	0.0	0.0
+21070631	{'1021C/T', '889TT', '1021T', 'rs1800587', 'rs1611115'}	{'rs1800587', '1021C/T', 'rs1611115'}	3	0	2	5	3	1.0	0.6	0.7499999999999999	0.6
+21080147	{'alanineforprolineataminoacid286', 'E325K', 'CGtransitionwasidentifiedatnucleotide857', 'lysineforglutamicacidataminoacid325', '973G>A'}	{'E325K', 'lysineforglutamicacidataminoacid325', 'alanineforprolineataminoacid286', '973G>A'}	4	0	1	5	4	1.0	0.8	0.888888888888889	0.8
+21099701	{'G303E', 'glycineatposition303glutamicacid', '908G>A'}	{'G303E', 'glycineatposition303glutamicacid', '908G>A'}	3	0	0	3	3	1.0	1.0	1.0	1.0
+21103668	{'deletionof22,230bp', 'deletionof37,410bp'}	set()	0	0	2	2	0	0.0	0.0	0.0	0.0
+21108633	{'69delC', '410+5G/A'}	{'69delC'}	1	0	1	2	1	1.0	0.5	0.6666666666666666	0.5
+21126715	{'783insG', 'Ile262fs'}	{'783insG'}	1	0	1	2	1	1.0	0.5	0.6666666666666666	0.5
+21127202	{'3bpdeletion'}	set()	0	0	1	1	0	0.0	0.0	0.0	0.0
+21130517	{'L858R'}	{'L858R'}	1	0	0	1	1	1.0	1.0	1.0	1.0
+21135151	{'delta32', 'DD32'}	set()	0	0	2	2	0	0.0	0.0	0.0	0.0
+21163864	{'T704C', 'methioninethreoninesubstitutionatcodon235', 'M235T'}	{'T704C', 'methioninethreoninesubstitutionatcodon235', 'M235T'}	3	0	0	3	3	1.0	1.0	1.0	1.0
+21182502	{'IVS64+5g>a'}	set()	0	0	1	1	0	0.0	0.0	0.0	0.0
+21219851	{'rs1801184', '2992C>T', 'rs2271683', 'rs1800255', '2187delA'}	{'rs1801184:T>C', 'rs1801184', '2992C>T', 'rs2271683', 'rs2271683:A>G', 'rs1800255', '2187delA', 'rs1800255:G>A'}	5	0	0	5	8	1.0	1.0	1.0	1.0
+21325775	{'GCatcodon158', 'Arg158Pro', 'arginineresiduefortheprolineresidueatposition158'}	{'Arg158Pro'}	1	0	2	3	1	1.0	0.3333333333333333	0.5	0.3333333333333333
+21340161	{'11861187insGGCC'}	{'11861187insGGCC'}	1	0	0	1	1	1.0	1.0	1.0	1.0
+21405999	{'17T>C', '465G>T', 'Glu155Asp', '171T>C'}	{'17T>C', '465G>T', 'Glu155Asp', '171T>C'}	4	0	0	4	4	1.0	1.0	1.0	1.0
+21406173	{'E441G', '1.7kbpdeletion'}	{'E441G'}	1	0	1	2	1	1.0	0.5	0.6666666666666666	0.5
+21445905	{'T13,910', 'CTsubstitutionatapolymorphicsite13,910bpupstream'}	set()	0	0	2	2	0	0.0	0.0	0.0	0.0
+21493871	{'rs5758222', 'rs7286979', 'rs525549', 'rs20551', 'rs6589664'}	{'rs5758222', 'rs7286979', 'rs525549', 'rs20551', 'rs6589664'}	5	0	0	5	5	1.0	1.0	1.0	1.0
+21496008	{'dup33bp', '304insGCG7', '1074G>T', 'dup27bp', 'dup24bp', '429452dup'}	{'1074G>T', '429452dup'}	2	0	4	6	2	1.0	0.3333333333333333	0.5	0.3333333333333333
+21499297	{'rs2297882'}	{'rs2297882'}	1	0	0	1	1	1.0	1.0	1.0	1.0
+21506149	{'202adeninedeletion', '202A', 'adeninedeletionatnucleotide202'}	set()	0	0	3	3	0	0.0	0.0	0.0	0.0
+21533187	{'15kbdeletion'}	set()	0	0	1	1	0	0.0	0.0	0.0	0.0
+21542403	{'D1017N', 'cysteineradicalmutationatthe620position', '634cysteine', 'IVS1937G/C'}	{'D1017N', 'IVS1937G/C'}	2	0	2	4	2	1.0	0.5	0.6666666666666666	0.5
+21546516	{'57kbdeletion'}	set()	0	0	1	1	0	0.0	0.0	0.0	0.0
+21559944	{'104delT', 'Val35AlafsX25'}	{'104delT', 'Val35AlafsX25'}	2	0	0	2	2	1.0	1.0	1.0	1.0
+21615796	{'7488T/C', '7488C', 'HisArgsubstitutionataminoacid161', '7488T', 'rs763780', '7488TC', '7488TT', '7488CC'}	{'7488T/C', 'rs763780', 'HisArgsubstitutionataminoacid161'}	4	0	4	8	3	1.0	0.5	0.6666666666666666	0.5
+21640722	{'13basepairdeletion'}	set()	0	0	1	1	0	0.0	0.0	0.0	0.0
+21666969	{'GAatnucleotideposition1359', 'A1359A', 'G1359A', '1359G/A', 'codon435Thr', 'G1359G', 'A1359'}	{'1359G/A', 'G1359A'}	2	0	5	7	2	1.0	0.2857142857142857	0.4444444444444445	0.2857142857142857
+21682595	{'rs25487', '399Gln', 'Arg399Gln'}	{'rs25487', 'Arg399Gln'}	3	0	0	3	2	1.0	1.0	1.0	1.0
+21684788	{'407C>T', '352kbdeletion', '1.44Mbcontiguousgenedeletion', 'P136L'}	{'407C>T', 'P136L'}	2	0	2	4	2	1.0	0.5	0.6666666666666666	0.5
+21695597	{'rs2071349', 'rs2844580', 'rs204890', 'rs9271366'}	{'rs2071349', 'rs2844580', 'rs204890', 'rs9271366'}	4	0	0	4	4	1.0	1.0	1.0	1.0
+21699520	{'g.2839T>G', 'IVS9+217T', 'R962T', 'E947sp', 'g.2885G>C'}	{'R962T', 'g.2885G>C', 'g.2839T>G'}	3	0	2	5	3	1.0	0.6	0.7499999999999999	0.6
+21717135	{'10bpdeletion'}	set()	0	0	1	1	0	0.0	0.0	0.0	0.0
+21738389	{'737delC', 'Pro246HisfsX13'}	{'737delC', 'Pro246HisfsX13'}	2	0	0	2	2	1.0	1.0	1.0	1.0
+21757944	{'CD+90del13bp', '13bpdeletionatnucleotide90downstreamoftheterminationcodon', '13bpdeletion', 'IVSII1G>A'}	{'+90del13'}	1	0	3	4	1	1.0	0.25	0.4	0.25
+21779184	{'3.5kbdeletion', '3.5kbgenedeletion'}	set()	0	0	2	2	0	0.0	0.0	0.0	0.0
+21790735	{'650kbpdeletion'}	set()	0	0	1	1	0	0.0	0.0	0.0	0.0
+21798259	{'rs16754'}	{'rs16754'}	1	0	0	1	1	1.0	1.0	1.0	1.0
+21799811	{'677C>T'}	{'677C>T'}	1	0	0	1	1	1.0	1.0	1.0	1.0
+21850008	{'G13513A', 'deletion1302513033:1441714425', 'K237N', 'T13046C', 'T10191C', 'M237T', 'A11470C', 'A3243G', 'S45P'}	{'G13513A', 'K237N', 'T13046C', 'T10191C', 'M237T', 'A11470C', 'A3243G', 'S45P'}	8	0	1	9	8	1.0	0.8888888888888888	0.9411764705882353	0.8888888888888888
+21879313	{'Arg70', 'rs8099917'}	{'rs8099917'}	1	0	1	2	1	1.0	0.5	0.6666666666666666	0.5
+21897748	{'valinemethionineatcodon44', '130G>A', 'V44M'}	{'130G>A', 'V44M'}	2	0	1	3	2	1.0	0.6666666666666666	0.8	0.6666666666666666
+21903317	{'W10R', '28T>C', 'trypphanargininesubstitutionataminoacid10', 'thymidinecysinemutationatposition28'}	{'W10R', '28T>C', 'trypphanargininesubstitutionataminoacid10'}	3	0	1	4	3	1.0	0.75	0.8571428571428571	0.75
+21904390	{'Ser119fsX', 'S216P', '643T>C', '3573C>G'}	{'643T>C', 'S216P', '3573C>G', 'Ser119fs'}	4	0	0	4	4	1.0	1.0	1.0	1.0
+21937424	{'R114H', 'insertionmutationsaspartateatposition201', 'Arg114', 'alanineatposition124', 'A124ins', 'R114A', 'D201ins', 'R114K'}	{'R114H', 'R114A', 'R114K'}	3	0	5	8	3	1.0	0.375	0.5454545454545454	0.375
+21943124	{'1372bpdeletion'}	set()	0	0	1	1	0	0.0	0.0	0.0	0.0
+21976953	{'S1235P', 'serineprolineatcodon1235', '3703T>C'}	{'S1235P', 'serineprolineatcodon1235', '3703T>C'}	3	0	0	3	3	1.0	1.0	1.0	1.0
+22016685	{'AGsubstitutioninnucleotide1517', 'Asp506Gly', '1517A>G', 'asparticacidwithglycineincodon506'}	{'Asp506Gly', '1517A>G'}	2	0	2	4	2	1.0	0.5	0.6666666666666666	0.5
+22028770	{'219G/T', 'rs405509', 'rs440446', '491A/T', '+113G/C', '491AT', 'rs449647'}	{'219G/T', 'rs405509', 'rs440446', '491A/T', '+113G/C', 'rs449647'}	6	0	1	7	6	1.0	0.8571428571428571	0.923076923076923	0.8571428571428571
+22042570	{'16181620delACT', '1084G>T', 'E362X', 'T540del', '27082711delTTAG', 'V903GfsX905'}	{'16181620delACT', '1084G>T', 'E362X', 'T540del', '27082711delTTAG', 'V903GfsX905'}	6	0	0	6	6	1.0	1.0	1.0	1.0
+22048266	{'rs2073601', 'rs461155', 'rs2073416'}	{'rs2073601', 'rs461155', 'rs2073416'}	3	0	0	3	3	1.0	1.0	1.0	1.0
+22051099	{'S276T', 'rs2234671', 'Ex2+860G>C'}	{'S276T', 'rs2234671'}	2	0	1	3	2	1.0	0.6666666666666666	0.8	0.6666666666666666
+22104738	{'920T>G', 'Leu307Arg'}	{'920T>G', 'Leu307Arg'}	2	0	0	2	2	1.0	1.0	1.0	1.0
+22106692	{'E137D', 'E101K', 'largedeletionof342kb', '366delT', 'R32Q', 'Y156H'}	{'E137D', 'E101K', '366delT', 'R32Q', 'Y156H'}	5	0	1	6	5	1.0	0.8333333333333334	0.9090909090909091	0.8333333333333334
+22125978	{'659660delTA'}	{'659660delTA'}	1	0	0	1	1	1.0	1.0	1.0	1.0
+22129472	{'17061715del.ATCTCCTCAG', '17062A>T', '10basedeletion'}	{'Asp569Valfs*93', '17061715del'}	1	1	2	3	2	0.5	0.3333333333333333	0.4	0.25
+22174939	{'22bpdeletion'}	set()	0	0	1	1	0	0.0	0.0	0.0	0.0
+22180037	{'A>Gatnucleotide313', 'Ile105Val'}	{'Ile105Val'}	1	0	1	2	1	1.0	0.5	0.6666666666666666	0.5
+22188495	{'arginineresidueatposition573terminationcodon', 'Arg987Ter', '3190C>T'}	{'Arg987Ter', '3190C>T'}	2	0	1	3	2	1.0	0.6666666666666666	0.8	0.6666666666666666
+22337303	{'27bpdeletions', 'five33bprepeats', '69bpdeletion'}	set()	0	0	3	3	0	0.0	0.0	0.0	0.0

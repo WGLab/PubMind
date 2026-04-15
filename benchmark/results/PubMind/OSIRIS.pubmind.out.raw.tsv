@@ -1,0 +1,308 @@
+	PMID	gene	DNA mutation	protein mutation	disease	phenotype	LLM reasoning	pathogenicity
+0	12890863	TGFB1	+1632 T allele	-	ankylosing spondylitis (AS)	younger age of symptom onset	weak association with AS in the Finnish population and in the combined data set	likely pathogenic
+1	12890863	TGFB1	+869/+915+1632 alleles 2/1/2	-	ankylosing spondylitis (AS)	younger age of symptom onset	association with age of symptom onset in both the English parent-case trios and the combined data set	likely pathogenic
+2	12915397	UCP2	-866 G/A	-	type 2 diabetes (T2DM)	obesity, insulin resistance, impaired beta-cell function	modest effects on BMI and T2DM, significant effects on insulin secretion	likely pathogenic
+3	12915397	UCP2	Ala55Val or A55V	Ala55Val	type 2 diabetes (T2DM)	obesity, insulin resistance, impaired beta-cell function	modest effects on BMI and T2DM, significant effects on insulin secretion	likely pathogenic
+4	12915397	UCP2	45-nt insertion in the 3'-untranslated (3'UTR) region	-	type 2 diabetes (T2DM)	obesity, insulin resistance, impaired beta-cell function	modest effects on BMI and T2DM, significant effects on insulin secretion	likely pathogenic
+5	14523377	SLC11A1	469+14G/C	-	visceral leishmaniasis (VL)	-	biased transmission of alleles, significant linkage across SLC11A1	likely pathogenic
+6	14523377	SLC11A1	-86G/A	-	visceral leishmaniasis (VL)	-	located within a putative nuclear factor kappa B binding site that could be functional	unknown
+7	14635012	TNF-alpha	-308 G/A	-	chronic hepatitis C	-	association with HCV persistence and severe hepatic fibrosis	unknown
+8	14635012	TNF-beta	Nco I A/A	-	chronic hepatitis C	severe hepatic fibrosis	association with HCV persistence and disease progression	likely pathogenic
+9	14635012	TNF-beta	Nco I G/A	-	chronic hepatitis C	-	no significant difference between patients and controls	benign
+10	14635012	TNF-beta	Nco I G/G	-	chronic hepatitis C	-	no significant difference between patients and controls	benign
+11	14645199	IGF2	T123C	-	Beckwith-Wiedemann syndrome (BWS)	fetal overgrowth disorder	association with disease phenotype	unknown
+12	14645199	IGF2	G358A	-	Beckwith-Wiedemann syndrome (BWS)	fetal overgrowth disorder	association with disease phenotype	unknown
+13	14645199	IGF2	T382G	-	Beckwith-Wiedemann syndrome (BWS)	fetal overgrowth disorder	association with disease phenotype	unknown
+14	14645199	IGF2	A402G	-	Beckwith-Wiedemann syndrome (BWS)	fetal overgrowth disorder	association with disease phenotype	unknown
+15	14645199	CDKN1C	-	-	Beckwith-Wiedemann syndrome (BWS)	reduced expression	loss of maternal allele-specific methylation (LOM) of the differentially methylated region KvDMR1	pathogenic
+16	14651519	FCGR2B	-	I232T	systemic lupus erythematosus (SLE)	-	association with SLE in Japanese, Thais, and Chinese populations, and with nephritis	pathogenic
+17	14651519	FCGR3A	-	F176V	systemic lupus erythematosus (SLE)	-	association with SLE in Chinese population, and independent association with FCGR2B	pathogenic
+18	14651519	FCGR2A	-	H131R	systemic lupus erythematosus (SLE)	-	no significant association found	unknown
+19	14651519	FCGR3B	-	-	systemic lupus erythematosus (SLE)	-	no significant association found	unknown
+20	14651522	CCL2	-2518	-	Behcet's disease (BD)	-	no association between any SNP and disease	benign
+21	14651522	CCL2	-2076	-	Behcet's disease (BD)	-	no association between any SNP and disease	benign
+22	14651522	CCL5	-403	-	Behcet's disease (BD)	-	no association between any SNP and disease, but CCR5 -403 AA genotype was only found in male patients with BD	unknown
+23	14651522	CCL5	-28	-	Behcet's disease (BD)	-	no association between any SNP and disease	benign
+24	14651522	CCL2	-	-	Behcet's disease (BD)	differences in disease symptoms and severity between males and females	gender-specific genetic differences in chemokine gene function may be involved	unknown
+25	14651522	CCL2	-	-	retinal vasculitis (RV)	-	no association between any SNP and disease	benign
+26	14651522	CCL5	-	-	retinal vasculitis (RV)	-	no association between any SNP and disease	benign
+27	14673707	CLCN5	IVS2-17 T>G	-	Dent's disease, X-linked recessive nephrolithiasis, X-linked recessive hypophosphatemic rickets, idiopathic low-molecular-weight proteinuria	low-molecular-weight proteinuria, nephrolithiasis, nephrocalcinosis, hypercalciuria	effect on splicing not correlated with mutation	benign
+28	14681301	TNFA	TNFA-308G>A	-	asthma	lower risk of asthma	protective effects on asthma	benign
+29	14681301	TNFA	TNFA-308G>A	-	asthma	lower total serum IgE level	protective effects on asthma	benign
+30	14681301	TNFA	TNF-ht1[GGTCCGG]	-	asthma	higher total serum IgE level	association with total serum IgE levels	likely pathogenic
+31	14685824	SLC6A3	rs27072	-	nicotine dependence	early smoking onset	association with smoking onset and increased risk of nicotine dependence	likely pathogenic
+32	14693717	ADIPONECTIN	-11365C>G	-	type 2 diabetes	-	no significant difference in genotype or allele frequencies	unknown
+33	14693717	ADIPONECTIN	-4034A>C	-	type 2 diabetes	reduced risk of diabetes	associated with a reduced risk of diabetes	likely benign
+34	14693717	ADIPONECTIN	-3964A>G	-	type 2 diabetes	-	no significant difference in genotype or allele frequencies	unknown
+35	14693717	ADIPONECTIN	+45T>G	-	type 2 diabetes	-	no significant difference in genotype or allele frequencies	unknown
+36	14693717	ADIPONECTIN	+276G>T	-	type 2 diabetes	increased risk of diabetes among subjects with PPAR gamma variant 12Ala allele or among obese subjects	associated with diabetes risk only among subjects with PPAR gamma variant 12Ala allele or among obese subjects	likely pathogenic
+37	14693721	UCP2	-866 G/A	-	obesity	increased carbohydrate oxidation and decreased lipid oxidation	associated with changes in energy metabolism	likely pathogenic
+38	14705223	IL1A	IL-1alpha-889 T allele	-	systemic sclerosis (SSc)	-	association with increased IL-1 protein expression	likely pathogenic
+39	14709372	platelet-activating factor acetylhydrolase	994G>T	Val279Phe	coronary artery disease (CAD)	-	association with CAD in men with hypercholesterolemia	likely pathogenic
+40	14709372	NADH/NADPH oxidase p22 phox	242C>T	His72Tyr	coronary artery disease (CAD)	-	association with CAD in men with hypercholesterolemia	likely pathogenic
+41	14709372	apolipoprotein C-III	1100C>T	-	coronary artery disease (CAD)	-	association with CAD in men with hypercholesterolemia	likely pathogenic
+42	14712309	IL-20	rs2981572	-	psoriasis	-	association between patients with psoriasis and the G allele at position -1053	likely pathogenic
+43	14712309	IL-20	rs2981573	-	psoriasis	-	pairwise linkage disequilibrium (LD) matrix showed nearly complete LD within the polymorphisms	likely pathogenic
+44	14712309	IL-20	rs2232360	-	psoriasis	-	pairwise linkage disequilibrium (LD) matrix showed nearly complete LD within the polymorphisms	likely pathogenic
+45	14712309	IL-20	rs1518108	-	psoriasis	-	higher frequency of the HT3 GAA haplotype associated with an increased risk of psoriasis	likely pathogenic
+46	14715843	GHSR	rs495225	-	obesity	-	no conclusive evidence for an involvement of the ghrelin receptor gene in body weight regulation	unknown
+47	14715843	GHSR	-	-	obesity	-	no conclusive evidence for an involvement of the ghrelin receptor gene in body weight regulation	unknown
+48	14715843	GHSR	-	-	short normal stature (SNS)	-	no conclusive evidence for an involvement of the ghrelin receptor gene in body weight regulation or SNS	unknown
+49	14715845	CTLA4	A/G	-	Graves' disease	poor outcome	association with relapse of hyperthyroidism after antithyroid withdrawal	likely pathogenic
+50	14729863	APOA5	-1131T>C	-	coronary heart disease	increased total TG, increased VLDL mass, increased VLDL size	increase in VLDL size and not number	likely pathogenic
+51	14729863	APOA5	-	S19W	coronary heart disease	increased IDL-TG, increased IDL-cholesterol, increased IDL size, increased IDL lipid enrichment	increase in IDL size resulting from lipid enrichment	likely pathogenic
+52	14730381	PPARG	Pro12Ala	p.Pro12Ala	Type 2 diabetes	reduced risk of developing Type 2 diabetes	association studies and haplotype analysis	likely benign
+53	14730381	PPARG	T1431	-	Type 2 diabetes	opposing associations with body weight	association studies and haplotype analysis	unknown
+54	14734460	CYP1A1	-	Ile462Val	breast cancer	early onset (</=35 years of age)	association with increased odds ratio	likely pathogenic
+55	14734460	CYP1A1	-	Ile462Val	breast cancer	family history of breast cancer	2.6-fold increased likelihood	likely pathogenic
+56	14734460	CYP1A1	-	Val462Val	breast cancer	family history of breast cancer	5.1-fold increased likelihood	likely pathogenic
+57	14734460	CYP1B1	-	Leu432Val	breast cancer	early onset (</=35 years of age)	association with increased odds ratio	likely pathogenic
+58	14734460	BRCA1	-	2430C/2731T/3667G/4427C/4956G	breast cancer	estrogen receptor negativity	less estrogen receptor negativity	benign
+59	14734460	TP53	-	Arg72Pro	breast cancer	negative axillary lymph node status	association with negative axillary lymph node status	likely pathogenic
+60	14734460	TP53	-	Pro72Pro	breast cancer	negative axillary lymph node status	association with negative axillary lymph node status	likely pathogenic
+61	14737097	FCGR2A	-	FcgammaRIIA-131R	Systemic Lupus Erythematosus (SLE)	-	association found in single-case families	likely pathogenic
+62	14737097	FCGR3A	-	FcgammaRIIIA-176F	Systemic Lupus Erythematosus (SLE)	-	association found in single-case families	likely pathogenic
+63	14737097	FCGR2B	-	-	Systemic Lupus Erythematosus (SLE)	-	no association found	benign
+64	14737097	FCGR3B	-	FcgammaRIIIB-NA1/2	Systemic Lupus Erythematosus (SLE)	-	no association found	benign
+65	14739420	COL1A2	-	p.Ala459Pro	intracranial aneurysm (IA)	-	higher thermal stability of the Pro-459 peptide	likely pathogenic
+66	14742985	PAI-1	4G/5G	-	Nontraumatic osteonecrosis of the femoral head (ONFH)	-	no effect on the incidence of ONFH	benign
+67	14742985	MTHFR	C677T	-	Nontraumatic osteonecrosis of the femoral head (ONFH)	-	no effect on the incidence of ONFH	benign
+68	14747301	UCP2	-866G/A	-	type 2 diabetes	lower glucose-induced early insulin secretion, higher insulin requirement	affects transcription in beta-cells and modulates glucose-induced insulin secretion	likely pathogenic
+69	14749980	TAP2	-	-	rheumatoid arthritis	higher incidence of RA	association between the polymorphism and disease	likely pathogenic
+70	14749980	TAP1	-	-	rheumatoid arthritis	-	no statistical associations in the distribution of the polymorphism frequency	benign
+71	14752243	MDR1	C3435T	-	Balkan endemic nephropathy (BEN)	-	protective against BEN	benign
+72	14752243	MDR1	G2677T	-	Balkan endemic nephropathy (BEN)	-	protective against BEN	benign
+73	14752243	MDR1	C3435T/G2677T (haplotype 12)	-	Balkan endemic nephropathy (BEN)	-	protective against BEN	benign
+74	14755442	NOTCH4	rs1009382	p.Glu2578Gly	schizophrenia	-	associated with schizophrenia, deviated from Hardy-Weinberg equilibrium due to homozygote excess in the patient group	likely pathogenic
+75	14755442	NOTCH4	rs204887	-	schizophrenia	-	associated with schizophrenia	likely pathogenic
+76	14755442	NOTCH4	rs8283	-	schizophrenia	-	associated with schizophrenia	likely pathogenic
+77	14755445	APOE	-491a/t	-	autism	stereotypic and repetitive behavior and interests, social and communicative deficiencies	no significant association found	benign
+78	14755445	APOE	-427c/t	-	autism	stereotypic and repetitive behavior and interests, social and communicative deficiencies	no significant association found	benign
+79	14755445	APOE	-219g/t	-	autism	stereotypic and repetitive behavior and interests, social and communicative deficiencies	no significant association found	benign
+80	14755445	APOE	113c/g	-	autism	stereotypic and repetitive behavior and interests, social and communicative deficiencies	no significant association found	benign
+81	14755445	APOE	5361c/t	-	autism	stereotypic and repetitive behavior and interests, social and communicative deficiencies	no significant association found	benign
+82	14755445	APOE	E2	-	autism	stereotypic and repetitive behavior and interests, social and communicative deficiencies	no significant association found	benign
+83	14755445	APOE	E3	-	autism	stereotypic and repetitive behavior and interests, social and communicative deficiencies	no significant association found	benign
+84	14755445	APOE	E4	-	autism	stereotypic and repetitive behavior and interests, social and communicative deficiencies	no significant association found	benign
+85	14755451	IDE	rs1999764	-	Alzheimer's disease	-	no association with early- or late-onset AD	benign
+86	14755451	IDE	rs1855915	-	Alzheimer's disease	-	no association with early- or late-onset AD	benign
+87	14755451	IDE	rs1970244	-	Alzheimer's disease	-	no association with early- or late-onset AD	benign
+88	14755451	IDE	rs538469	-	Alzheimer's disease	-	no association with early- or late-onset AD	benign
+89	14755451	IDE	rs551266	-	Alzheimer's disease	-	no association with early- or late-onset AD	benign
+90	14755451	IDE	rs489517	-	Alzheimer's disease	-	no association with early- or late-onset AD	benign
+91	14755451	IDE	D10S583	-	Alzheimer's disease	-	no association with early- or late-onset AD	benign
+92	14764791	GFPT2	-	I471V	type 2 diabetes mellitus (T2DM)	-	altered protein function or linkage disequilibrium with the 3' UTR	likely pathogenic
+93	14764791	GFPT2	-	3' UTR SNP	type 2 diabetes mellitus (T2DM)	increased hexosamine flux	increased GFPT2 mRNA levels	likely pathogenic
+94	14764791	GFPT2	-	3' UTR SNP	diabetic nephropathy	-	increased GFPT2 mRNA levels	likely pathogenic
+95	14871556	KCNJ11	-	K23E	sudden cardiac death (SCD)	-	no difference in allele, genotype, and haplotype frequencies between the two groups	benign
+96	14871556	KCNJ11	-	A190A	sudden cardiac death (SCD)	-	no difference in allele, genotype, and haplotype frequencies between the two groups	benign
+97	14871556	KCNJ11	-	L267V	sudden cardiac death (SCD)	-	no difference in allele, genotype, and haplotype frequencies between the two groups	benign
+98	14871556	KCNJ11	-	L270V	sudden cardiac death (SCD)	-	no difference in allele, genotype, and haplotype frequencies between the two groups	benign
+99	14871556	KCNJ11	-	I337V	sudden cardiac death (SCD)	-	no difference in allele, genotype, and haplotype frequencies between the two groups	benign
+100	14871556	KCNJ11	-	K281K	sudden cardiac death (SCD)	-	no difference in allele, genotype, and haplotype frequencies between the two groups	benign
+101	14871556	KCNJ11	-	L267L	sudden cardiac death (SCD)	-	no difference in allele, genotype, and haplotype frequencies between the two groups	benign
+102	14871556	KCNJ11	3'UTR +62 G/A	-	sudden cardiac death (SCD)	-	no difference in allele, genotype, and haplotype frequencies between the two groups	benign
+103	14871556	KCNJ11	-	P266T	sudden cardiac death (SCD)	-	unknown functional consequences	unknown
+104	14871556	KCNJ11	-	R371H	sudden cardiac death (SCD)	-	unknown functional consequences	unknown
+105	14872030	MxA	-88 G/T	-	subacute sclerosing panencephalitis (SSPE)	persistent MV infection of neural cells	higher IFN-induced up-regulation of the MxA promoter activity	likely pathogenic
+106	14961571	CDH1	-160C/A	-	prostate cancer	-	association with increased risk of hereditary cancer	likely pathogenic
+107	14961572	IL1B	-511C-T	-	lung cancer	increased risk of developing lung cancer	association with increased risk of developing inflammatory diseases and gastric carcinoma	likely pathogenic
+108	14961572	IL1B	-31T-C	-	lung cancer	increased risk of developing lung cancer	association with increased risk of developing inflammatory diseases and gastric carcinoma	likely pathogenic
+109	14962090	IRF2	921G/A	-	psoriasis	-	obliterate a predicted exon splice enhancer	likely pathogenic
+110	14962947	ABCA1	C-564T	-	coronary artery disease	variability of plasma ApoA1	association with plasma levels of ApoA1	likely pathogenic
+111	14962947	ABCA1	-	R1587K	coronary artery disease	variability of plasma ApoA1	association with plasma levels of ApoA1	likely pathogenic
+112	14962947	ABCA1	-	R219K	myocardial infarction (MI)	-	association with the risk of MI	likely pathogenic
+113	14970360	AGT	G-217A	-	hypertension	-	increased risk to hypertension	likely pathogenic
+114	14970360	AGT	A-6G	-	hypertension	-	increased risk to hypertension	likely pathogenic
+115	14970360	AGT	M235T	-	hypertension	-	increased frequency of the recombinant haplotypes	likely pathogenic
+116	14970360	AGT	G-217A	-	hypertension	increased promoter activities	increased promoter activities	likely pathogenic
+117	14970360	AGT	A-6G	-	hypertension	increased promoter activities	increased promoter activities	likely pathogenic
+118	14970363	LEPR	Lys109Arg (A/G)	-	obesity	body mass index (BMI), fat mass, percentage fat mass (PFM), and lean mass	association with lean mass and fat mass	likely pathogenic
+119	14970363	LEPR	Lys656Asn (G/C)	-	obesity	body mass index (BMI), fat mass, percentage fat mass (PFM), and lean mass	association with lean mass and fat mass	likely pathogenic
+120	14970363	LEPR	Pro1019Pro (G/A)	-	obesity	body mass index (BMI), fat mass, percentage fat mass (PFM), and lean mass	contribution to the phenotypic variation of lean mass and fat mass	likely pathogenic
+121	14970845	PRNP	SNP 1368	-	Creutzfeldt-Jakob disease (CJD)	-	no evidence for a relation to CJD independent of PRNP M129V	likely benign
+122	14970845	PRNP	M129V	-	Creutzfeldt-Jakob disease (CJD)	-	significant evidence for linkage disequilibrium with SNP 1368	unknown
+123	14970845	PRND	T26M	-	Creutzfeldt-Jakob disease (CJD)	-	inconsistent findings	unknown
+124	14970845	PRND	P56L	-	Creutzfeldt-Jakob disease (CJD)	-	inconsistent findings	unknown
+125	14970845	PRND	T174M	-	Creutzfeldt-Jakob disease (CJD)	-	significant increased prevalence of M homozygotes among sporadic CJD patients, but meta-analysis did not show a consistent effect	conflicting
+126	14973548	TNF	-308G/A	-	rheumatoid arthritis, multiple sclerosis, ankylosing spondylitis, asthma, malaria, hepatitis B and C infection, leprosy, sepsis/septic shock	-	not functional	benign
+127	14973548	TNF	-	-	rheumatoid arthritis, multiple sclerosis, ankylosing spondylitis, asthma, malaria, hepatitis B and C infection, leprosy, sepsis/septic shock	-	mixed results, controversial	unknown
+128	14973783	MC4R	rs2229616	V103I	obesity	-	negative association of the I103 allele with obesity, functional in vitro assays showed no difference from the wild-type allele	likely benign
+129	14975928	HERG	-	K897T	Long QT syndrome (LQTS)	altered channel physiology, lower current density, activated at more negative potentials, faster inactivation and recovery from inactivation	altered channel physiology	likely pathogenic
+130	14975928	HERG	-	P967L	Long QT syndrome (LQTS)	-	no electrophysiological differences from WT channels	benign
+131	14975928	HERG	-	R1047L	Long QT syndrome (LQTS)	-	no electrophysiological differences from WT channels	benign
+132	14975928	HERG	-	Q1068R	Long QT syndrome (LQTS)	altered channel physiology, faster inactivation and recovery from inactivation	altered channel physiology	likely pathogenic
+133	14979495	TLR2	Arg753Gln	Arg753Gln	tuberculosis	-	negative influence on TLR2 function	pathogenic
+134	14986114	MMP-1	1G/2G	-	gastric cancer	histological differentiation	no significant association with tumor invasion, lymph node metastasis, and clinical stage, but significant association with histological differentiation and gender	likely benign
+135	14986169	CTLA4	JO31	-	Autoimmune thyroid disease (AITD), Graves' disease (GD)	-	association with increased risk for GD and AITD in a dominant model	likely pathogenic
+136	15007371	CYP7B1	-104C-G	-	prostate cancer	higher transcriptional activity	different affinities to a CCAAT-box binding protein and higher transcriptional activity	likely pathogenic
+137	15007729	DYX1C1	-	-	developmental dyslexia	reading disability	-	unknown
+138	15007729	TACR1	-	-	developmental dyslexia	-	excluded from the candidate area	benign
+139	15008790	PON1	-108C/T	-	cardiovascular disease	-	population differences in haplotype frequency	unknown
+140	15008790	PON1	192Q/R	p.Q192R	cardiovascular disease	-	population differences in haplotype frequency	unknown
+141	15009068	TNF-beta	+252 G/A	-	chronic immune thrombocytopenic purpura (ITP)	autoreactive B-cell responses to platelet membrane glycoproteins	association with increased frequency of circulating anti-glycoprotein IIb/IIIa antibody-producing B cells	likely pathogenic
+142	15022318	PD-1	C+872T	-	rheumatoid arthritis (RA)	-	association between PD-1 and the development of RA by conducting case-control genetic-association studies	likely pathogenic
+143	15022318	PD-1	C+872T	-	systemic lupus erythematosus (SLE)	-	no significant association	likely benign
+144	15024396	EN2	rs3735653	-	autism spectrum disorder (ASD)	cerebellar morphological abnormalities	no association	benign
+145	15024396	EN2	rs1861972	-	autism spectrum disorder (ASD)	cerebellar morphological abnormalities	significant association	likely pathogenic
+146	15024396	EN2	rs1861973	-	autism spectrum disorder (ASD)	cerebellar morphological abnormalities	significant association	likely pathogenic
+147	15024396	EN2	rs2361689	-	autism spectrum disorder (ASD)	cerebellar morphological abnormalities	no association	benign
+148	15024686	CARD15	R702W	R702W	Crohn disease	inflammatory bowel disease	higher frequency in AJ patients from multiplex families with CD	likely pathogenic
+149	15024686	CARD15	G908R	G908R	Crohn disease	inflammatory bowel disease	higher frequency in AJ patients from multiplex families with CD	likely pathogenic
+150	15024686	CARD15	1007fs	1007fs	Crohn disease	inflammatory bowel disease	higher frequency in AJ patients from multiplex families with CD	likely pathogenic
+151	15024686	CARD15	P268S	P268S	Crohn disease	inflammatory bowel disease	no evidence for increased risk	likely benign
+152	15024686	CARD15	D113N	D113N	Crohn disease	inflammatory bowel disease	novel change, possible disease predisposing	unknown
+153	15024686	CARD15	D357A	D357A	Crohn disease	inflammatory bowel disease	novel change, possible disease predisposing	unknown
+154	15024686	CARD15	I363F	I363F	Crohn disease	inflammatory bowel disease	novel change, possible disease predisposing	unknown
+155	15024686	CARD15	L550V	L550V	Crohn disease	inflammatory bowel disease	novel change, possible disease predisposing	unknown
+156	15024686	CARD15	N852S	N852S	Crohn disease	inflammatory bowel disease	may be disease predisposing, occurred only in AJ individuals	likely pathogenic
+157	15024686	CARD15	IVS(+158)	-	Crohn disease	inflammatory bowel disease	no evidence for increased risk	benign
+158	15026335	CDKN1B	326T/G	V109G	prostate cancer	advanced prostate cancer	association with advanced prostate cancer	likely pathogenic
+159	15026335	CDKN1B	-79C/T	-	prostate cancer	-	significant association between SNP and prostate cancer	likely pathogenic
+160	15028050	KCNQ1	-	A341V	long QT syndrome (LQTS)	-	loss-of-function type mutation	pathogenic
+161	15028050	KCNQ1	-	R243H	long QT syndrome (LQTS)	-	-	unknown
+162	15028050	KCNH2	-	S706C	long QT syndrome (LQTS)	reduced current density of expressed heterozygous KCNH2 channels	reduce the current density of expressed heterozygous KCNH2 channels with a positive shift (+8 mV) of the activation curve	pathogenic
+163	15028050	KCNJ2	-	G144S	long QT syndrome (LQTS)	-	-	unknown
+164	15028669	BAT1	-22*C	-	type 1 diabetes	-	association with the diabetes-resistant 7.1 ancestral haplotype	unknown
+165	15028669	BAT1	-22*C	-	type 1 diabetes	-	association with the diabetes-susceptible 8.1 ancestral haplotype	unknown
+166	15028669	BAT1	-348*C	-	type 1 diabetes	-	association with the diabetes-susceptible 8.1 ancestral haplotype	unknown
+167	15028669	BAT1	-348*T	-	type 1 diabetes	-	association with the diabetes-resistant 7.1 ancestral haplotype	unknown
+168	15037865	MC4R	-	V103I	binge-eating disorder (BED)	-	no significant differences between carriers of MC4R variants and wild-type carriers	benign
+169	15037865	MC4R	-	I251L	binge-eating disorder (BED)	-	no significant differences between carriers of MC4R variants and wild-type carriers	benign
+170	15047633	HNF4A	rs2144908	-	type 2 diabetes	-	association with diabetes disease status and several diabetes-related traits	likely pathogenic
+171	15047636	CALDESmon	-579A>G	-	diabetic nephropathy	-	association with nephropathy in case-control studies	likely pathogenic
+172	15048652	DRD4	-616 C/G	-	-	-	no association with personality factors of Cloninger's temperament and character inventory	benign
+173	15050452	VEGF	-634C/G	-	HTLV-I-associated myelopathy/tropical spastic paraparesis (HAM/TSP)	-	not associated with the risk of HAM/TSP	benign
+174	15054398	F5	1691G-->A	p.Arg506Gln	venous thrombosis	-	replacement of Arg506 by Gln in one of the cleavage sites for activated protein C	pathogenic
+175	15054398	F5	99930G-->A	-	venous thrombosis	-	no association with venous thrombotic risk	benign
+176	15054398	F5	55907A-->G	-	venous thrombosis	-	no association with venous thrombotic risk	benign
+177	15054398	F5	42855A-->G	-	venous thrombosis	-	no association with venous thrombotic risk	benign
+178	15054398	F5	37833T-->G	-	venous thrombosis	-	no association with venous thrombotic risk	benign
+179	15057901	UGT1A8	A173G	-	hepatocellular carcinoma (HCC)	-	not associated with HCC	benign
+180	15057901	UGT1A8	G765A	-	hepatocellular carcinoma (HCC)	-	not associated with HCC	benign
+181	15057901	UGT1A9	C3Y	-	hepatocellular carcinoma (HCC)	-	not associated with HCC	benign
+182	15057901	UGT1A9	M33T	-	hepatocellular carcinoma (HCC)	-	not associated with HCC	benign
+183	15057901	UGT1A1	G128A	-	hepatocellular carcinoma (HCC)	-	not associated with HCC	benign
+184	15057901	UGT1A10	C696T	-	hepatocellular carcinoma (HCC)	-	not associated with HCC	benign
+185	15057901	UGT1A3	W11R	-	hepatocellular carcinoma (HCC)	-	not associated with HCC	benign
+186	15057901	UGT1A3	V47A	-	hepatocellular carcinoma (HCC)	-	not associated with HCC	benign
+187	15057901	UGT1A3	G81A	-	hepatocellular carcinoma (HCC)	-	not associated with HCC	benign
+188	15057901	UGT1A4	P24T	-	hepatocellular carcinoma (HCC)	reduced glucuronidation activities	reduced glucuronidation activities	likely benign
+189	15057901	UGT1A4	L48V	-	hepatocellular carcinoma (HCC)	reduced glucuronidation activities	reduced glucuronidation activities	likely benign
+190	15061869	CDKN1B	-838C>A	-	myocardial infarction	-	reduced p27kip1 promoter activity	likely pathogenic
+191	15066320	SDHD	-	M1V	paragangliomas	-	loss of heterozygosity (LOH) and point mutation	pathogenic
+192	15066320	SDHD	-	H50R	-	-	polymorphism	benign
+193	15077293	PADI4	padi4_89*G/A	-	rheumatoid arthritis (RA)	-	no association with RA in the UK population	benign
+194	15077293	PADI4	padi4_90*T/C	-	rheumatoid arthritis (RA)	-	no association with RA in the UK population	benign
+195	15077293	PADI4	padi4_92*G/C	-	rheumatoid arthritis (RA)	-	no association with RA in the UK population	benign
+196	15077293	PADI4	padi4_104*T/C	-	rheumatoid arthritis (RA)	-	no association with RA in the UK population	benign
+197	15078863	CYBA	C242T	-	atherosclerosis	reduced atherosclerosis	diminished vascular oxidative stress	likely benign
+198	15078863	CYBA	A640G	-	atherosclerosis	-	no alteration of neutrophil respiratory burst	benign
+199	15078863	CYBA	-930A/G	-	atherosclerosis	-	no alteration of neutrophil respiratory burst	benign
+200	15080568	GSTP1	A313G	-	Alzheimer's disease (AD)	-	no statistically significant association with AD	likely benign
+201	15080568	GSTP1	C341T	-	Alzheimer's disease (AD)	-	no statistically significant association with AD	likely benign
+202	15084241	ESR1	TCT --> TCC	-	breast cancer	-	lower frequency in breast cancer patients	unknown
+203	15084241	ESR1	ACG --> ACA	-	breast cancer	family history of breast cancer	less common in breast cancer patients with a family history	unknown
+204	15084241	ESR1	CCC --> CCG	-	breast cancer	lymph node metastasis	reverse association with the occurrence of lymph node metastasis	unknown
+205	15084933	IL10	-1082IL10 GG	-	chronic rejection	-	high IL-10 production	likely pathogenic
+206	15084933	IL4	-33IL4 CC	-	chronic rejection	-	low IL-4 production	likely pathogenic
+207	15087412	TLR4	11381G/C	-	prostate cancer	increased risk for prostate cancer and early onset prostate cancer	association between the variant and increased risk, possible role of bacteria-associated response pathway via inflammation	likely pathogenic
+208	15091315	NOTCH4	rs367398	-	schizophrenia	-	located in the promoter region, but no association with the illness in Chinese Han descent samples	unknown
+209	15091315	NOTCH4	rs915894	-	schizophrenia	-	no association with the illness	benign
+210	15091315	NOTCH4	rs520692	-	schizophrenia	-	associated with schizophrenia (P = 0.017)	likely pathogenic
+211	15091315	NOTCH4	rs422951	-	schizophrenia	-	no association with the illness	benign
+212	15091317	TNFRII	TNFRII 196R	-	Alzheimer's disease	-	no genetic association between TNFRII 196R polymorphism and Alzheimer's disease	benign
+213	15091317	TNFRII	TNFRII 196R	-	auto-immune diseases	-	associated with auto-immune diseases	likely pathogenic
+214	15094225	MTP	-493G/T	-	non-alcoholic steatohepatitis (NASH)	greater intracellular triglyceride accumulation	decreased MTP transcription, less export of triglyceride from hepatocytes	likely pathogenic
+215	15094225	MnSOD	1183T/C	-	non-alcoholic steatohepatitis (NASH)	less transport of MnSOD to the mitochondria	less transport of MnSOD to the mitochondria	likely pathogenic
+216	15099281	NOS3	894 G > T	-	recurrent venous thrombosis (RVT)	elevated homocysteine levels	interaction with elevated tHcy levels, leading to an increased risk of recurrent thrombotic events	likely pathogenic
+217	15099346	LIPC	-250G/A	-	coronary artery disease (CAD)	variations in HDL-C levels	association with significant variations in HDL-C levels and CAD risk in males, multiple logistic regression analysis showed that this association was independent of classical CAD risk factors	likely benign
+218	15099969	TP53	Pro72Arg	p.Pro72Arg	endometrial cancer	-	statistically significant differences in the frequency of the p53 genotypes between endometrial cancer patients and non-cancer controls	likely pathogenic
+219	15099969	CDKN1A	Ser31Arg	p.Ser31Arg	endometrial cancer	-	statistically significant differences in the frequency of the p21 genotypes between endometrial cancer patients and non-cancer controls	likely pathogenic
+220	15100460	TNF	-244 G/A	-	hepatitis C	-	ethnic differences in the distribution of genotypes	unknown
+221	15100460	TNF	-376 G/A	-	hepatitis C	-	ethnic differences in the distribution of genotypes	unknown
+222	15100460	IL10	-851	-	hepatitis C	-	infrequently occurring polymorphisms	unknown
+223	15100460	IL10	-657	-	hepatitis C	-	infrequently occurring polymorphisms	unknown
+224	15100460	TNF	-77	-	hepatitis C	-	infrequently occurring polymorphisms	unknown
+225	15101044	ATM	2572T>C	p.858F>L	breast cancer	increased in vitro chromosomal radiosensitivity	interfering with ATM function in a dominant-negative manner	likely pathogenic
+226	15101044	ATM	3161C>G	p.1054P>R	breast cancer	increased in vitro chromosomal radiosensitivity	interfering with ATM function in a dominant-negative manner	likely pathogenic
+227	15102677	CYP11B2	rs4541	V386A	breast cancer	-	identified as a key discriminator between breast cancer and controls using machine learning techniques	unknown
+228	15102677	CYP1B1	rs5292	L293V	breast cancer	-	identified as a key discriminator between breast cancer and controls using machine learning techniques	unknown
+229	15102677	BCL6	rs1056932	D387D	breast cancer	-	identified as a key discriminator between breast cancer and controls using machine learning techniques	unknown
+230	15103710	GAD67	-445A	-	nonsyndromic cleft lip with or without cleft palate (NSCLP)	-	frequency of haplotype differed between NSCLP patients and controls	unknown
+231	15103710	GAD67	-292A	-	nonsyndromic cleft lip with or without cleft palate (NSCLP)	-	frequency of haplotype differed between NSCLP patients and controls	unknown
+232	15103710	GAD67	-147G	-	nonsyndromic cleft lip with or without cleft palate (NSCLP)	-	frequency of haplotype differed between NSCLP patients and controls	unknown
+233	15103710	GAD67	111C	-	nonsyndromic cleft lip with or without cleft palate (NSCLP)	-	frequency of haplotype differed between NSCLP patients and controls	unknown
+234	15103710	GAD67	IVS9-39T	-	nonsyndromic cleft lip with or without cleft palate (NSCLP)	-	frequency of haplotype differed between NSCLP patients and controls	unknown
+235	15103710	GAD67	-445C	-	nonsyndromic cleft lip with or without cleft palate (NSCLP)	-	preferentially transmitted to the patients with cleft lip and palate	unknown
+236	15103710	GAD67	-292C	-	nonsyndromic cleft lip with or without cleft palate (NSCLP)	-	preferentially transmitted to the patients with cleft lip and palate	unknown
+237	15103710	GAD67	-147G	-	nonsyndromic cleft lip with or without cleft palate (NSCLP)	-	preferentially transmitted to the patients with cleft lip and palate	unknown
+238	15103710	GAD67	111C	-	nonsyndromic cleft lip with or without cleft palate (NSCLP)	-	preferentially transmitted to the patients with cleft lip and palate	unknown
+239	15103710	GAD67	IVS9-39C	-	nonsyndromic cleft lip with or without cleft palate (NSCLP)	-	preferentially transmitted to the patients with cleft lip and palate	unknown
+240	15108194	BDNF	196G/A	-	eating disorders	-	statistically significant difference in genotype frequency between patients and normal controls	likely pathogenic
+241	15108283	GAS6	c.1263G>C	-	atherothrombotic disease	-	does not modify the encoded amino acid	benign
+242	15108283	GAS6	c.1332C>T	-	atherothrombotic disease	-	does not modify the encoded amino acid	benign
+243	15108283	GAS6	c.1869T>C	-	atherothrombotic disease	-	does not modify the encoded amino acid	benign
+244	15108283	GAS6	c.280+170C>G	-	atherothrombotic disease	-	intron variant, unknown functional impact	unknown
+245	15108283	GAS6	c.712+26G>A	-	atherothrombotic disease	-	intron variant, unknown functional impact	unknown
+246	15108283	GAS6	c.713-155C>T	-	atherothrombotic disease	-	intron variant, unknown functional impact	unknown
+247	15108283	GAS6	c.834+7G>A	-	atherothrombotic disease	-	statistically significant differences between controls and stroke patients	likely pathogenic
+248	15108283	GAS6	c.1478-94C>G	-	atherothrombotic disease	-	intron variant, unknown functional impact	unknown
+249	15110318	MT-RNR1	A1555G	-	hearing loss	profound congenital hearing loss to normal hearing	variable expressivity due to modifier genes	unknown
+250	15110318	TFB1M	-	-	hearing loss	variable expressivity	regulatory or splicing mutation	likely pathogenic
+251	15114532	HBB	beta26Glu-->Lys	p.Glu26Lys	malaria	-	confers some protection against Plasmodium falciparum malaria	benign
+252	15115760	BDNF	Val66Met	-	anorexia nervosa (AN), bulimia nervosa (BN), eating disorders (ED)	aberrant eating behaviors	strong association with all ED subtypes	likely pathogenic
+253	15115760	BDNF	-270C>T	-	bulimia nervosa (BN), eating disorders (ED)	late age at onset of weight loss	effect on BN and late age at onset of weight loss	likely pathogenic
+254	15116249	F12	46C-->T	-	venous thrombotic disease	increased risk of thrombosis	associated with an increased risk of thrombosis	pathogenic
+255	15116260	CD14	-159T/C	-	atherosclerosis	-	no association with progression of coronary atherosclerosis and no influence on the efficacy of pravastatin	benign
+256	15122513	FGF20	rs1989754	-	Parkinson disease (PD)	-	association with risk of PD	likely pathogenic
+257	15122513	FGF20	rs1721100	-	Parkinson disease (PD)	-	association with risk of PD	likely pathogenic
+258	15122513	FGF20	ss20399075	-	Parkinson disease (PD)	-	association with risk of PD	likely pathogenic
+259	15122513	FGF20	-	-	Parkinson disease (PD)	-	association with risk of PD through haplotype (A-G-C-C-T)	likely pathogenic
+260	15122513	FGF20	-	-	Parkinson disease (PD)	-	negative association with risk of PD through haplotype (A-G-G-G-C)	likely benign
+261	15123570	ADIPOQ	I164T	-	hypertension	low adiponectin concentration	association with low adiponectin concentration and hypertension	likely pathogenic
+262	15123570	ADIPOQ	G276T	-	-	-	no association with adiponectin concentration or hypertension	benign
+263	15123654	SREBP-1c	-468A/G	-	metabolic disorders	reduced mRNA expression of SREBP-1	loss of binding of unidentified proteins to the region between -453 to -480 bp of the SREBP-1c promoter and impaired insulin stimulation of SREBP-1c promoter activity	likely pathogenic
+264	15124004	COMT	rs4680	Val/Met	schizophrenia	-	modest association with the disease by the TRANSMIT, FBAT and PDT programs	likely pathogenic
+265	15124004	COMT	rs737865	-	schizophrenia	-	haplotype analysis indicated that a haplotype, haplotype A-G-A for SNPs rs737865-rs4680-rs165599, was preferentially transmitted to the affected subjects	likely pathogenic
+266	15124004	COMT	rs165599	-	schizophrenia	-	haplotype analysis indicated that a haplotype, haplotype A-G-A for SNPs rs737865-rs4680-rs165599, was preferentially transmitted to the affected subjects	likely pathogenic
+267	15126335	XRCC3	-	241Met	squamous cell carcinoma (SCC)	-	significantly inversely associated with the risks	likely benign
+268	15126335	XRCC3	-	241Met	basal cell carcinoma (BCC)	-	significantly inversely associated with the risks	likely benign
+269	15126335	XRCC3	4552C	-	basal cell carcinoma (BCC)	-	significantly associated with increased risk	likely pathogenic
+270	15126335	XRCC2	30833A	-	basal cell carcinoma (BCC)	-	significantly associated with increased risk	likely pathogenic
+271	15126335	LigaseIV	4044T	-	basal cell carcinoma (BCC)	-	associated with decreased risk	likely benign
+272	15126335	LigaseIV	4062T	-	basal cell carcinoma (BCC)	-	associated with decreased risk	likely benign
+273	15129369	CYP17	T(27)-C	-	osteoporosis	reduced bone mass and bone size	association with lower baseline BMD, BMC, and CSA in lean women	likely pathogenic
+274	15129369	COMT	G(1947)-A	-	osteoporosis	-	no association with bone mass at baseline, bone loss in untreated women, or response to HRT	benign
+275	15130757	IL6	-597G/A	-	age-related pathological conditions	-	contradictory results	unknown
+276	15130757	IL6	-572G/C	-	age-related pathological conditions	-	contradictory results	unknown
+277	15130757	IL6	-174G/C	-	age-related pathological conditions	increased longevity	modest, but significant, increase in the frequency of interleukin-6 -174GG homozygotes with age	likely benign
+278	15130757	IL6	-373(A)n(T)m	-	age-related pathological conditions	-	contradictory results	unknown
+279	15138193	TLR2	C2029T	Arg677Trp	tuberculosis	-	association with increased frequency in tuberculosis patients	likely pathogenic
+280	15138458	CTLA4	+49 SNP	-	systemic lupus erythematosus (SLE)	-	conflicting results in different studies	conflicting
+281	15138458	CTLA4	3'UTR repeat	-	systemic lupus erythematosus (SLE)	-	association with SLE, but in linkage disequilibrium with a true causative locus	unknown
+282	15138483	TP53	-	R72P	breast cancer	-	associated with breast cancer	likely pathogenic
+283	15138483	NQO1	-	P187S	breast cancer	-	associated with breast cancer	likely pathogenic
+284	15138483	BRCA1	-	Q356R	breast cancer	-	no association	benign
+285	15138483	BRCA1	-	P871L	breast cancer	-	no association	benign
+286	15138483	BRCA2	-	N372H	breast cancer	-	no association	benign
+287	15138483	ApoE	-	C112R	breast cancer	-	no association	benign
+288	15138483	ApoE	-	R158C	breast cancer	-	no association	benign
+289	15138483	GNB3	-	C825T	breast cancer	-	no association	benign
+290	15138485	RAD51	RAD51-135g-->c	-	breast cancer	elevated breast cancer risk, younger median breast cancer age	elevated hazard ratio and odds ratio for BRCA2 carriers	likely pathogenic
+291	15138485	RAD51	RAD51-135g-->c	-	breast cancer	-	no significant association with breast cancer risk in BRCA1 carriers and noncarriers	likely benign
+292	15142217	TNFR2	+587T/G	-	chronic periodontitis (CP)	severe CP	association with increased probing pocket depth, clinical attachment level, and alveolar bone loss	likely pathogenic
+293	15149891	UCP2	-866G/A	-	obesity	low prevalence of obesity	associated with enhanced adipose tissue mRNA expression in vivo	likely benign
+294	15150650	LAR	-127 T-->A	-	insulin resistance, type 2 diabetes (T2D)	lower body mass index (BMI), lower waist circumference, lower blood pressure, lower urinary albumin/creatinine ratio, lower triglyceride levels, higher insulin sensitivity	association with features of insulin resistance in two different Caucasian populations	likely benign
+295	15161528	SCN5A	A1673G	H558R	Brugada syndrome (BS)	-	over-represented in BS patients compared to controls	likely pathogenic
+296	15161528	SCN5A	G87A	A29A	-	-	no significant difference in the allele frequency between BS patients and controls	benign
+297	15161528	SCN5A	4245 + 82A > G	-	-	-	no significant difference in the allele frequency between BS patients and controls	benign
+298	15161528	SCN5A	C5457T	D1819D	-	-	no significant difference in the allele frequency between BS patients and controls	benign
+299	15161528	SCN5A	G6174A	-	-	-	no significant difference in the allele frequency between BS patients and controls	benign
+300	15164150	SQSTM1	-	P392L	Paget's disease of bone (PDB)	-	previously shown to be common in both familial and sporadic cases	pathogenic
+301	15166293	MCHR1	-	Y181H	obesity	hyperphagia	no evidence of constitutive activation or ligand hypersensitivity for extracellular signal-regulated kinase phosphorylation	unknown
+302	15166293	MCHR1	-	R248Q	obesity	hyperphagia	no evidence of constitutive activation or ligand hypersensitivity for extracellular signal-regulated kinase phosphorylation and no enhanced suppression of cAMP generation	unknown
+303	15166293	MCHR1	g.-114A>G	-	obesity	-	no association with obesity-related phenotypes	benign
+304	15166293	MCHR1	c.39C>T	-	obesity	-	no association with obesity-related phenotypes	benign
+305	15170937	IL-4	-1098 T/G	-	juvenile idiopathic arthritis (JIA)	-	association with JIA, odds ratio (OR) 0.32	likely pathogenic
+306	15170937	IL-1beta	+3962 C	-	juvenile idiopathic arthritis (JIA)	-	nonsignificant increase in the frequency of the allele in cases versus controls, odds ratio (OR) 4.65	likely pathogenic

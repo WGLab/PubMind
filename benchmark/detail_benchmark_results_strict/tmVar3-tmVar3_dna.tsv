@@ -1,0 +1,320 @@
+PMID	GT_Mutations	tmVar3-tmVar3_dna_Mutations	TP	FP	FN	Total_GT	Total_tmVar3-tmVar3_dna	Precision	Recall	F1	Accuracy
+12636044	{'c2403T>C', 'c5398T>C', 'c4475C>A'}	{'c2403T>C', 'c5398T>C', 'c4475C>A'}	3	0	0	3	3	1.0	1.0	1.0	1.0
+12650796	{'cysineinsertionatposition3020', '3020insC'}	{'cysineinsertionatposition3020', '3020insC'}	2	0	0	2	2	1.0	1.0	1.0	1.0
+12653841	{'878delA', '1936delG', '1195delC'}	{'878delA', '1936delG', '1195delC'}	3	0	0	3	3	1.0	1.0	1.0	1.0
+12668354	{'44basepairinsertion/deletion'}	set()	0	0	1	1	0	0.0	0.0	0.0	0.0
+12668609	{'A262T'}	{'A262T'}	1	0	0	1	1	1.0	1.0	1.0	1.0
+12673366	{'GCsubstitutionatposition135'}	{'GCsubstitutionatposition135'}	1	0	0	1	1	1.0	1.0	1.0	1.0
+12701064	{'3basedeletion', '3basedeletionTCC,either350351or351352codon', '1basedeletion', 'TAC>AAatcodon329'}	set()	0	0	4	4	0	0.0	0.0	0.0	0.0
+12716337	{'GCsubstitutionatposition174'}	{'GCsubstitutionatposition174'}	1	0	0	1	1	1.0	1.0	1.0	1.0
+12719097	{'Cdeletionatnucleotideposition4548'}	{'Cdeletionatnucleotideposition4548'}	1	0	0	1	1	1.0	1.0	1.0	1.0
+12729343	{'1729+55del4', '469+14G/C'}	{'1729+55del4', '469+14G/C'}	2	0	0	2	2	1.0	1.0	1.0	1.0
+12736721	{'192bpinsert'}	set()	0	0	1	1	0	0.0	0.0	0.0	0.0
+12737948	{'IVS348C', 'IVS10+1,g>t', 'IVS123T', '251G'}	{'IVS348C', 'IVS10+1,g>t', 'IVS123T'}	3	0	1	4	3	1.0	0.75	0.8571428571428571	0.75
+12750403	{'1631delC', '1bpdeletion'}	{'1631delC'}	1	0	1	2	1	1.0	0.5	0.6666666666666666	0.5
+12752111	{'IVSI5G>C', 'IVSI1G>A', '13bpdeletion', 'IVSI129A>C'}	{'IVSI5G>C', 'IVSI1G>A', 'IVSI129A>C'}	3	0	1	4	3	1.0	0.75	0.8571428571428571	0.75
+12791036	{'615delC', 'duplicationof17bp', '12851301dup'}	{'615delC', '12851301dup'}	2	0	1	3	2	1.0	0.6666666666666666	0.8	0.6666666666666666
+12809638	{'2566T>C', '25902591insCCCC', '752758delGCCGGCC'}	{'2566T>C', '25902591insCCCC', '752758delGCCGGCC'}	3	0	0	3	3	1.0	1.0	1.0	1.0
+12820697	{'1009delA'}	{'A182T', '1009delA'}	1	1	0	1	2	0.5	1.0	0.6666666666666666	0.5
+12829659	{'G308G', 'C174C', 'G308A', 'C174G', '308A'}	{'G308G', 'C174C', 'G308A', 'C174G', '308A'}	5	0	0	5	5	1.0	1.0	1.0	1.0
+12862311	{'791G>T'}	{'791G>T'}	1	0	0	1	1	1.0	1.0	1.0	1.0
+12872254	{'399402delAGAG', '4bpdeletion'}	{'399402delAGAG'}	1	0	1	2	1	1.0	0.5	0.6666666666666666	0.5
+12898858	{'A1166C'}	{'A1166C'}	1	0	0	1	1	1.0	1.0	1.0	1.0
+12915397	{'866A', '866G/A', '45ntinsertion'}	{'866A', '866G/A'}	2	0	1	3	2	1.0	0.6666666666666666	0.8	0.6666666666666666
+12925671	{'620621del', 'C877T'}	{'620621del', 'C877T'}	2	0	0	2	2	1.0	1.0	1.0	1.0
+12968672	{'G1739A'}	{'G1739A'}	1	0	0	1	1	1.0	1.0	1.0	1.0
+14508191	{'A/C1166', 'T/C704', 'T/C344'}	{'A/C1166', 'T/C704', 'T/C344'}	3	0	0	3	3	1.0	1.0	1.0	1.0
+14510914	{'deletionofthecodingsequencent1314throughnt1328', '15ntduplicating'}	{'lackingthefiveterminalaminoacidsofexonXI439443', 'deletionofthecodingsequencent1314throughnt1328', 'del439443'}	1	2	1	2	3	0.3333333333333333	0.5	0.4	0.25
+14510916	{'1892G>C'}	{'1892G>C'}	1	0	0	1	1	1.0	1.0	1.0	1.0
+14533983	{'D32', '32nucleotidedeletion'}	set()	0	0	2	2	0	0.0	0.0	0.0	0.0
+14562027	{'263G/A', '1001C/T', '+355G/T', '+142C/G', '13C/T'}	{'263G/A', '1001C/T', '+355G/T', '+142C/G', '13C/T'}	5	0	0	5	5	1.0	1.0	1.0	1.0
+14568816	{'spcodonatnucleotides766768', 'GAmutationatcodon456', 'GATTduplicationnucleotides763766'}	{'GAmutationatcodon456', 'GATTduplicationnucleotides763766'}	2	0	1	3	2	1.0	0.6666666666666666	0.8	0.6666666666666666
+14576201	{'G5947A', 'IVS46:delT39...46', 'deletionofthymidineinapolypyrimidinetractlocated3346bps'}	{'G5947A', 'IVS46:delT39...46'}	2	0	1	3	2	1.0	0.6666666666666666	0.8	0.6666666666666666
+14623369	{'C270T'}	{'C270T'}	1	0	0	1	1	1.0	1.0	1.0	1.0
+14639526	{'dup17p11.2p11.2', '4Mbheterozygousinterstitialdeletion', '2.1kbATrichinvertedrepeats'}	{'2p11.2', 'chromosome17p11.2'}	1	1	2	3	2	0.5	0.3333333333333333	0.4	0.25
+14708104	{'33853386delTT'}	{'33853386delTT'}	1	0	0	1	1	1.0	1.0	1.0	1.0
+14709355	{'5GCrepeats'}	set()	0	0	1	1	0	0.0	0.0	0.0	0.0
+14722925	{'G>Asubstitutionatnucleotide+1ofintron2', '27delC', '87+1G>A'}	{'G>Asubstitutionatnucleotide+1ofintron2', '27delC', '87+1G>A'}	3	0	0	3	3	1.0	1.0	1.0	1.0
+14742428	{'IVS9del[7:4]', '1109ins8bp'}	{'IVS9del[7:4]', '1109ins8bp'}	2	0	0	2	2	1.0	1.0	1.0	1.0
+14751036	{'Cinsertioninexon14betweenpositions25052511', '1242G>T', 'GGCCinsertionatexon8,position1277', '2084G>A', 'GGCCinsertionatexon81277', '1780C>A', '9+1G>T', '2068G>C'}	{'1242G>T', 'Cinsertioninexon14betweenpositions25052511', 'GGCCinsertionatexon8,position1277', '2084G>A', 'GGCCinsertionatexon81277', '1780C>A', '9+1G>T', '2068G>C'}	8	0	0	8	8	1.0	1.0	1.0	1.0
+15000256	{'ACsubstitutionatnucleotide879'}	{'ACsubstitutionatnucleotide879'}	1	0	0	1	1	1.0	1.0	1.0	1.0
+15003823	{'33+2T>C', '962GA', '3451G>C', '181G>C', '1067delA', '498+15G>T', '49913Delta14bpindelTGA', '26761del8bp', '825+1G>C', '10671068ins5bp', '825+2T>C'}	{'33+2T>C', '962GA', '3451G>C', '181G>C', '1067delA', '498+15G>T', '26761del8bp', '825+1G>C', '10671068ins5bp', '825+2T>C'}	10	0	1	11	10	1.0	0.9090909090909091	0.9523809523809523	0.9090909090909091
+15009222	{'C435G', 'del329C', 'singlenucleotidedeletionatposition329'}	{'C435G', 'del329C', 'singlenucleotidedeletionatposition329'}	3	0	0	3	3	1.0	1.0	1.0	1.0
+15033202	{'5nucleotidedeletion'}	set()	0	0	1	1	0	0.0	0.0	0.0	0.0
+15041272	{'CTtransitionatnucleotide3916'}	{'CTtransitionatnucleotide3916'}	1	0	0	1	1	1.0	1.0	1.0	1.0
+15064320	{'Tnucleotidedeletion,whichpredictsaframeshiftmutationfromcodon219', 'Tdel219'}	{'Tnucleotidedeletion,whichpredictsaframeshiftmutationfromcodon219', 'Tdel219'}	2	0	0	2	2	1.0	1.0	1.0	1.0
+15069170	{'185C>T', '7A>T', '1930C>T', '11811186+20del26', 'IVS16+1G>A', '1932delC', '96bpinsertion', '18111812delAT', '2552T>A', '1712C>T'}	{'185C>T', '7A>T', '1930C>T', '11811186+20del26', 'IVS16+1G>A', '1932delC', '18111812delAT', '2552T>A', '1712C>T'}	9	0	1	10	9	1.0	0.9	0.9473684210526316	0.9
+15086325	{'IVS82A>G', '22389delAG', 'G6410T'}	{'IVS82A>G', '22389delAG', 'G6410T'}	3	0	0	3	3	1.0	1.0	1.0	1.0
+15086338	{'6573+1G>C', '5504delA'}	{'6573+1G>C', '5504delA'}	2	0	0	2	2	1.0	1.0	1.0	1.0
+15111599	{'IVS3+1G/A', '279delGAG', '3bpdeletion'}	{'IVS3+1G/A', 'chromosome17', 'DeltaG91'}	1	2	2	3	3	0.3333333333333333	0.3333333333333333	0.3333333333333333	0.2
+15122708	{'del92nucleotide19/+73'}	{'del92nucleotide19/+73', '1p36'}	1	1	0	1	2	0.5	1.0	0.6666666666666666	0.5
+15122711	{'G1681A'}	{'G1681A'}	1	0	0	1	1	1.0	1.0	1.0	1.0
+15147378	{'36bpinsertion'}	set()	0	0	1	1	0	0.0	0.0	0.0	0.0
+15148206	{'27bpduplicationwasfoundinsertedinthe2Bdomainatnucleotideposition1222', '27bpinsertion', 'duplicationof27nucleotides', '429A>C', '1222ins27'}	{'27bpduplicationwasfoundinsertedinthe2Bdomainatnucleotideposition1222', '1222ins27', '429A>C'}	3	0	2	5	3	1.0	0.6	0.7499999999999999	0.6
+15191352	{'1123T>G'}	{'1123T>G'}	1	0	0	1	1	1.0	1.0	1.0	1.0
+15198485	{'134delA'}	{'134delA'}	1	0	0	1	1	1.0	1.0	1.0	1.0
+15200509	{'cysineCforguanineGatcodon246'}	{'cysineCforguanineGatcodon246'}	1	0	0	1	1	1.0	1.0	1.0	1.0
+15272913	{'306basepairinsertion'}	set()	0	0	1	1	0	0.0	0.0	0.0	0.0
+15304120	{'1091C>T'}	{'1091C>T'}	1	0	0	1	1	1.0	1.0	1.0	1.0
+15316799	{'+45CC', 'intron4,+718C>T', 'intron2,352G>A', 'intron3,+45C>T', '352asGGorGA', '352G', '15T>C'}	{'intron3,+45C>T', 'intron4,+718C>T', '15T>C', 'intron2,352G>A'}	5	0	2	7	4	1.0	0.7142857142857143	0.8333333333333333	0.7142857142857143
+15377356	{'3432delT', '18772A>C'}	{'3432delT', '18772A>C'}	2	0	0	2	2	1.0	1.0	1.0	1.0
+15459183	{'4bpdeletion', '13nucleotiderepeat'}	set()	0	0	2	2	0	0.0	0.0	0.0	0.0
+15461822	{'Delta30', 'Delta304995', '30nucleotidedeletion'}	set()	0	0	3	3	0	0.0	0.0	0.0	0.0
+15464247	{'4bpinsertion/deletion', '1188A/C', '1188C'}	{'1188A/C'}	1	0	2	3	1	1.0	0.3333333333333333	0.5	0.3333333333333333
+15485686	{'G>Asubstitutionatcodon1763'}	{'G>Asubstitutionatcodon1763'}	1	0	0	1	1	1.0	1.0	1.0	1.0
+15579915	{'IVS10+4G'}	set()	0	0	1	1	0	0.0	0.0	0.0	0.0
+15607529	{'TGtransversionatnucleotide1836'}	{'TGtransversionatnucleotide1836'}	1	0	0	1	1	1.0	1.0	1.0	1.0
+15609295	{'ninenucleotidedeletionstartingatposition1952'}	{'ninenucleotidedeletionstartingatposition1952'}	1	0	0	1	1	1.0	1.0	1.0	1.0
+15636431	{'TCsubstitutionatposition1833'}	{'TCsubstitutionatposition1833'}	1	0	0	1	1	1.0	1.0	1.0	1.0
+15661214	{'guanineinsertion2Gpolymorphismatnucleotide1607'}	set()	0	0	1	1	0	0.0	0.0	0.0	0.0
+15667541	{'g.3907G>A'}	{'g.3907G>A'}	1	0	0	1	1	1.0	1.0	1.0	1.0
+15668505	{'203A', '203G>A'}	{'203A', '203G>A'}	2	0	0	2	2	1.0	1.0	1.0	1.0
+15672026	{'A>Gpolymorphismatposition670', 'adenineAguanineGsubstitutionatposition670'}	{'A>Gpolymorphismatposition670', 'adenineAguanineGsubstitutionatposition670'}	2	0	0	2	2	1.0	1.0	1.0	1.0
+15680411	{'GACTAnmicrosatellitelocated120kb'}	set()	0	0	1	1	0	0.0	0.0	0.0	0.0
+15749661	{'714C', '1665delC', '1469T>G'}	{'1665delC', '1469T>G'}	2	0	1	3	2	1.0	0.6666666666666666	0.8	0.6666666666666666
+15754732	{'912delTA', '222insT', '835del18'}	{'912delTA', '222insT', '835del18'}	3	0	0	3	3	1.0	1.0	1.0	1.0
+15755837	{'19basepairdeletion'}	set()	0	0	1	1	0	0.0	0.0	0.0	0.0
+15770495	{'IVS3+1G>A', '217218insC', 'del418T', 'del642T'}	{'IVS3+1G>A', '217218insC', 'del418T', 'del642T'}	4	0	0	4	4	1.0	1.0	1.0	1.0
+15807692	{'IVS51+1G>A', '3472delC'}	{'IVS51+1G>A', '3472delC'}	2	0	0	2	2	1.0	1.0	1.0	1.0
+15818664	{'143bpTC', '4basepairGA', '+14bpCT', '4bpGA'}	{'+14bpCT'}	1	0	3	4	1	1.0	0.25	0.4	0.25
+15824163	{'rs1639679'}	{'rs1639679'}	1	0	0	1	1	1.0	1.0	1.0	1.0
+15834874	{'G1915T/A', 'C3026T', 'T2005C/A', 'A1053G', 'G529A', 'C934A'}	{'T2005C', 'C3026T', 'G1915T', 'A1053G', 'G529A', 'C934A'}	6	0	0	6	6	1.0	1.0	1.0	1.0
+15851735	{'2607C>A'}	{'2607C>A'}	1	0	0	1	1	1.0	1.0	1.0	1.0
+15867855	{'rs2277025'}	{'rs2277025', '157delMTTTVP'}	1	1	0	1	2	0.5	1.0	0.6666666666666666	0.5
+15880727	{'10441049delTTCTGGinsACACT', '360363delCAAA', '612T>G', '532T>C', '1131G>A', '851T>C', '345372del28', '865delC', '841842delAC', '799+2T>A'}	{'10441049delTTCTGGinsACACT', '360363delCAAA', '612T>G', '532T>C', '1131G>A', '851T>C', '345372del28', '865delC', '841842delAC', '799+2T>A'}	10	0	0	10	10	1.0	1.0	1.0	1.0
+15929706	{'3basepairinsertion', '3bpinsertion'}	set()	0	0	2	2	0	0.0	0.0	0.0	0.0
+15983230	{'rs5393'}	{'rs5393'}	1	0	0	1	1	1.0	1.0	1.0	1.0
+16000134	{'Tinsertionat7916and7917'}	{'nucleotideTinsertionat7916and7917'}	1	0	0	1	1	1.0	1.0	1.0	1.0
+16018252	{'AwasreplacedaGincodon38', 'TAtransitionatthenucleotideposition+387'}	{'AwasreplacedaGincodon38', 'TAtransitionatthenucleotideposition+387'}	2	0	0	2	2	1.0	1.0	1.0	1.0
+16046395	{'G118', 'A118G', 'A118', 'adenosine,guanosine,cytidine,andthymidineinposition118'}	{'thymidineinposition118', 'G118', 'A118G', 'A118'}	4	0	0	4	4	1.0	1.0	1.0	1.0
+16088915	{'AGtransitionatnucleotide+79'}	{'AGtransitionatnucleotide+79'}	1	0	0	1	1	1.0	1.0	1.0	1.0
+16120104	{'111G', 'G3853A', 'C1228T', 'C111G'}	{'111G', 'G3853A', 'C1228T', 'C111G'}	4	0	0	4	4	1.0	1.0	1.0	1.0
+16143638	{'IVS25855insT'}	{'IVS25855insT'}	1	0	0	1	1	1.0	1.0	1.0	1.0
+16152606	{'657del5', '643C>T'}	{'657del5', '643C>T'}	2	0	0	2	2	1.0	1.0	1.0	1.0
+16159638	{'15bpinsertion/deletion'}	{'chromosome5'}	0	1	1	1	1	0.0	0.0	0.0	0.0
+16167150	{'ins/del;45bpand3bp', '45bpins/del', '3bpins/del', '866G/A'}	{'866G/A'}	1	0	3	4	1	1.0	0.25	0.4	0.25
+16186368	{'15bpdeletion'}	{'chromosome4q35'}	0	1	1	1	1	0.0	0.0	0.0	0.0
+16211251	{'10G>A'}	{'10G>A'}	1	0	0	1	1	1.0	1.0	1.0	1.0
+16216473	{'C463T', 'C>TtransversionatcDNAbase463'}	{'Xq26', 'C463T', 'C>TtransversionatcDNAbase463'}	2	1	0	2	3	0.6666666666666666	1.0	0.8	0.6666666666666666
+16252083	{'A>Gtransitionat127position', 'G>Atransitionat1032position'}	{'A>Gtransitionat127position', 'G>Atransitionat1032position'}	2	0	0	2	2	1.0	1.0	1.0	1.0
+16256386	{'IVS12+6T>A', 'IVS12+4A>G', 'IVS4+3G>C', 'EX696A>G'}	{'IVS12+6T>A', 'IVS12+4A>G', 'IVS4+3G>C', 'EX696A>G'}	4	0	0	4	4	1.0	1.0	1.0	1.0
+16288197	{'144G>A'}	{'1q24.3', '13q31', '144G>A'}	1	2	0	1	3	0.3333333333333333	1.0	0.5	0.3333333333333333
+16288199	{'CCTTT13', 'CCTTT10', 'CCTTT14'}	set()	0	0	3	3	0	0.0	0.0	0.0	0.0
+16321363	{'del1p31.2p32.3', '338G>A', 'deletion1012Mb'}	{'2p32.3', '338G>A'}	2	0	1	3	2	1.0	0.6666666666666666	0.8	0.6666666666666666
+16379540	{'4002A>G', 'del14b17b'}	{'4002A>G', 'del14b17b'}	2	0	0	2	2	1.0	1.0	1.0	1.0
+16418600	{'457458insG'}	{'457458insG'}	1	0	0	1	1	1.0	1.0	1.0	1.0
+16424663	{'nt81Gdeletion', 'deletionofcDNAnucleotide81'}	{'deletionofcDNAnucleotide81'}	1	0	1	2	1	1.0	0.5	0.6666666666666666	0.5
+16480574	{'30bpdeletioncodon:346355', '30bpdeleted'}	{'30bpdeletioncodon:346355'}	1	0	1	2	1	1.0	0.5	0.6666666666666666	0.5
+16506214	{'+3100T/G', '+8365C/T'}	{'+3100T/G', '+8365C/T'}	2	0	0	2	2	1.0	1.0	1.0	1.0
+16525586	{'16421644dupA', '892895dupG', '20451G>A', '791C>T', '210T>G'}	{'16421644dupA', '892895dupG', '20451G>A', '791C>T', '210T>G'}	5	0	0	5	5	1.0	1.0	1.0	1.0
+16575011	{'1494del6'}	{'1494del6'}	1	0	0	1	1	1.0	1.0	1.0	1.0
+16601880	{'10021003insT', '28delC', '23161G>A', '2838+5G>A', '2186delC', '2919+1G>A', '2422delA', '12851286insCAAA', '861+1G>T', '1175delC', '14021C>G', '21532155delinsTCCTGGTTTA'}	{'10021003insT', '28delC', '23161G>A', '2838+5G>A', '2186delC', '2919+1G>A', '2422delA', '12851286insCAAA', '861+1G>T', '1175delC', '14021C>G', '21532155delinsTCCTGGTTTA'}	12	0	0	12	12	1.0	1.0	1.0	1.0
+16723031	{'28bptandemrepeat', 'del6', '1494del6', '6bpdeletion/insertion'}	{'1494del6'}	2	0	2	4	1	1.0	0.5	0.6666666666666666	0.5
+16728705	{'863C>A', 'C>Asubstitutionatposition863'}	{'863C>A', 'C>Asubstitutionatposition863'}	2	0	0	2	2	1.0	1.0	1.0	1.0
+16781314	{'deletionofCatnucleotide888', '888delC'}	{'deletionofCatnucleotide888', '888delC'}	2	0	0	2	2	1.0	1.0	1.0	1.0
+16822828	{'8bpnucleotideTTAAATGGdeletion', 'TAC>AAatcodon329'}	set()	0	0	2	2	0	0.0	0.0	0.0	0.0
+16838170	{'rs2071197', 'rs2144908', 'rs3818247', 'rs4810424', 'rs1884614'}	{'rs2071197', 'rs2144908', 'rs3818247', 'rs4810424', 'rs1884614'}	5	0	0	5	5	1.0	1.0	1.0	1.0
+16843501	{'G>Csubstitutionatposition135', 'G>Ctransversionat1245position', 'G135C'}	{'G>Csubstitutionatposition135', 'G>Ctransversionat1245position', 'G135C'}	3	0	0	3	3	1.0	1.0	1.0	1.0
+16849419	{'101bpdeletion', '85bpdeletion'}	set()	0	0	2	2	0	0.0	0.0	0.0	0.0
+16911351	{'646G>C', '904906delGAG', '3bpdeletion'}	{'646G>C'}	1	0	2	3	1	1.0	0.3333333333333333	0.5	0.3333333333333333
+16953235	{'32T', '32C>T'}	{'32T', '32C>T'}	2	0	0	2	2	1.0	1.0	1.0	1.0
+16970763	{'14bpdeletion'}	set()	0	0	1	1	0	0.0	0.0	0.0	0.0
+17000021	{'+2740A>G', 'rs1217412', 'rs2488457', '+1858C>T', '1123G>C', 'rs2476601'}	{'+2740A>G', 'rs1217412', 'rs2488457', '+1858C>T', '1123G>C', 'rs2476601'}	6	0	0	6	6	1.0	1.0	1.0	1.0
+17002658	{'g.1755G>A', 'g.1043510809del'}	{'g.1755G>A', 'g.1043510809del'}	2	0	0	2	2	1.0	1.0	1.0	1.0
+17003357	{'1858C/T', '2250G/C', '1858T'}	{'1858C/T', '2250G/C', '1858T'}	3	0	0	3	3	1.0	1.0	1.0	1.0
+17003923	{'675insertion/deletion', '1601G>A', '455G>A', '677C>T', '1691G>A', '20210G>A', '807C>T', '4070A>G', '536C>T', '127G>A'}	{'1601G>A', '455G>A', '677C>T', '1691G>A', '20210G>A', '807C>T', '4070A>G', '536C>T', '127G>A'}	9	0	1	10	9	1.0	0.9	0.9473684210526316	0.9
+17033974	{'2406C>A'}	{'2406C>A'}	1	0	0	1	1	1.0	1.0	1.0	1.0
+17059986	{'2633+1G>C', 'r.25212634del'}	{'2633+1G>C', 'r.25212634del'}	2	0	0	2	2	1.0	1.0	1.0	1.0
+17065190	{'rs2857657', 'rs13900', 'rs3917887', 'rs4586'}	{'rs2857657', 'rs13900', 'rs3917887', 'rs4586'}	4	0	0	4	4	1.0	1.0	1.0	1.0
+17065479	{'7.36kbhomozygousdeletion'}	set()	0	0	1	1	0	0.0	0.0	0.0	0.0
+17079875	{'1282G>A', '2084G>C'}	{'1282G>A', '2084G>C'}	2	0	0	2	2	1.0	1.0	1.0	1.0
+17160997	{'22basepairduplication', '22bptandemduplication'}	set()	0	0	2	2	0	0.0	0.0	0.0	0.0
+17166870	{'6baseinsertion', '6bINS'}	set()	0	0	2	2	0	0.0	0.0	0.0	0.0
+17169596	{'671G>A'}	{'671G>A'}	1	0	0	1	1	1.0	1.0	1.0	1.0
+17177139	{'1284A>C'}	{'1284A>C'}	1	0	0	1	1	1.0	1.0	1.0	1.0
+17192049	{'T3801C'}	{'T3801C'}	1	0	0	1	1	1.0	1.0	1.0	1.0
+17250663	{'G1714A', 'G1714C'}	{'G1714A', 'chromosome9q31', 'G1714C'}	2	1	0	2	3	0.6666666666666666	1.0	0.8	0.6666666666666666
+17250667	{'Cdeletionincodon241', 'Adeletionincodon242'}	{'deletionincodon242', 'Cdeletionincodon241'}	2	0	0	2	2	1.0	1.0	1.0	1.0
+17292585	{'Delta4E4'}	set()	0	0	1	1	0	0.0	0.0	0.0	0.0
+17311329	{'30bpdeletion'}	set()	0	0	1	1	0	0.0	0.0	0.0	0.0
+17327131	{'1415insC', '1bpinsertion'}	{'1415insC'}	1	0	1	2	1	1.0	0.5	0.6666666666666666	0.5
+17372760	{'IVS101G>A'}	{'IVS101G>A'}	1	0	0	1	1	1.0	1.0	1.0	1.0
+17392687	{'12nucleotideinframedeletion'}	set()	0	0	1	1	0	0.0	0.0	0.0	0.0
+17395743	{'rs2720709', 'rs2648875'}	{'8q24', 'rs2720709', 'rs2648875'}	2	1	0	2	3	0.6666666666666666	1.0	0.8	0.6666666666666666
+17426470	{'adenosinedeletionatposition5772'}	{'adenosinedeletionatposition5772'}	1	0	0	1	1	1.0	1.0	1.0	1.0
+17495183	{'rs11798018', 'rs2073162', 'rs1155974', 'rs1155794', 'rs2073163', 'rs5966709', 'rs4828037'}	{'rs11798018', 'rs2073162', 'rs1155974', 'rs1155794', 'rs2073163', 'rs5966709', 'rs4828037'}	7	0	0	7	7	1.0	1.0	1.0	1.0
+17549393	{'201C>A'}	{'201C>A'}	1	0	0	1	1	1.0	1.0	1.0	1.0
+17615540	{'C260T'}	{'C260T'}	1	0	0	1	1	1.0	1.0	1.0	1.0
+17634480	{'rs713041', 'rs757229'}	{'rs713041', 'rs757229'}	2	0	0	2	2	1.0	1.0	1.0	1.0
+17635946	{'T>Csubstitutionatposition2209'}	{'T>Csubstitutionatposition2209'}	1	0	0	1	1	1.0	1.0	1.0	1.0
+17671735	{'94C>T', '798C>T', 'DeltaGJB6D13S1830', '3170G>A', '35delG', '357C>T'}	{'94C>T', '798C>T', '3170G>A', '35delG', '357C>T'}	5	0	1	6	5	1.0	0.8333333333333334	0.9090909090909091	0.8333333333333334
+17683901	{'1138G>A', '1138G>C', 'GAorGCsubstitutionatnucleotideposition1138'}	{'GAorGCsubstitutionatnucleotideposition1138', '1138G>A', '1138G>C'}	3	0	0	3	3	1.0	1.0	1.0	1.0
+17710578	{'A1166C'}	{'A1166C'}	1	0	0	1	1	1.0	1.0	1.0	1.0
+17868390	{'IVS8+4A>G'}	{'IVS8+4A>G'}	1	0	0	1	1	1.0	1.0	1.0	1.0
+17876530	{'Delta32', '32bpdeletion'}	set()	0	0	2	2	0	0.0	0.0	0.0	0.0
+17909797	{'Delta32', '32bpdeletion'}	set()	0	0	2	2	0	0.0	0.0	0.0	0.0
+17910065	{'C139T'}	{'C139T'}	1	0	0	1	1	1.0	1.0	1.0	1.0
+17935240	{'AGdeletionatnucleotide652and653', 'g.ORF15+652653delAG'}	{'deletionatnucleotide652', 'g.ORF15+652653delAG'}	2	0	0	2	2	1.0	1.0	1.0	1.0
+17951029	{'G>Tsubstitutionatnucleotidec.898'}	{'G>Tsubstitutionatnucleotidec.898'}	1	0	0	1	1	1.0	1.0	1.0	1.0
+17959715	{'rs1800734'}	{'rs1800734'}	1	0	0	1	1	1.0	1.0	1.0	1.0
+17961316	{'IVS11G>A', 'IVS11G>C'}	{'IVS11G>A', 'IVS11G>C'}	2	0	0	2	2	1.0	1.0	1.0	1.0
+17962394	{'686C>G'}	{'Xq26', 'Xp11', '686C>G'}	1	2	0	1	3	0.3333333333333333	1.0	0.5	0.3333333333333333
+17962469	{'6baseinframeduplication'}	{'chromosome6'}	0	1	1	1	1	0.0	0.0	0.0	0.0
+17968299	{'Aatposition1082', '1082G/A'}	{'1082G/A'}	1	0	1	2	1	1.0	0.5	0.6666666666666666	0.5
+18046082	{'GCpointmutationinexon4base308'}	{'GCpointmutationinexon4base308'}	1	0	0	1	1	1.0	1.0	1.0	1.0
+18164595	{'3097delG', 'AGtransitionatnucleotide276', '2bpdeletion', '178283delAG'}	{'3097delG', 'AGtransitionatnucleotide276', '178283delAG'}	3	0	1	4	3	1.0	0.75	0.8571428571428571	0.75
+18189233	{'20bpinsertion/deletionpolymorphism1,109bpupstreamoftheinitiationcodon', 'A/Gtransition1,071bp'}	{'A/Gtransition1,071bp'}	1	0	1	2	1	1.0	0.5	0.6666666666666666	0.5
+18202102	{'deletiona2.5Mb'}	{'chromosome6', '6q', '6q1415', '6q14.3', 'chromosome6q14'}	0	5	1	1	5	0.0	0.0	0.0	0.0
+18241046	{'g.203A>C'}	{'g.203A>C'}	1	0	0	1	1	1.0	1.0	1.0	1.0
+18257781	{'1445T>G', 'IVS212delAG'}	{'1445T>G', 'IVS212delAG'}	2	0	0	2	2	1.0	1.0	1.0	1.0
+18266724	{'C314T'}	{'C314T', 'chromosome2q22.1'}	1	1	0	1	2	0.5	1.0	0.6666666666666666	0.5
+18270997	{'G472A'}	{'G472A'}	1	0	0	1	1	1.0	1.0	1.0	1.0
+18272172	{'insertionof18aminoacids', '2398+1G>C'}	{'2398+1G>C'}	1	0	1	2	1	1.0	0.5	0.6666666666666666	0.5
+18372165	{'681dupA', '360+1G>C', '1570+2T>C', '520delC', '956delC', '899+1G>T'}	{'681dupA', '360+1G>C', '1570+2T>C', '520delC', '956delC', '899+1G>T'}	6	0	0	6	6	1.0	1.0	1.0	1.0
+18385169	{'guanineadeninesubstitutionofnucleotide308', '308G>A', '252A>G', '308adenine'}	{'guanineadeninesubstitutionofnucleotide308', '308G>A', '252A>G', '308adenine'}	4	0	0	4	4	1.0	1.0	1.0	1.0
+18385794	{'*557G>A', 'rs11915160', '579G>A', '471C>T', 'rs35435463', '871G>A', '310G>T', '549delC', '*469C>A'}	{'*557G>A', 'rs11915160', '579G>A', '471C>T', 'rs35435463', '871G>A', '310G>T', '549delC', '*469C>A'}	9	0	0	9	9	1.0	1.0	1.0	1.0
+18397285	{'T>Gtransversionatnucleotide4508'}	{'T>Gtransversionatnucleotide4508'}	1	0	0	1	1	1.0	1.0	1.0	1.0
+18408250	{'rs729302'}	{'rs729302'}	1	0	0	1	1	1.0	1.0	1.0	1.0
+18410548	{'742744delTAC'}	{'742744delTAC'}	1	0	0	1	1	1.0	1.0	1.0	1.0
+18426832	{'4TTTAnrepeat', 'TTTA11'}	set()	0	0	2	2	0	0.0	0.0	0.0	0.0
+18439317	{'guanineinsertion/deletionG/D,the1607polymorphism', 'Dalleleforthe1607'}	set()	0	0	2	2	0	0.0	0.0	0.0	0.0
+18470323	{'C417T'}	{'C417T'}	1	0	0	1	1	1.0	1.0	1.0	1.0
+18492086	{'7bpdeletion', '20684T>A'}	{'20684T>A'}	1	0	1	2	1	1.0	0.5	0.6666666666666666	0.5
+18672102	{'118119insA', '125126insAA', '1146+25insA'}	{'118119insA', '125126insAA', '1146+25insA'}	3	0	0	3	3	1.0	1.0	1.0	1.0
+18681856	{'1358T>C'}	{'1358T>C'}	1	0	0	1	1	1.0	1.0	1.0	1.0
+18694509	{'rs12329760'}	{'rs12329760'}	1	0	0	1	1	1.0	1.0	1.0	1.0
+18726896	{'deletion10Mborless'}	{'chromosome11q23', '11q23'}	0	2	1	1	2	0.0	0.0	0.0	0.0
+18790087	{'Delta32', '32bpdeletion'}	set()	0	0	2	2	0	0.0	0.0	0.0	0.0
+18806880	{'1493A>T'}	{'1493A>T'}	1	0	0	1	1	1.0	1.0	1.0	1.0
+18813858	{'deletionofGatthenucleotideposition520', '520delG', 'TAatnucleotideposition1135', 'T1135A'}	{'deletionofGatthenucleotideposition520', '520delG', 'TAatnucleotideposition1135', 'T1135A'}	4	0	0	4	4	1.0	1.0	1.0	1.0
+18827003	{'G>Csubstitutionatposition1201'}	{'G>Csubstitutionatposition1201'}	1	0	0	1	1	1.0	1.0	1.0	1.0
+18945288	{'342delA'}	{'342delA'}	1	0	0	1	1	1.0	1.0	1.0	1.0
+19067809	{'A1166C', 'A11666C'}	{'A1166C', 'A11666C'}	2	0	0	2	2	1.0	1.0	1.0	1.0
+19082493	{'28bpvariablenumberoftandemrepeats', 'ins/del6bp', 'deletionof6bpatposition1494'}	{'deletionof6bpatposition1494'}	1	0	2	3	1	1.0	0.3333333333333333	0.5	0.3333333333333333
+19101703	{'insertionofGCG4GCA', 'GCG6GCA3GCGsequencewasreplacedGCG6GCAGCG4GCA3GCG'}	set()	0	0	2	2	0	0.0	0.0	0.0	0.0
+19110214	{'6799G>A'}	{'6799G>A', 'chromosome15'}	1	1	0	1	2	0.5	1.0	0.6666666666666666	0.5
+19129715	{'13081316dup9', 'insertionof3aminoacids'}	{'13081316dup9'}	1	0	1	2	1	1.0	0.5	0.6666666666666666	0.5
+19144556	{'2192C>T', '1849T>A', 'TTATtetranucleotidewasinsertedbetweennt2057and2058', '1978TATC12', '2180C>T', '2193ATCT513', '2122C>T', '2234TGTA57'}	{'2192C>T', '1849T>A', 'TTATtetranucleotidewasinsertedbetweennt2057and2058', '1978TATC12', '2180C>T', '2193ATCT513', '2122C>T', '2234TGTA57'}	8	0	0	8	8	1.0	1.0	1.0	1.0
+19223935	{'669A', 'deletionofTGatthenucleotideposition608609', 'G669A', '669G'}	{'669A', 'deletionofTGatthenucleotideposition608609', 'G669A', '669G'}	4	0	0	4	4	1.0	1.0	1.0	1.0
+19276632	{'25*G>A', '97GCC[9]+[10]', '262G>A', '1272C>T', '1284T>C'}	{'25*G>A', '97GCC[9]+[10]', '262G>A', '1272C>T', '1284T>C'}	5	0	0	5	5	1.0	1.0	1.0	1.0
+19298002	{'16C>A', 'referenceSNPno.4359426'}	{'16C>A', 'referenceSNPno.4359426'}	2	0	0	2	2	1.0	1.0	1.0	1.0
+19365571	{'892C>T', '1072T>C'}	{'892C>T', '1072T>C'}	2	0	0	2	2	1.0	1.0	1.0	1.0
+19370764	{'640667del28', '609+2861016del', '33bpgenomicdeletion', '611delG', '6102A>G'}	{'609+2861016del', '640667del28', '611delG', '6102A>G'}	4	0	1	5	4	1.0	0.8	0.888888888888889	0.8
+19394258	{'44462C>A', 'insertionof20aminoacids'}	{'44462C>A'}	1	0	1	2	1	1.0	0.5	0.6666666666666666	0.5
+19404517	{'missensemutationinposition1829ARG'}	{'missensemutationinposition1829ARG'}	1	0	0	1	1	1.0	1.0	1.0	1.0
+19429592	{'897G>T', '867G>T', '507G>T', '15581559insA'}	{'897G>T', '867G>T', '507G>T', '15581559insA'}	4	0	0	4	4	1.0	1.0	1.0	1.0
+19429807	{'1544?2916+?', '3943G>A'}	{'1544?2916+?', '3943G>A'}	2	0	0	2	2	1.0	1.0	1.0	1.0
+19444361	{'2209G>A', 'rs1800255'}	{'2209G>A', 'rs1800255'}	2	0	0	2	2	1.0	1.0	1.0	1.0
+19448408	{'T1270533G', 'C1256088C'}	{'T1270533G', 'C1256088C'}	2	0	0	2	2	1.0	1.0	1.0	1.0
+19473658	{'deletionmutationincodon138', 'codon138deletion'}	{'deletionmutationincodon138', 'adenineresiduesincodon138'}	1	1	1	2	2	0.5	0.5	0.5	0.3333333333333333
+19476483	{'32basepairdeletion', 'Delta32'}	set()	0	0	2	2	0	0.0	0.0	0.0	0.0
+19521089	{'rs25531'}	{'rs25531'}	1	0	0	1	1	1.0	1.0	1.0	1.0
+19559455	{'Delta32', '247nucleotidedeletion', 'deletionsof1088and228'}	set()	0	0	3	3	0	0.0	0.0	0.0	0.0
+19565319	{'rs5751876', 'rs2236624', 'rs3761422', 'rs35320474'}	{'chromosome22q11.23', 'rs2236624', 'rs5751876', 'rs35320474', '22q11.2', 'rs3761422'}	4	2	0	4	6	0.6666666666666666	1.0	0.8	0.6666666666666666
+19592582	{'21722173insCCCC', '468C>T', '467C>A'}	{'21722173insCCCC', '468C>T', '467C>A'}	3	0	0	3	3	1.0	1.0	1.0	1.0
+19624485	{'14bpdeletion/insertion', '14bpinsertion/deletion', 'rs16375'}	{'rs16375'}	1	0	2	3	1	1.0	0.3333333333333333	0.5	0.3333333333333333
+19664890	{'387+107A>T'}	{'387+107A>T'}	1	0	0	1	1	1.0	1.0	1.0	1.0
+19681861	{'rs1799750', 'deletionof4kb'}	{'rs1799750'}	1	0	1	2	1	1.0	0.5	0.6666666666666666	0.5
+19728872	{'1922G>A'}	{'1922G>A', 'chromosome4q22'}	1	1	0	1	2	0.5	1.0	0.6666666666666666	0.5
+19766614	{'370371insA'}	{'370371insA'}	1	0	0	1	1	1.0	1.0	1.0	1.0
+19781362	{'rs16864880', 'G>Asubstitutionatnucleotide893'}	{'rs16864880', 'G>Asubstitutionatnucleotide893'}	2	0	0	2	2	1.0	1.0	1.0	1.0
+19823838	{'cysineadenineatposition264', '263G>C', 'guaninecysineatposition263', '264C>A'}	{'cysineadenineatposition264', '263G>C', 'guaninecysineatposition263', '264C>A'}	4	0	0	4	4	1.0	1.0	1.0	1.0
+19880293	{'IVS9+459AA', 'IVS9+459,A/G', '924,A/G', '3279,A/C', 'IVS9+459GG', 'IVS9+459GA+GG', '6054,deletion/ATT', '3279CC', '3279AC'}	{'924A/G', 'IVS9+459AA', 'IVS9+459,A/G', '924,A/G', '3279,A/C', 'IVS9+459GG', '3279CC', '3279AC'}	7	1	2	9	8	0.875	0.7777777777777778	0.823529411764706	0.7
+19881468	{'rs1052133'}	{'rs1052133'}	1	0	0	1	1	1.0	1.0	1.0	1.0
+19897031	{'rs12203592'}	{'rs12203592'}	1	0	0	1	1	1.0	1.0	1.0	1.0
+19929939	{'2449delT'}	{'2449delT'}	1	0	0	1	1	1.0	1.0	1.0	1.0
+19958188	{'Aalleleofthe588', 'IVSII1G>A', 'Aalleleof588', '21A', '611T', 'AAGCat222225', '603/604GA>AG', '588A>G', '369C>G'}	{'IVSII1G>A', '611T', 'AAGCat222225', '603/604GA>AG', '588A>G', '369C>G'}	6	0	3	9	6	1.0	0.6666666666666666	0.8	0.6666666666666666
+20005218	{'395A', 'G395A', '395G'}	{'395A', 'G395A', '395G'}	3	0	0	3	3	1.0	1.0	1.0	1.0
+20017074	{'1bpguaninedeletion/insertion'}	set()	0	0	1	1	0	0.0	0.0	0.0	0.0
+20026870	{'A1166C'}	{'A1166C', 'A1166'}	1	0	0	1	2	1.0	1.0	1.0	1.0
+20080916	{'rs10954213', 'rs2070197', 'rs2004640'}	{'rs10954213', 'rs2070197', 'rs2004640'}	3	0	0	3	3	1.0	1.0	1.0	1.0
+20086182	{'6526Nins/del', '6526Ndel'}	{'6526Nins/del', '6526Ndel'}	2	0	0	2	2	1.0	1.0	1.0	1.0
+20143913	{'g.99367102002del', '8991142del'}	{'g.99367102002del', '8991142del'}	2	0	0	2	2	1.0	1.0	1.0	1.0
+20154289	{'codon104G>A'}	{'codon104G>A'}	1	0	0	1	1	1.0	1.0	1.0	1.0
+20331852	{'rs4112788', 'LCE3CLCE3Bdeletion', 'LCE3CLCE3Bdel'}	{'rs4112788'}	1	0	2	3	1	1.0	0.3333333333333333	0.5	0.3333333333333333
+20335448	{'G>Aatnucleotideposition2141'}	{'G>Aatnucleotideposition2141'}	1	0	0	1	1	1.0	1.0	1.0	1.0
+20367983	{'15461547insC', 'IVS3+18C>T'}	{'15461547insC', 'IVS3+18C>T'}	2	0	0	2	2	1.0	1.0	1.0	1.0
+20454699	{'356G>A', 'rs13267'}	{'356G>A', 'rs13267'}	2	0	0	2	2	1.0	1.0	1.0	1.0
+20512659	{'25152519delAAGTT'}	{'25152519delAAGTT'}	1	0	0	1	1	1.0	1.0	1.0	1.0
+20523265	{'rs7535263', 'rs2274700', 'rs3753394', 'rs1329428', 'rs1061170', 'rs800292', 'rs1410996'}	{'Adeletionof84,682', 'rs7535263', 'rs2274700', 'rs3753394', '1q31', 'rs1329428', 'rs1061170', 'rs800292', 'rs1410996'}	7	2	0	7	9	0.7777777777777778	1.0	0.8750000000000001	0.7777777777777778
+20529581	{'899A>T'}	{'899A>T'}	1	0	0	1	1	1.0	1.0	1.0	1.0
+20534142	{'rs6232', 'rs6235'}	{'rs6232', 'rs6235'}	2	0	0	2	2	1.0	1.0	1.0	1.0
+20534762	{'GforAatcDNAnucleotideposition323', '313delT'}	{'GforAatcDNAnucleotideposition323', '313delT'}	2	0	0	2	2	1.0	1.0	1.0	1.0
+20579626	{'1052delA'}	{'1052delA'}	1	0	0	1	1	1.0	1.0	1.0	1.0
+20583543	{'g.8087delTCGCGAAG', '8nucleotidedeletion'}	{'g.8087delTCGCGAAG'}	1	0	1	2	1	1.0	0.5	0.6666666666666666	0.5
+20602574	{'G218C', 'T189C', '218G', '189T'}	{'G218C', '218G', 'T189C', '189T'}	4	0	0	4	4	1.0	1.0	1.0	1.0
+20606392	{'899dupC', 'duplicationofanucleotideinexon9'}	{'899dupC'}	1	0	1	2	1	1.0	0.5	0.6666666666666666	0.5
+20648600	{'G1764A', 'A1762T', 'G1899A', 'G1896A'}	{'G1764A', 'A1762T', 'G1899A', 'G1896A'}	4	0	0	4	4	1.0	1.0	1.0	1.0
+20651814	{'indelpolymorphismatposition4825', '12nucleotideinsertion/deletionindel'}	{'indelpolymorphismatposition4825'}	1	0	1	2	1	1.0	0.5	0.6666666666666666	0.5
+20682662	{'DD32', 'DD32deletion', '32basepairDD32deletion'}	set()	0	0	3	3	0	0.0	0.0	0.0	0.0
+20693575	{'insertionof13nucleotides'}	set()	0	0	1	1	0	0.0	0.0	0.0	0.0
+20708777	{'C344T', 'rs6410', 'rs4539', 'rs1799998', 'G225A', 'rs6387', 'A2718G', 'A2803G'}	{'C344T', 'rs6410', 'rs4539', 'rs1799998', 'G225A', 'rs6387', 'A2718G', 'A2803G'}	8	0	0	8	8	1.0	1.0	1.0	1.0
+20709368	{'10034C>T', 'rs2066865', '10034T'}	{'10034C>T', 'rs2066865', '10034T'}	3	0	0	3	3	1.0	1.0	1.0	1.0
+20728296	{'deletionof54Mbp'}	{'chromosome13q', 'chromosome13', '13q32.3', '13q14.13'}	0	4	1	1	4	0.0	0.0	0.0	0.0
+20801104	{'521C/T', '120bpduplication', '616C/G'}	{'521C/T', '616C/G'}	2	0	1	3	2	1.0	0.6666666666666666	0.8	0.6666666666666666
+20801540	{'2554+1G>T', 'deletionofaminoacids809852'}	{'2554+1G>T', 'deletionofaminoacids809852'}	2	0	0	2	2	1.0	1.0	1.0	1.0
+20806042	{'592C>T'}	{'592C>T'}	1	0	0	1	1	1.0	1.0	1.0	1.0
+20846357	{'263C>T'}	{'263C>T'}	1	0	0	1	1	1.0	1.0	1.0	1.0
+20854438	{'GAsubstitutioninnucleotide256'}	{'GAsubstitutioninnucleotide256'}	1	0	0	1	1	1.0	1.0	1.0	1.0
+20887110	{'C677T', 'C>Ttransitionatnucleotide677', '677TT', '677C>T'}	{'C677T', 'C>Ttransitionatnucleotide677', '677TT', '677C>T'}	4	0	0	4	4	1.0	1.0	1.0	1.0
+20949073	{'2623G>T'}	{'2623G>T'}	1	0	0	1	1	1.0	1.0	1.0	1.0
+21054465	{'Tdeletionat5063', 'C35322T', 'CTat33468', 'C35322C'}	{'CTat33468', 'C35322T', 'C35322C'}	3	0	1	4	3	1.0	0.75	0.8571428571428571	0.75
+21059483	{'5.5kbdeletion'}	set()	0	0	1	1	0	0.0	0.0	0.0	0.0
+21070631	{'rs1800587', '1021C/T', '889TT', '1021T', 'rs1611115'}	{'1021C/T', 'rs1800587', 'rs1611115', '1021T'}	4	0	1	5	4	1.0	0.8	0.888888888888889	0.8
+21080147	{'973G>A', 'CGtransitionwasidentifiedatnucleotide857'}	{'973G>A', 'CGtransitionwasidentifiedatnucleotide857'}	2	0	0	2	2	1.0	1.0	1.0	1.0
+21099701	{'908G>A'}	{'908G>A', '1q21'}	1	1	0	1	2	0.5	1.0	0.6666666666666666	0.5
+21103668	{'deletionof22,230bp', 'deletionof37,410bp'}	set()	0	0	2	2	0	0.0	0.0	0.0	0.0
+21108633	{'69delC', '410+5G/A'}	{'69delC', '410+5G/A'}	2	0	0	2	2	1.0	1.0	1.0	1.0
+21126715	{'783insG'}	{'783insG'}	1	0	0	1	1	1.0	1.0	1.0	1.0
+21127202	{'3bpdeletion'}	set()	0	0	1	1	0	0.0	0.0	0.0	0.0
+21135151	{'DD32', 'delta32'}	set()	0	0	2	2	0	0.0	0.0	0.0	0.0
+21163864	{'T704C'}	{'T704C'}	1	0	0	1	1	1.0	1.0	1.0	1.0
+21182502	{'IVS64+5g>a'}	{'IVS64+5g>a'}	1	0	0	1	1	1.0	1.0	1.0	1.0
+21219851	{'2992C>T', 'rs1801184', 'rs2271683', 'rs1800255', '2187delA'}	{'2992C>T', 'rs1801184', 'rs2271683', 'rs1800255', '2187delA'}	5	0	0	5	5	1.0	1.0	1.0	1.0
+21325775	{'GCatcodon158'}	{'GCatcodon158'}	1	0	0	1	1	1.0	1.0	1.0	1.0
+21340161	{'11861187insGGCC'}	{'11861187insGGCC'}	1	0	0	1	1	1.0	1.0	1.0	1.0
+21405999	{'465G>T', '171T>C', '17T>C'}	{'465G>T', '171T>C', '17T>C'}	3	0	0	3	3	1.0	1.0	1.0	1.0
+21406173	{'1.7kbpdeletion'}	set()	0	0	1	1	0	0.0	0.0	0.0	0.0
+21445905	{'CTsubstitutionatapolymorphicsite13,910bpupstream', 'T13,910'}	{'CTsubstitutionatapolymorphicsite13,910bpupstream'}	1	0	1	2	1	1.0	0.5	0.6666666666666666	0.5
+21493871	{'rs7286979', 'rs5758222', 'rs20551', 'rs6589664', 'rs525549'}	{'rs7286979', 'rs5758222', 'rs20551', 'rs6589664', '11q23', 'rs525549'}	5	1	0	5	6	0.8333333333333334	1.0	0.9090909090909091	0.8333333333333334
+21496008	{'429452dup', 'dup24bp', 'dup33bp', 'dup27bp', '1074G>T', '304insGCG7'}	{'429452dup', '1074G>T', '304insGCG'}	3	0	3	6	3	1.0	0.5	0.6666666666666666	0.5
+21499297	{'rs2297882'}	{'rs2297882'}	1	0	0	1	1	1.0	1.0	1.0	1.0
+21506149	{'adeninedeletionatnucleotide202', '202adeninedeletion', '202A'}	{'adeninedeletionatnucleotide202'}	1	0	2	3	1	1.0	0.3333333333333333	0.5	0.3333333333333333
+21533187	{'15kbdeletion'}	set()	0	0	1	1	0	0.0	0.0	0.0	0.0
+21542403	{'IVS1937G/C'}	{'IVS1937G/C'}	1	0	0	1	1	1.0	1.0	1.0	1.0
+21546516	{'57kbdeletion'}	{'chromosome17p13'}	0	1	1	1	1	0.0	0.0	0.0	0.0
+21559944	{'104delT'}	{'3p13', 'chromosome3p22.3', '104delT'}	1	2	0	1	3	0.3333333333333333	1.0	0.5	0.3333333333333333
+21615796	{'7488T', 'rs763780', '7488CC', '7488T/C', '7488C', '7488TC', '7488TT'}	{'7488T', 'rs763780', '7488CC', '7488T/C', '7488C', '7488TC', '7488TT'}	7	0	0	7	7	1.0	1.0	1.0	1.0
+21640722	{'13basepairdeletion'}	set()	0	0	1	1	0	0.0	0.0	0.0	0.0
+21666969	{'A1359A', 'G1359G', '1359G/A', 'G1359A', 'GAatnucleotideposition1359', 'A1359'}	{'A1359A', 'G1359G', '1359G/A', 'G1359A', 'GAatnucleotideposition1359', 'A1359'}	6	0	0	6	6	1.0	1.0	1.0	1.0
+21682595	{'rs25487'}	{'rs25487'}	1	0	0	1	1	1.0	1.0	1.0	1.0
+21684788	{'352kbdeletion', '1.44Mbcontiguousgenedeletion', '407C>T'}	{'17p11.2', '407C>T'}	1	1	2	3	2	0.5	0.3333333333333333	0.4	0.25
+21695597	{'rs2844580', 'rs2071349', 'rs204890', 'rs9271366'}	{'chromosome6p21', 'rs2071349', 'rs204890', 'rs9271366', 'rs2844580'}	4	1	0	4	5	0.8	1.0	0.888888888888889	0.8
+21699520	{'g.2885G>C', 'g.2839T>G', 'IVS9+217T'}	{'g.2885G>C', 'g.2839T>G', 'IVS9+217T'}	3	0	0	3	3	1.0	1.0	1.0	1.0
+21717135	{'10bpdeletion'}	set()	0	0	1	1	0	0.0	0.0	0.0	0.0
+21738389	{'737delC'}	{'chromosome2', '737delC', 'chromosome9'}	1	2	0	1	3	0.3333333333333333	1.0	0.5	0.3333333333333333
+21757944	{'13bpdeletionatnucleotide90downstreamoftheterminationcodon', 'IVSII1G>A', 'CD+90del13bp', '13bpdeletion'}	{'CD+90del13bp', '13bpdeletionatnucleotide90', 'IVSII1G>A'}	4	0	0	4	3	1.0	1.0	1.0	1.0
+21779184	{'3.5kbdeletion', '3.5kbgenedeletion'}	set()	0	0	2	2	0	0.0	0.0	0.0	0.0
+21790735	{'650kbpdeletion'}	set()	0	0	1	1	0	0.0	0.0	0.0	0.0
+21798259	{'rs16754'}	{'rs16754'}	1	0	0	1	1	1.0	1.0	1.0	1.0
+21799811	{'677C>T'}	{'677C>T'}	1	0	0	1	1	1.0	1.0	1.0	1.0
+21850008	{'T10191C', 'A11470C', 'deletion1302513033:1441714425', 'T13046C', 'G13513A', 'A3243G'}	{'T10191C', 'A11470C', 'T13046C', 'G13513A', 'A3243G'}	5	0	1	6	5	1.0	0.8333333333333334	0.9090909090909091	0.8333333333333334
+21879313	{'rs8099917'}	{'rs8099917'}	1	0	0	1	1	1.0	1.0	1.0	1.0
+21897748	{'130G>A'}	{'chromosome13q', '130G>A'}	1	1	0	1	2	0.5	1.0	0.6666666666666666	0.5
+21903317	{'thymidinecysinemutationatposition28', '28T>C'}	{'thymidinecysinemutationatposition28', '28T>C'}	2	0	0	2	2	1.0	1.0	1.0	1.0
+21904390	{'643T>C', '3573C>G'}	{'643T>C', '3573C>G'}	2	0	0	2	2	1.0	1.0	1.0	1.0
+21943124	{'1372bpdeletion'}	set()	0	0	1	1	0	0.0	0.0	0.0	0.0
+21976953	{'3703T>C'}	{'3703T>C'}	1	0	0	1	1	1.0	1.0	1.0	1.0
+22016685	{'AGsubstitutioninnucleotide1517', '1517A>G'}	{'chromosomeband4q35', 'AGsubstitutioninnucleotide1517', '1517A>G'}	2	1	0	2	3	0.6666666666666666	1.0	0.8	0.6666666666666666
+22028770	{'rs405509', '491A/T', 'rs440446', '219G/T', '491AT', 'rs449647', '+113G/C'}	{'rs405509', '491A/T', 'rs440446', '219G/T', '491AT', 'rs449647', '+113G/C'}	7	0	0	7	7	1.0	1.0	1.0	1.0
+22042570	{'1084G>T', '27082711delTTAG', '16181620delACT'}	{'1084G>T', '27082711delTTAG', '16181620delACT'}	3	0	0	3	3	1.0	1.0	1.0	1.0
+22048266	{'rs461155', 'rs2073601', 'rs2073416'}	{'rs461155', 'rs2073601', 'rs2073416'}	3	0	0	3	3	1.0	1.0	1.0	1.0
+22051099	{'rs2234671', 'Ex2+860G>C'}	{'rs2234671', 'Ex2+860G>C'}	2	0	0	2	2	1.0	1.0	1.0	1.0
+22104738	{'920T>G'}	{'920T>G'}	1	0	0	1	1	1.0	1.0	1.0	1.0
+22106692	{'366delT', 'largedeletionof342kb'}	{'366delT'}	1	0	1	2	1	1.0	0.5	0.6666666666666666	0.5
+22125978	{'659660delTA'}	{'chromosome3q27.3', '659660delTA'}	1	1	0	1	2	0.5	1.0	0.6666666666666666	0.5
+22129472	{'10basedeletion', '17062A>T', '17061715del.ATCTCCTCAG'}	{'17061715del.ATCTCCTCAG', '17062A>T'}	2	0	1	3	2	1.0	0.6666666666666666	0.8	0.6666666666666666
+22174939	{'22bpdeletion'}	set()	0	0	1	1	0	0.0	0.0	0.0	0.0
+22180037	{'A>Gatnucleotide313'}	{'A>Gatnucleotide313'}	1	0	0	1	1	1.0	1.0	1.0	1.0
+22188495	{'3190C>T'}	{'3190C>T'}	1	0	0	1	1	1.0	1.0	1.0	1.0
+22337303	{'69bpdeletion', 'five33bprepeats', '27bpdeletions'}	set()	0	0	3	3	0	0.0	0.0	0.0	0.0

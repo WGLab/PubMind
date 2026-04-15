@@ -1,0 +1,1280 @@
+	PMID	gene	DNA mutation	protein mutation	disease	phenotype	LLM reasoning	pathogenicity
+0	22051099	CXCR1	rs2234671	S276T	chronic periodontitis	-	not associated with the susceptibility to chronic periodontitis	benign
+1	22188495	WRN	3190C>T	Arg987Ter	Werner syndrome	cataracts, hair graying, tendinous calcinosis	the mutated WRN protein was unable to translocate into the nucleus in an in vitro cell assay	pathogenic
+2	20846357	GJB2	c.263C>T	p.Ala88Val	Keratitis-ichthyosis-deafness (KID) syndrome	hearing impairment, ichthyosiform erythroderma, palmoplantar keratoderma, alopecia, thick vernix caseosa-like covering of the scalp	novel nucleotide change leading to a substitution of alanine for valine	pathogenic
+3	21099701	CTSK	c.908G>A	p.Gly303Glu	pycnodysostosis	short stature, osteosclerosis, delayed cranial suture closure, hypoplastic mandible, acro-osteolysis, hypoplastic clavicle, and dental anomalies	novel homozygous mutation leading to amino acid substitution	pathogenic
+4	20801104	DRD4	-120 bp duplication	-	schizophrenia	-	strong association with schizophrenia (p=0.008)	likely pathogenic
+5	20801104	DRD4	-616C/G	-	-	-	no significant association	unknown
+6	20801104	DRD4	-521C/T	-	heroin addiction	-	strong association with heroin dependence (p=0.0002)	likely pathogenic
+7	21070631	DBH	rs1611115	-	Alzheimer's disease	-	misregulation of inflammation	likely pathogenic
+8	21070631	IL1A	rs1800587	-	Alzheimer's disease	-	interaction with DBH -1021T allele	likely pathogenic
+9	21405999	GUCA1B	c.-17T>C	-	cone dystrophy, cone rod dystrophy, macular dystrophy	-	identified in healthy subjects	benign
+10	21405999	GUCA1B	c.171T>C	-	cone dystrophy, cone rod dystrophy, macular dystrophy	-	identified in healthy subjects	benign
+11	21405999	GUCA1B	c.465G>T	p.Glu155Asp	cone dystrophy, cone rod dystrophy, macular dystrophy	-	identified in healthy subjects, conservative amino acid substitution	benign
+12	20709368	FGG	FGG 10034C>T (rs2066865)	-	deep venous thrombosis, myocardial infarction, peripheral arterial disease (PAD)	-	not significantly associated with the presence of PAD, no significant difference in genotype frequencies between PAD patients and control subjects	benign
+13	20512659	GEN1	c.2515_2519delAAGTT	-	breast cancer	-	homozygous individuals showed no functional defect	benign
+14	20512659	GEN1	-	-	breast cancer	-	no significant association with breast cancer in case-control analysis	benign
+15	20331852	LCE3B	-	R68C	Psoriasis	-	no information	unknown
+16	20331852	LCE3B	LCE3C_LCE3B-del	-	Psoriasis	chronic plaque type Ps without psoriatic arthritis	contributes to the risk of developing chronic plaque type Ps without psoriatic arthritis	likely pathogenic
+17	20331852	LCE3C	LCE3C_LCE3B-del	-	Psoriasis	chronic plaque type Ps without psoriatic arthritis	contributes to the risk of developing chronic plaque type Ps without psoriatic arthritis	likely pathogenic
+18	19881468	hOGG1	rs1052133	p.Ser326Cys	lung cancer	increased risk of small-cell carcinoma and adenocarcinoma	decrease in enzyme activity	likely pathogenic
+19	19429592	RPGR	c.507G>T	p.E169*	X-Linked RP (XLRP), X linked cone-rod dystrophy (XLCORD)	premature truncation of the RPGR protein	premature truncation of the RPGR protein	pathogenic
+20	19429592	RPGR	c.867G>T	p.G289*	X-Linked RP (XLRP), X linked cone-rod dystrophy (XLCORD)	premature truncation of the RPGR protein	premature truncation of the RPGR protein	pathogenic
+21	19429592	RPGR	c.897G>T	p.E299*	X-Linked RP (XLRP), X linked cone-rod dystrophy (XLCORD)	premature truncation of the RPGR protein	premature truncation of the RPGR protein	pathogenic
+22	19429592	RPGR	c.1558-1559insA	p.S522fs*525	X-Linked RP (XLRP), X linked cone-rod dystrophy (XLCORD)	premature truncation of the RPGR protein	premature truncation of the RPGR protein	pathogenic
+23	19223935	BMPR2	G-669A	-	Pulmonary arterial hypertension (PAH)	intense remodeling of small pulmonary arteries	abnormal transcriptional activity due to abolished sp3 transcription factor-binding site	pathogenic
+24	19223935	BMPR2	c.608-609delTG	p.Leu203fsX15	Pulmonary arterial hypertension (PAH)	intense remodeling of small pulmonary arteries	frame shift mutation leading to premature stop codon	pathogenic
+25	19223935	BMPR2	c.292C>T	p.Glu98X	Pulmonary arterial hypertension (PAH)	intense remodeling of small pulmonary arteries	nonsense mutation leading to premature stop codon	pathogenic
+26	19223935	BMPR2	c.2588G>A	p.Ser863Asn	Pulmonary arterial hypertension (PAH)	intense remodeling of small pulmonary arteries	-	unknown
+27	19067809	ATR1	A1166C	-	vasovagal syncope	hypotension and decline in sympathetic tone	associated with lower minimal systolic blood pressure and diastolic blood pressure during HUT	likely pathogenic
+28	18672102	GATA4	46delS	-	congenital heart disease (CHD)	ventricular septal defect	mutation identified in CHD patients	unknown
+29	18672102	GATA4	118-119insA	-	congenital heart disease (CHD)	-	mutation identified in CHD patients	unknown
+30	18672102	GATA4	125-126insAA	-	congenital heart disease (CHD)	-	mutation identified in CHD patients	unknown
+31	18672102	GATA4	-	A6V	congenital heart disease (CHD)	-	mutation identified in CHD patients	unknown
+32	18672102	GATA4	-	P163S	congenital heart disease (CHD)	-	mutation identified in CHD patients	unknown
+33	18672102	GATA4	-	E359K	congenital heart disease (CHD)	ventricular septal defect	mutation identified in two generations of a family with VSD	likely pathogenic
+34	18672102	GATA4	-	P407Q	congenital heart disease (CHD)	-	mutation identified in CHD patients	unknown
+35	18672102	GATA4	-	S429T	congenital heart disease (CHD)	-	mutation identified in CHD patients	unknown
+36	18672102	GATA4	-	A442V	congenital heart disease (CHD)	-	mutation identified in CHD patients	unknown
+37	18672102	GATA4	c.1146+25insA	-	congenital heart disease (CHD)	ventricular septal defect	not detected in normal healthy controls	likely pathogenic
+38	18492086	APOB	7-bp deletion in exon 21	truncated apoB-22.46	homozygous familial hypobetalipoproteinaemia (Ho-FHBL)	liver cirrhosis with hepatocarcinoma and renal carcinoma	truncated apoB	pathogenic
+39	18492086	APOB	base insertion in exon 26	truncated apoB-66.51	homozygous familial hypobetalipoproteinaemia (Ho-FHBL)	liver cirrhosis with hepatocarcinoma and renal carcinoma	truncated apoB	pathogenic
+40	18492086	APOB	nonsense mutation in exon 19	truncated apoB-20.61	homozygous familial hypobetalipoproteinaemia (Ho-FHBL)	severe hepatic steatosis and fibrosis	truncated apoB	pathogenic
+41	18492086	APOB	c.2068-4T>A	-	homozygous familial hypobetalipoproteinaemia (Ho-FHBL)	low plasma LDL-C and apoB	unknown	unknown
+42	18492086	APOB	nonsense mutation in exon 24	truncated apoB-26.65	homozygous familial hypobetalipoproteinaemia (Ho-FHBL)	chronic diarrhoea and steatorrhoea	truncated apoB	pathogenic
+43	18397285	VWF	T4508G	L1503R	Type 2A von Willebrand disease (VWD)	decreased platelet-dependent function of von Willebrand factor, absence of high-molecular-weight multimers	protein instability, intracellular retention, dominant-negative mechanism	pathogenic
+44	18189233	RNASEL	-	R462Q	prostate cancer	-	no evidence of association between R462Q and D541E polymorphisms and prostate cancer risk	benign
+45	18189233	RNASEL	-	D541E	prostate cancer	-	no evidence of association between R462Q and D541E polymorphisms and prostate cancer risk	benign
+46	18189233	RNASEL	-	K294E	prostate cancer	-	identified in a single heterozygous individual with prostate cancer, but no association found	unknown
+47	18189233	RNASEL	20 bp insertion/deletion polymorphism 1,109 bp upstream of the initiation codon	-	prostate cancer	-	not associated with prostate cancer	benign
+48	18189233	ABCE1	A/G transition -1,071 bp from the transcriptional start site	-	prostate cancer	-	showed no evidence of association with prostate cancer	benign
+49	18166824	MSH5	-	P29S	premature ovarian failure (POF)	infertility	indirect evidence of the role of genes involved in meiotic recombination in the regulation of ovarian function	likely pathogenic
+50	18166824	DMC1	-	M200V	premature ovarian failure (POF)	infertility	indirect evidence of the role of genes involved in meiotic recombination in the regulation of ovarian function	likely pathogenic
+51	19276632	FOXF2	c.97GCC[9]+[10]	p.Ala[33]_Ala[33]insAla	disorders of sex development (DSD) with cleft palate	-	could have affected FOXF2 on the mRNA or protein level	unknown
+52	19276632	FOXF2	25*G>A	-	disorders of sex development (DSD) with cleft palate	-	could have affected FOXF2 on the mRNA or protein level	unknown
+53	19276632	FOXF2	c.262G>A	p.Ala88Thr	disorders of sex development (DSD) with cleft palate	-	detected in normal controls	benign
+54	19276632	FOXF2	c.1272C>T	p.Ser424Ser	disorders of sex development (DSD) with cleft palate	-	silent mutation	benign
+55	19276632	FOXF2	c.1284T>C	p.Tyr428Tyr	disorders of sex development (DSD) with cleft palate	-	silent mutation	benign
+56	17391797	PEMT	-	Val175Met	nonalcoholic steatohepatitis (NASH)	lower body mass index, non-obese	more frequent in NASH patients and associated with increased susceptibility	likely pathogenic
+57	17059986	SLC12A3	c.2633+1G>C	-	Gitelman syndrome	growth delay, metabolic alkalosis, hypomagnesemia, hypokalemia, idiopathic intracranial hypertension with bilateral papilledema	caused the appearance of 2 RNA molecules, 1 normal transcript and 1 skipping the entire exon 22	pathogenic
+58	17059986	SLC12A3	-	p.Ser555Leu	Gitelman syndrome	growth delay, metabolic alkalosis, hypomagnesemia, hypokalemia, idiopathic intracranial hypertension with bilateral papilledema	mutations were not detected in 200 normal chromosomes and cosegregated within the family	pathogenic
+59	17033974	CACNA2D4	c.2406C-->A	-	cone dystrophy	slowly progressing cone dystrophy	introduces a premature stop codon that truncates one-third of the corresponding open reading frame	pathogenic
+60	17003357	PTPN22	1858C/T	-	type 1 diabetes	-	strong association with type 1 diabetes	pathogenic
+61	17003357	PTPN22	2250G/C	-	type 1 diabetes	interfered with normal mRNA splicing, resulting in a premature termination codon	interfered with normal mRNA splicing, resulting in a premature termination codon	likely pathogenic
+62	16644711	LARG	-	Tyr1306Cys	type 2 diabetes	increased insulin sensitivity	reduced activity of LARG protein	likely benign
+63	16543197	CRB1	-	G1103R	Leber congenital amaurosis (LCA), retinitis pigmentosa (RP)	high to extreme hyperopia	mutation at a highly conserved site in the protein	pathogenic
+64	16525586	FXIII A	c.210T>G	p.Tyr69X	Factor XIII deficiency	-	novel mutation in beta-sandwich domain, conservation of mutated amino acid, and molecular modeling	pathogenic
+65	16525586	FXIII A	c.791C>T	p.Ser263Phe	Factor XIII deficiency	-	novel mutation in core domain, conservation of mutated amino acid, and molecular modeling	pathogenic
+66	16525586	FXIII A	c.2045-1G>A	-	Factor XIII deficiency	-	novel mutation at acceptor splice junction of intron 14, conservation of mutated amino acid, and molecular modeling	pathogenic
+67	16525586	FXIII A	c.892_895dupG	p.Ser290/Ala291fs	Factor XIII deficiency	-	novel frame shift mutation in core domain, conservation of mutated amino acid, and molecular modeling	pathogenic
+68	16525586	FXIII A	c.1642_1644dupA	p.Tyr547fs	Factor XIII deficiency	-	novel frame shift mutation in barrel-1 domain, conservation of mutated amino acid, and molecular modeling	pathogenic
+69	16525586	FXIII A	-	p.Arg260His	Factor XIII deficiency	-	previously reported missense mutation in core domain	pathogenic
+70	16525586	FXIII A	-	p.Ser413Leu	Factor XIII deficiency	-	previously reported missense mutation in core domain	pathogenic
+71	16525586	FXIII A	-	p.Val414Phe	Factor XIII deficiency	-	previously reported missense mutation in core domain	pathogenic
+72	16256386	PAH	-	R243Q	phenylketonuria (PKU)	-	predicted residual activity matches in vivo phenotypes	likely pathogenic
+73	16256386	PAH	-	EX6-96A>G	phenylketonuria (PKU)	-	predicted residual activity matches in vivo phenotypes	likely pathogenic
+74	16256386	PAH	-	R111X	phenylketonuria (PKU)	-	predicted residual activity matches in vivo phenotypes	likely pathogenic
+75	16256386	PAH	-	Y356X	phenylketonuria (PKU)	-	predicted residual activity matches in vivo phenotypes	likely pathogenic
+76	16256386	PAH	-	R413P	phenylketonuria (PKU)	-	predicted residual activity matches in vivo phenotypes	likely pathogenic
+77	16256386	PAH	-	I38fsX19	phenylketonuria (PKU)	-	predicted residual activity matches in vivo phenotypes	likely pathogenic
+78	16256386	PAH	-	IVS4+3G>C	phenylketonuria (PKU)	-	predicted residual activity matches in vivo phenotypes	likely pathogenic
+79	16256386	PAH	-	Y154H	phenylketonuria (PKU)	-	predicted residual activity matches in vivo phenotypes	likely pathogenic
+80	16256386	PAH	-	R157K	phenylketonuria (PKU)	-	predicted residual activity matches in vivo phenotypes	likely pathogenic
+81	16256386	PAH	-	R157I	phenylketonuria (PKU)	-	predicted residual activity matches in vivo phenotypes	likely pathogenic
+82	16256386	PAH	-	T200fsX6	phenylketonuria (PKU)	-	predicted residual activity matches in vivo phenotypes	likely pathogenic
+83	16256386	PAH	-	Q267H	phenylketonuria (PKU)	-	predicted residual activity matches in vivo phenotypes	likely pathogenic
+84	16256386	PAH	-	Q267E	phenylketonuria (PKU)	-	predicted residual activity matches in vivo phenotypes	likely pathogenic
+85	16256386	PAH	-	F302fsX39	phenylketonuria (PKU)	-	predicted residual activity matches in vivo phenotypes	likely pathogenic
+86	16256386	PAH	-	G346R	phenylketonuria (PKU)	-	predicted residual activity matches in vivo phenotypes	likely pathogenic
+87	16256386	PAH	-	S349A	phenylketonuria (PKU)	-	predicted residual activity matches in vivo phenotypes	likely pathogenic
+88	16256386	PAH	-	L367L	phenylketonuria (PKU)	-	predicted residual activity matches in vivo phenotypes	likely benign
+89	16256386	PAH	-	R400K	phenylketonuria (PKU)	-	predicted residual activity matches in vivo phenotypes	likely pathogenic
+90	16256386	PAH	-	IVS12+4A>G	phenylketonuria (PKU)	-	predicted residual activity matches in vivo phenotypes	likely pathogenic
+91	16256386	PAH	-	IVS12+6T>A	phenylketonuria (PKU)	-	predicted residual activity matches in vivo phenotypes	likely pathogenic
+92	16252083	hMSH2	A127G	Asn127Ser	breast cancer	-	no correlation with breast cancer progression	likely benign
+93	16252083	hMSH2	G1032A	Gly322Asp	breast cancer	-	strong association between breast cancer occurrence and the Gly/Gly phenotype	likely pathogenic
+94	16186368	CYP4V2	-	S482X	Bietti crystalline dystrophy (BCD)	clinical heterogeneity	novel mutation identified	pathogenic
+95	16186368	CYP4V2	-	K386T	Bietti crystalline dystrophy (BCD)	clinical heterogeneity	novel mutation identified	pathogenic
+96	16186368	CYP4V2	15-bp deletion in exon 7	-	Bietti crystalline dystrophy (BCD)	clinical heterogeneity, more severe disease in compound heterozygotes	founder effect and correlation between clinical stage of disease and ERG changes	pathogenic
+97	16181814	POLG	E873stop	p.E873*	Alpers syndrome	progressive, fatal brain and liver disease	produces a truncated, catalytically inactive polymerase, but undergoes nonsense-associated alternative splicing and nonsense-mediated decay	pathogenic
+98	16181814	POLG	A467T	p.A467T	Alpers syndrome	progressive, fatal brain and liver disease	single-copy gene dose of the A467T allele, leading to reduced POLG function	pathogenic
+99	16088915	COL2A1	c.2375A>G	p.Arg792Gly	spondyloepimetaphyseal dysplasia congenita (SEMDC)	short stature, severe metaphyseal involvement	decreased thermal stability of the triple helix and affect fibril growth	pathogenic
+100	16051693	PEMT	-	V175M	nonalcoholic fatty liver disease (NAFLD)	fatty livers	loss of function mutation, association with NAFLD in genotype study	likely pathogenic
+101	15880727	ALDOB	c.1044_1049delTTCTGGinsACACT	-	hereditary fructose intolerance (HFI)	-	molecular basis of HFI	pathogenic
+102	15880727	ALDOB	c.345_372del28	-	hereditary fructose intolerance (HFI)	-	molecular basis of HFI	pathogenic
+103	15880727	ALDOB	c.841_842delAC	-	hereditary fructose intolerance (HFI)	-	molecular basis of HFI	pathogenic
+104	15880727	ALDOB	c.113-1G>A	-	hereditary fructose intolerance (HFI)	-	molecular basis of HFI	pathogenic
+105	15880727	ALDOB	c.799+2T>A	-	hereditary fructose intolerance (HFI)	-	molecular basis of HFI	pathogenic
+106	15880727	ALDOB	c.612T>G	p.Y204X	hereditary fructose intolerance (HFI)	-	molecular basis of HFI	pathogenic
+107	15880727	ALDOB	c.532T>C	p.C178R	hereditary fructose intolerance (HFI)	-	molecular basis of HFI	pathogenic
+108	15880727	ALDOB	c.851T>C	p.L284P	hereditary fructose intolerance (HFI)	-	molecular basis of HFI	pathogenic
+109	15880727	ALDOB	-	p.A150P	hereditary fructose intolerance (HFI)	-	molecular basis of HFI	pathogenic
+110	15880727	ALDOB	-	p.A175D	hereditary fructose intolerance (HFI)	-	molecular basis of HFI	pathogenic
+111	15880727	ALDOB	-	p.N335K	hereditary fructose intolerance (HFI)	-	molecular basis of HFI	pathogenic
+112	15880727	ALDOB	c.360_363delCAAA	-	hereditary fructose intolerance (HFI)	-	molecular basis of HFI	pathogenic
+113	15880727	ALDOB	-	p.R60X	hereditary fructose intolerance (HFI)	-	molecular basis of HFI	pathogenic
+114	15880727	ALDOB	c.865delC	-	hereditary fructose intolerance (HFI)	-	molecular basis of HFI	pathogenic
+115	15770495	SRD5A2	-	G183S	steroid 5alpha-reductase type 2 deficiency	masculinization defects	reduced or impaired enzymatic activity	pathogenic
+116	15770495	SRD5A2	-	R246W	steroid 5alpha-reductase type 2 deficiency	masculinization defects	reduced or impaired enzymatic activity	pathogenic
+117	15770495	SRD5A2	-	del642T	steroid 5alpha-reductase type 2 deficiency	masculinization defects	reduced or impaired enzymatic activity	pathogenic
+118	15770495	SRD5A2	-	G196S	steroid 5alpha-reductase type 2 deficiency	masculinization defects	reduced or impaired enzymatic activity	pathogenic
+119	15770495	SRD5A2	-	217_218insC	steroid 5alpha-reductase type 2 deficiency	masculinization defects	reduced or impaired enzymatic activity	pathogenic
+120	15770495	SRD5A2	-	A49T	steroid 5alpha-reductase type 2 deficiency	-	-	unknown
+121	15770495	SRD5A2	-	Q126R	steroid 5alpha-reductase type 2 deficiency	masculinization defects	reduced or impaired enzymatic activity	pathogenic
+122	15770495	SRD5A2	-	G158R	steroid 5alpha-reductase type 2 deficiency	masculinization defects	reduced or impaired enzymatic activity	pathogenic
+123	15770495	SRD5A2	-	IVS3+1G>A	steroid 5alpha-reductase type 2 deficiency	masculinization defects	reduced or impaired enzymatic activity	pathogenic
+124	15770495	SRD5A2	-	A207D	steroid 5alpha-reductase type 2 deficiency	-	-	unknown
+125	15770495	SRD5A2	-	R266W	steroid 5alpha-reductase type 2 deficiency	-	-	unknown
+126	15770495	SRD5A2	-	V89L	steroid 5alpha-reductase type 2 deficiency	-	-	benign
+127	15770495	SRD5A2	-	del418T	steroid 5alpha-reductase type 2 deficiency	masculinization defects	reduced or impaired enzymatic activity	pathogenic
+128	15754732	MEN1	222insT	-	primary hyperparathyroidism (pHPT)	-	frameshift mutation	pathogenic
+129	15754732	MEN1	912delTA	-	primary hyperparathyroidism (pHPT)	-	frameshift deletion	pathogenic
+130	15754732	MEN1	835del18	-	primary hyperparathyroidism (pHPT)	-	in-frame deletion	pathogenic
+131	15754732	MEN1	-	P291A	primary hyperparathyroidism (pHPT)	-	missense mutation	pathogenic
+132	15754732	MEN1	-	L89R	primary hyperparathyroidism (pHPT)	-	missense mutation	pathogenic
+133	15754732	MEN1	-	Q536X	primary hyperparathyroidism (pHPT)	-	nonsense mutation	pathogenic
+134	15754732	MEN1	-	R171Q	primary hyperparathyroidism (pHPT)	-	polymorphism	benign
+135	15754732	MEN1	-	D418D	primary hyperparathyroidism (pHPT)	-	polymorphism	benign
+136	15749661	TfR2	1469T->G	L490R	hemochromatosis	mild manifestation of hemochromatosis with cirrhotic liver, parenchymal iron deposits, and diabetes mellitus	mutation found in patients with hemochromatosis	pathogenic
+137	15749661	TfR2	1665delC	V561X	hemochromatosis	severe iron overload with cirrhosis, diabetes mellitus, and skin pigmentation	mutation found in patients with hemochromatosis	pathogenic
+138	15749661	TfR2	714C->T	I238M	hemochromatosis	mild manifestation of hemochromatosis with cirrhotic liver, parenchymal iron deposits, and diabetes mellitus	mutation found in patients with hemochromatosis	unknown
+139	15668505	BRCA2	N372H	N372H	breast and ovarian cancer	-	no significant modification of breast cancer penetrance in BRCA1 mutation carriers	likely benign
+140	15668505	BRCA2	203G>A	-	ovarian cancer	-	borderline association with the 5'-untranslated region 203A allele	likely pathogenic
+141	15668505	BRCA2	N372H	N372H	ovarian cancer	-	no effect	likely benign
+142	15668505	BRCA2	203G>A	-	breast cancer	-	no evidence of a significant modification of breast cancer penetrance	likely benign
+143	15636431	KAL1	c.1833T>C	-	Kallmann Syndrome (KS)	-	sequence variations may be pseudogene products rather than true polymorphisms	unknown
+144	15636431	KAL1	c.1678	-	Kallmann Syndrome (KS)	-	sequence variations may be pseudogene products rather than true polymorphisms	unknown
+145	15636431	KAL1	c.1694	-	Kallmann Syndrome (KS)	-	sequence variations may be pseudogene products rather than true polymorphisms	unknown
+146	15636431	KAL1	c.1699	-	Kallmann Syndrome (KS)	-	sequence variations may be pseudogene products rather than true polymorphisms	unknown
+147	15636431	KAL1	c.1708	-	Kallmann Syndrome (KS)	-	sequence variations may be pseudogene products rather than true polymorphisms	unknown
+148	15636431	KAL1	c.1825	-	Kallmann Syndrome (KS)	-	sequence variations may be pseudogene products rather than true polymorphisms	unknown
+149	15485686	SCN5A	G1763A	p.V1763M	Congenital long QT syndrome (LQTS)	fetal bradycardia, 2:1 atrioventricular block, ventricular tachycardia	persistent tetrodotoxin-sensitive but lidocaine-resistant current, positive shift of the steady-state inactivation curve, steeper activation curve, and faster recovery from inactivation	pathogenic
+150	15304120	UGT1A1	1091 C > T	P364L	Gilbert's syndrome (GS)	-	64.4% lower enzyme activity than the wild-type enzyme activity	pathogenic
+151	15304120	UGT1A1	-	Y486D	Crigler-Najjar syndrome type 2 (CNS2)	-	-	pathogenic
+152	15304120	UGT1A1	-	G71R	Gilbert's syndrome (GS)	-	-	likely pathogenic
+153	15304120	UGT1A1	-	P229Q	Gilbert's syndrome (GS)	-	-	unknown
+154	15304120	UGT1A1	TA7	-	Gilbert's syndrome (GS)	-	-	likely pathogenic
+155	15200509	STK11/LKB1	c.736C>G	p.Tyr246X	Peutz-Jeghers syndrome (PJS)	mucocutaneous pigmentation and hamartomatous polyposis	presumed loss of kinase activity due to premature stop codon	pathogenic
+156	14562027	CYP1B1	-1001C/T	-	prostate cancer (CaP)	-	marginally significant differences in allele frequencies	unknown
+157	14562027	CYP1B1	-263G/A	-	prostate cancer (CaP)	-	marginally significant differences in allele frequencies	unknown
+158	14562027	CYP1B1	-13C/T	-	prostate cancer (CaP)	-	marginally significant differences in allele frequencies	unknown
+159	14562027	CYP1B1	+142C/G	-	prostate cancer (CaP)	-	marginally significant differences in allele frequencies	unknown
+160	14562027	CYP1B1	+355G/T	-	prostate cancer (CaP)	-	marginally significant differences in allele frequencies	unknown
+161	14562027	CYP1B1	C-G-C-C-G haplotype	-	prostate cancer (CaP)	increased risk for CaP	haplotype analysis	likely pathogenic
+162	14562027	CYP1B1	T-A-T-G-T haplotype	-	prostate cancer (CaP)	decreased risk for CaP	haplotype analysis	likely benign
+163	14508191	AGT	T/C704	-	hypertension	-	statistically significant increase of the C allele	likely pathogenic
+164	14508191	AT1	A/C1166	-	hypertension	-	statistically significant increase of the A allele	likely pathogenic
+165	14508191	ALDO	T/C-344	-	hypertension	-	statistically significant increase of the T allele	likely pathogenic
+166	14508191	ACE	I/D	-	hypertension	-	no significant association	benign
+167	12925671	IRAK-4	C877T	-	recurrent bacterial infections	hyporesponsive to LPS and IL-1, deficient responses in aseptic inflammation	truncated kinase domain, precluding expression of full-length IRAK-4, inhibited endogenous IRAK-1 activity	pathogenic
+168	12925671	IRAK-4	620-621del	-	recurrent bacterial infections	hyporesponsive to LPS and IL-1, deficient responses in aseptic inflammation	truncated kinase domain, precluding expression of full-length IRAK-4, inhibited endogenous IRAK-1 activity	pathogenic
+169	12915397	UCP2	-866 G/A	-	type 2 diabetes (T2DM)	obesity, insulin resistance, impaired beta-cell function	modest effects on BMI and T2DM, significant effects on insulin secretion	likely pathogenic
+170	12915397	UCP2	Ala55Val or A55V	Ala55Val	type 2 diabetes (T2DM)	obesity, insulin resistance, impaired beta-cell function	modest effects on BMI and T2DM, significant effects on insulin secretion	likely pathogenic
+171	12915397	UCP2	45-nt insertion in the 3'-untranslated (3'UTR) region	-	type 2 diabetes (T2DM)	obesity, insulin resistance, impaired beta-cell function	modest effects on BMI and T2DM, significant effects on insulin secretion	likely pathogenic
+172	22016685	F11	c.1517A>G	p.Asp506Gly	Factor XI deficiency	mild FXI deficiency, prolonged activated partial thromboplastin time, slightly lower FXI activity	novel missense mutation, first genetically confirmed case of mild FXI deficiency in Korea	unknown
+173	21850008	MT-ND3	T10191C	p.S45P	MELAS	-	novel mutation, affecting mitochondrially encoded complex I	unknown
+174	21850008	MT-ND4	A11470C	p.K237N	MELAS	-	novel mutation, affecting mitochondrially encoded complex I	unknown
+175	21850008	MT-ND5	T13046C	p.M237T	MELAS	-	novel mutation, affecting mitochondrially encoded complex I	unknown
+176	21850008	MT-ND5	-	-	MELAS	-	large-scale deletion involving partial ND5 and ND6 subunits of complex I	unknown
+177	21850008	MT-TL1	A3243G	-	MELAS	-	most common causal genotype	pathogenic
+178	21850008	MT-ND5	G13513A	-	MELAS	-	second common gene mutation	likely pathogenic
+179	22028770	APOE	rs449647	-	Alzheimer's disease	-	decreased the activity of the cloned APOE promoter	unknown
+180	22028770	APOE	rs449647	-	type 2 diabetes	-	no association with type 2 diabetes	benign
+181	22028770	APOE	rs405509	-	type 2 diabetes	-	no association with type 2 diabetes	benign
+182	22028770	APOE	rs440446	-	type 2 diabetes	-	no association with type 2 diabetes	benign
+183	21799811	MTHFR	677C>T	-	male infertility	-	significant association of 677C>T polymorphism with male infertility	pathogenic
+184	20854438	SLURP1	c.256G>A	p.Gly86Arg	Mal de Meleda (MDM), melanoma, viral infection	defective T-cell activation, impaired epidermal homeostasis	defective T-cell activation, impaired epidermal homeostasis	pathogenic
+185	20887110	MTHFR	C677T	p.Ala222Val	Neural tube defects (NTDs)	-	association with increased risk of NTDs, especially in the TT genotype	pathogenic
+186	21080147	CRELD1	c.857C>G	p.P286A	Atrioventricular septal defects (AVSD)	isolated partial AVSD	mutation in the first calcium-binding EGF domain	likely pathogenic
+187	21080147	CRELD1	c.973G>A	p.E325K	Atrioventricular septal defects (AVSD)	partial AVSD with Down syndrome	mutation in the second calcium-binding EGF domain	likely pathogenic
+188	20708777	CYP11B2	rs4539	-	hypertension	persistent postoperative hypertension	associated with persistent postoperative hypertension	likely pathogenic
+189	20708777	CYP11B2	rs1799998	-	hypertension	persistent postoperative hypertension	associated with CYP11B2-CYP11B1 haplotype	unknown
+190	20708777	CYP11B1	rs6410	-	hypertension	persistent postoperative hypertension	associated with CYP11B2-CYP11B1 haplotype	unknown
+191	20708777	CYP11B1	rs6387	-	hypertension	persistent postoperative hypertension	associated with CYP11B2-CYP11B1 haplotype	unknown
+192	20949073	CFTR	2623G>T	E831X	cystic fibrosis	mild to asymptomatic phenotype	alternative splicing at a NAGNAG tandem site removes the disease-causing UAG stop codon	likely benign
+193	20529581	CD18	c.899A>T	p.Asp300Val	Leukocyte adhesion deficiency type 1 (LAD-1)	recurrent severe bacterial infection, impaired pus formation, poor wound healing	decreased CD18 expression level on leukocyte surface, substitution of Asp to Val at the 300 amino acid in a highly conserved region	pathogenic
+194	20005218	Klotho	G-395A	-	Essential Hypertension (EH)	-	differential effects of age, gender and smoking status on the association of the G-395A polymorphism with EH, higher relative luciferase activity	likely pathogenic
+195	19444361	COL3A1	2209G>A (rs1800255)	-	pelvic organ prolapse (POP)	-	odds ratio of 5.0; 95% confidence interval, 1.4-17.1	likely pathogenic
+196	19429807	ATP7A	c.3943G>A	p.G1315R	Menkes disease	progressive hypotonia, seizures, failure to thrive	previous report identified the mutation	likely pathogenic
+197	19429807	ATP7A	c.1544-?_2916+?	-	Menkes disease	progressive hypotonia, seizures, failure to thrive	novel mutation, biochemical findings	pathogenic
+198	19298002	CCL22	16C-->A (rs4359426)	p.2Asp2Ala	gastric carcinoma	-	association with increased risk of gastric carcinoma, especially in men and younger individuals, and joint effect with H. pylori infection	pathogenic
+199	19110214	ACAN	c.6799G>A	p.D2267N	spondyloepimetaphyseal dysplasia	severe short stature	influenced the binding and kinetics of the interactions between the aggrecan G3 domain and tenascin-C	pathogenic
+200	19012332	TP53	-	Arg282Trp	Li-Fraumeni syndrome (LFS)	adrenocortical adenoma, osteosarcoma	development of two early childhood tumors of mesodermal origin despite mosaicism	pathogenic
+201	18806880	KRT3	1493A>T	p.E498V	Juvenile epithelial corneal dystrophy of Meesmann (MCD)	fragility of the anterior corneal epithelium and intraepithelial microcyst formation	location of the mutation emphasizes the functional relevance of the highly conserved boundary motifs at the COOH-terminus of the alpha-helical rod domain in keratin 3 (K3)	pathogenic
+202	18779591	PrlR	-	Ile146Leu	Multiple fibroadenomas (MFA)	constitutive activity, cell proliferation and protection from cell death	confer constitutive activity to the receptor variant, Prl-independent PrlR tyrosine phosphorylation, activation of signal transducer and activator of transcription 5 (STAT5) signaling	pathogenic
+203	18270997	COMT	G472A	Val158Met	opiate addiction	-	association of G/A and A/A genotypes with opiate addiction in women	likely pathogenic
+204	18266724	HNMT	C314T	Thr105Ile	migraine	-	decreased enzyme activity, but no significant difference in frequency between patients and controls	likely benign
+205	17635946	hGR	c.2209T>C	p.F737L	generalized glucocorticoid resistance	partial, end-organ insensitivity to glucocorticoids	decreased affinity for the ligand, marked delay in nuclear translocation, and/or abnormal interaction with the glucocorticoid receptor-interacting protein 1 coactivator	pathogenic
+206	17615540	GJA3	C260T	p.T87M	congenital cataract	"""pearl box"" cataract"	novel mutation in the second transmembrane domain, not found in unaffected family members or control subjects	pathogenic
+207	17595233	NOD2/CARD15	-	-	Crohn's disease	gASCA positivity, ALCA positivity, higher gASCA titers	influence on antibody formation against microbial epitopes	pathogenic
+208	17595233	NOD1/CARD4	-	-	Crohn's disease	gASCA antibodies	influence on antibody formation against microbial epitopes	pathogenic
+209	17595233	TLR4	D299G	-	Crohn's disease	lower prevalence of ACCA antibodies	influence on antibody formation against microbial epitopes	likely pathogenic
+210	17595233	TLR2	P631H	-	Crohn's disease	lower prevalence of Omp antibodies	influence on antibody formation against microbial epitopes	likely pathogenic
+211	17221831	PNP	G/A	G51S	Alzheimer's disease	faster rate of cognitive decline	associated with a faster rate of cognitive decline in AD patients	likely pathogenic
+212	17065190	MCP-1	rs2857657	-	Polymyositis (PM) and dermatomyositis (DM)	-	no allelic, genotypic or haplotypic associations were detected	benign
+213	17065190	MCP-1	rs4586	-	Polymyositis (PM) and dermatomyositis (DM)	-	no allelic, genotypic or haplotypic associations were detected	benign
+214	17065190	MCP-1	rs13900	-	Polymyositis (PM) and dermatomyositis (DM)	-	no allelic, genotypic or haplotypic associations were detected	benign
+215	17065190	MCP-1	rs3917887	-	Polymyositis (PM) and dermatomyositis (DM)	-	no allelic, genotypic or haplotypic associations were detected	benign
+216	16953235	FPR1	c.32C>T	p.I11T	-	increased serum concentrations of C-reactive protein, increased absolute counts of blood leukocytes and neutrophils, and erythrocyte sedimentation rates, increased receptor activity and phenotypic expression of increased inflammatory indices	increased receptor activity, agonist-independent internalization, and increased basal N-acetyl-D-glucosaminidase release	likely pathogenic
+217	16911351	DYT1	c.646G>C	p.Asp216His	dystonia	pain and/or tremor	significantly over-represented in the patients compared with controls	likely pathogenic
+218	16911351	DYT1	904-906delGAG	-	dystonia	-	not detected	benign
+219	16419642	NR3C2	-	S810L	early-onset hypertension	exacerbated in pregnancy	gain-of-function mutation	pathogenic
+220	16419642	NR3C2	-	F826Y	hypertension	-	may affect the ligand affinity, but frequencies not significantly different between hypertensive and normotensive groups	likely benign
+221	16288197	MYOC	144G>A	Q48H	glaucoma	-	known to be associated with glaucoma in India	pathogenic
+222	16277682	SQSTM1	-	M404V	Paget's disease of bone (PDB)	polyostotic PDB	genotype-phenotype correlation and high penetrance of the PDB trait	likely pathogenic
+223	16167150	UCP2	-866G/A	-	type 2 diabetes	energy expenditure	not associated with type 2 diabetes or body mass index	benign
+224	16167150	UCP2	G/A in exon 2	-	type 2 diabetes	-	extremely rare, no association found	benign
+225	16167150	UCP2	C/T	Ala55Val	type 2 diabetes	energy expenditure	not associated with type 2 diabetes or body mass index	benign
+226	16167150	UCP2	45-bp ins/del	-	type 2 diabetes	energy expenditure	associated with 24-h energy expenditure	likely benign
+227	16167150	UCP2	3-bp ins/del	-	type 2 diabetes	energy expenditure	not associated with type 2 diabetes or body mass index	benign
+228	16152606	NBS1	657del5	-	lymphoid malignancies, lymphoma, leukemia	genomic instability, enhanced cancer predisposition	increased odds ratio for the occurrence of mutation	likely pathogenic
+229	16152606	NBS1	643C>T	R215W	acute lymphoblastic leukemia (ALL)	-	found in excess among children with acute lymphoblastic leukemia (ALL)	likely pathogenic
+230	16046395	OPRM1	A118G	N40D	drug addiction	-	defect in transcription or mRNA maturation, lower mRNA and protein levels	likely pathogenic
+231	15680411	XRCC1	R194W	R194W	-	-	no evidence for influencing the response to occupational exposure	benign
+232	15680411	XRCC1	R399Q	R399Q	-	-	no evidence for influencing the response to occupational exposure	benign
+233	15680411	XRCC3	T241M	T241M	-	-	no evidence for influencing the response to occupational exposure	benign
+234	15680411	XRCC4	I134T	I134T	-	-	no evidence for influencing the response to occupational exposure	benign
+235	15680411	XRCC3	-	-	-	increased frequency of translocations	association with smoking-induced DNA damage and sub-optimal repair response	unknown
+236	15680411	XRCC1	-	-	-	-	no evidence for influencing the response to occupational exposure	benign
+237	15680411	XRCC5	-	-	-	-	no evidence for influencing the response to occupational exposure	benign
+238	15609295	GPIX	-	p.Asn86_Asn89del	Bernard-Soulier syndrome (BSS)	markedly reduced surface expression of all three glycoproteins of the GPIb/IX/V complex	additive effects of both mutations	pathogenic
+239	15609295	GPIX	-	p.Asn45Ser	Bernard-Soulier syndrome (BSS)	markedly reduced surface expression of all three glycoproteins of the GPIb/IX/V complex	additive effects of both mutations	pathogenic
+240	15316799	APOD	-352G-->A	-	Alzheimer's disease (AD)	-	associated with a significant 3-fold increase in the risk of early-onset AD	likely pathogenic
+241	15316799	APOD	15T-->C	Phe-->Ser at codon 15	Alzheimer's disease (AD)	-	no significant association mentioned	unknown
+242	15316799	APOD	intron 3, +45C-->T	-	Alzheimer's disease (AD)	-	no significant association mentioned	unknown
+243	15316799	APOD	intron 4, +718C-->T	-	Alzheimer's disease (AD)	-	no significant association mentioned	unknown
+244	15200408	UP Ia	-	Ala7Val	Primary vesicoureteral reflux (VUR)	-	marginally associated with VUR	likely benign
+245	15200408	UP III	-	Pro154Ala	Primary vesicoureteral reflux (VUR)	-	weak association with VUR	likely benign
+246	15198485	EDN1	-	Lys198Asn	hypertension	elevated blood pressure	no significant difference in ET-1 levels between Asn-type and Lys-type transfectant	likely benign
+247	15198485	EDN1	-134delA	-	hypertension	elevated blood pressure	significant difference in ET-1 levels between individuals with the 3A/3A and 3A/4A genotypes	likely pathogenic
+248	15041272	VWF	c.3916C>T	p.R1306W	type 2B von Willebrand disease (VWD)	abnormal mucocutaneous bleedings, loss of high-molecular weight (HMW) multimer, thrombocytopenia	increase the affinity of plasma VWF for platelets, loss of HMW multimers	pathogenic
+249	15003823	HMBS	33 + 2 T-->C	-	Acute intermittent porphyria (AIP)	-	partial deficiency of the porphobilinogen deaminase enzyme	pathogenic
+250	15003823	HMBS	181 G-->C	-	Acute intermittent porphyria (AIP)	-	partial deficiency of the porphobilinogen deaminase enzyme	pathogenic
+251	15003823	HMBS	267-61 del 8 bp	-	Acute intermittent porphyria (AIP)	-	partial deficiency of the porphobilinogen deaminase enzyme	pathogenic
+252	15003823	HMBS	345-1 G-->C	-	Acute intermittent porphyria (AIP)	-	partial deficiency of the porphobilinogen deaminase enzyme	pathogenic
+253	15003823	HMBS	498 + 15 G-->T	-	Acute intermittent porphyria (AIP)	-	partial deficiency of the porphobilinogen deaminase enzyme	pathogenic
+254	15003823	HMBS	499-13 Delta-14 bp indel TGA	-	Acute intermittent porphyria (AIP)	-	partial deficiency of the porphobilinogen deaminase enzyme	pathogenic
+255	15003823	HMBS	825 + 1 G-->C	-	Acute intermittent porphyria (AIP)	-	partial deficiency of the porphobilinogen deaminase enzyme	pathogenic
+256	15003823	HMBS	825 + 2 T-->C	-	Acute intermittent porphyria (AIP)	-	partial deficiency of the porphobilinogen deaminase enzyme	pathogenic
+257	15003823	HMBS	962 G-A	-	Acute intermittent porphyria (AIP)	-	partial deficiency of the porphobilinogen deaminase enzyme	pathogenic
+258	15003823	HMBS	1067 del A	-	Acute intermittent porphyria (AIP)	-	partial deficiency of the porphobilinogen deaminase enzyme	pathogenic
+259	15003823	HMBS	1067-1068 ins 5 bp	-	Acute intermittent porphyria (AIP)	-	partial deficiency of the porphobilinogen deaminase enzyme	pathogenic
+260	14962306	CR1	V1561M	V1561M	-	Knops-null phenotype	high frequency of Knb in West African persons	unknown
+261	14722925	SPINK1	c.27delC	-	chronic pancreatitis	-	segregation with the disease across two generations, with a penetrance of up to 75%	pathogenic
+262	14722925	SPINK1	c.27delC	-	chronic pancreatitis	-	manifested as a low-penetrance susceptibility factor	likely pathogenic
+263	14722925	SPINK1	c.87+1G>A	-	chronic pancreatitis	-	novel heterozygous splicing mutation	likely pathogenic
+264	12915882	EPHX1	-	p.His113Tyr	lung cancer	decreased risk of lung cancer	association study showed decreased risk	likely benign
+265	12915882	EPHX1	-	p.Arg139His	lung cancer	-	no relationship between the polymorphism and lung cancer risk	benign
+266	12862311	PHKA2	79-1 G > T	-	x-linked liver glycogenosis (XLG) type I	low erythrocyte PhK activity	deletion of exon 2	pathogenic
+267	12862311	PHKA2	-	Q1169X	x-linked liver glycogenosis (XLG) type I	low erythrocyte PhK activity	nonsense mutation	pathogenic
+268	12862311	PHKA2	-	R497X	x-linked liver glycogenosis (XLG) type I	low erythrocyte PhK activity	nonsense mutation	pathogenic
+269	12862311	PHKA2	-	R295C	x-linked liver glycogenosis (XLG) type II	normal erythrocyte PhK activity	missense mutation, not found in 100 control alleles	pathogenic
+270	12820697	SLC7A9	-	P261L	cystinuria	-	novel mutation, suggested to cause cystinuria	likely pathogenic
+271	12820697	SLC7A9	-	V330M	cystinuria	-	novel mutation, suggested to cause cystinuria	likely pathogenic
+272	12820697	SLC7A9	1009delA	-	cystinuria	-	novel mutation, suggested to cause cystinuria	likely pathogenic
+273	12820697	SLC7A9	A182T	-	cystinuria	-	previously reported mutation	unknown
+274	12820697	SLC3A1	-	-	cystinuria	-	major disease gene	pathogenic
+275	12820697	SLC7A9	-	-	cystinuria	-	minor contribution to disease	likely pathogenic
+276	12791036	DLL3	c.1285-1301dup	-	spondylocostal dysostosis (SD)	-	truncation of the DLL3 protein and loss of the membrane-attaching domain	pathogenic
+277	12791036	DLL3	c.615delC	-	spondylocostal dysostosis (SD)	-	truncation of the DLL3 protein and loss of the membrane-attaching domain	pathogenic
+278	12791036	DLL3	R238X	-	spondylocostal dysostosis (SD)	-	truncation of the DLL3 protein and loss of the membrane-attaching domain	pathogenic
+279	12668609	ACE	A-262T	-	Alzheimer's disease (AD)	-	association with decreased ACE activity and beta-amyloid metabolism	likely pathogenic
+280	12636044	CACNA1S	c2403T>C	-	malignant hyperthermia, hypokalemic periodic paralysis	-	did not result in amino acid replacement	benign
+281	12636044	CACNA1S	c5398T>C	-	malignant hyperthermia, hypokalemic periodic paralysis	-	did not result in amino acid replacement	benign
+282	12636044	CACNA1S	c4475C>A	p.Ala1492Asp	malignant hyperthermia, hypokalemic periodic paralysis	-	caused the replacement of the Ala1492 with an Asp residue	unknown
+283	12636044	CACNA1S	-	p.Ala1492Asp	malignant hyperthermia, hypokalemic periodic paralysis	-	caused the replacement of the Ala1492 with an Asp residue	unknown
+284	12636044	CACNA1S	-	-	malignant hyperthermia, hypokalemic periodic paralysis	-	an A insertion was identified in intron 36	unknown
+285	22106692	GJB2	-	E137D	non syndromic hearing impairment	severe to profound hearing loss	association between GJB2 mutation and GJB6 mutation	unknown
+286	22106692	GJB2	-	R32Q	non syndromic hearing impairment	severe to profound hearing loss	association between GJB2 mutation and GJB6 mutation	unknown
+287	22106692	GJB2	-	E101K	non syndromic hearing impairment	severe to profound hearing loss	association between GJB2 mutation and GJB6 mutation	unknown
+288	22106692	GJB2	-	Y156H	non syndromic hearing impairment	severe to profound hearing loss	association between GJB2 mutation and GJB6 mutation	unknown
+289	22106692	GJB2	366delT	-	non syndromic hearing impairment	severe to profound hearing loss	association between GJB2 mutation and GJB6 mutation	unknown
+290	21666969	CB1	G1359A	-	obesity	decrease of resistin, leptin and interleukin-6 secondary to weight loss	association with a decrease of resistin, leptin and interleukin-6 secondary to weight loss	likely benign
+291	22042570	OPA1	c.2708_2711delTTAG	p.V903GfsX905	autosomal dominant optic atrophy (ADOA)	-	frameshift mutation leading to a truncated protein	pathogenic
+292	22042570	OPA1	c.1618_1620delACT	p.T540del	autosomal dominant optic atrophy (ADOA)	-	one-amino acid deletion	likely pathogenic
+293	22042570	OPA1	c.1084G>T	p.E362X	autosomal dominant optic atrophy (ADOA)	-	nonsense mutation leading to a stop codon	pathogenic
+294	21615796	IL-17F	rs763780 (7488T/C)	His161Arg	chronic ITP	severe thrombocytopenic state	association with disease development	likely pathogenic
+295	21937424	TREX1	-	R114H	Aicardi-Gouti res syndrome (AGS), systemic lupus erythematosus	-	23-fold reduced single-stranded DNA (ssDNA) exonuclease activity	pathogenic
+296	21937424	TREX1	-	D201ins	Aicardi-Gouti res syndrome (AGS)	-	more than 10,000-fold reduced ssDNA degradation activities	pathogenic
+297	21937424	TREX1	-	A124ins	Aicardi-Gouti res syndrome (AGS)	-	more than 10,000-fold reduced ssDNA degradation activities	pathogenic
+298	21937424	TREX1	-	R114A	-	-	altered exonuclease activities	unknown
+299	21937424	TREX1	-	R114K	-	-	altered exonuclease activities	unknown
+300	22180037	GSTP1	A313G	Ile105Val	prostate cancer	-	reduces catalytic activity of GSTP1	likely pathogenic
+301	22125978	LIPH	c.659_660delTA	-	Woolly hair/hypotrichosis	autosomal recessive WH/hypotrichosis phenotype	mutation segregating with the disease phenotype	pathogenic
+302	20583543	SRD5A2	g.80_87delT CGCGAAG	p.A27fsX132	46,XY DSD	severe hypospadias	novel deletion in exon 1	pathogenic
+303	20583543	SRD5A2	-	p.R246Q	46,XY DSD	-	common amongst patients with SRD5A2 gene defect	pathogenic
+304	20583543	SRD5A2	-	p.G196S	46,XY DSD	isolated micropenis	heterozygous missense mutation	likely pathogenic
+305	20579626	SP7/Osterix (OSX)	c.1052delA	-	osteogenesis imperfecta	recurrent fractures, mild bone deformities, delayed tooth eruption, normal hearing, white sclera	removal of the last 81 amino acids of the protein, including the third zinc-finger motif, essential for bone formation	pathogenic
+306	21130517	EGFR	EGFR Exon 19 deletion	-	lung cancer	-	detection of EGFR mutations in plasma DNA samples	likely pathogenic
+307	21130517	EGFR	EGFR L858R	-	lung cancer	-	detection of EGFR mutations in plasma DNA samples	likely pathogenic
+308	21163864	AGT	T704C	M235T	Hypertrophic cardiomyopathy (HCM)	-	significant differences were detected in genotypic distribution and allelic frequency	likely pathogenic
+309	21406173	PTPN6	E441G	p.Glu441Gly	neutrophilic dermatoses	inflammatory disorder with skin lesions	defect in transcriptional regulation of the hematopoietic PTPN6	likely pathogenic
+310	21406173	PTPN6	1.7-kbp deletion in the promoter region	-	neutrophilic dermatoses	inflammatory disorder with skin lesions	defect in transcriptional regulation of the hematopoietic PTPN6	likely pathogenic
+311	21406173	PTPN6	deletions of exons 2, 5, 11, and 15	-	Sweet's syndrome (SW)	inflammatory disorder with skin lesions	defect in transcriptional regulation of the hematopoietic PTPN6	likely pathogenic
+312	21406173	PTPN6	retention of intron 1 or 5	-	Sweet's syndrome (SW)	inflammatory disorder with skin lesions	defect in transcriptional regulation of the hematopoietic PTPN6	likely pathogenic
+313	21406173	PTPN6	partial deletion of exon 4 with the complete deletion of exon 5	-	pyoderma gangrenosum	inflammatory disorder with skin lesions	defect in transcriptional regulation of the hematopoietic PTPN6	likely pathogenic
+314	20577006	TRPV4	-	P799L	metatropic dysplasia (MD)	-	association between the position of mutations and the disease phenotype	pathogenic
+315	20577006	TRPV4	-	F471del	metatropic dysplasia (MD)	-	association between the position of mutations and the disease phenotype	pathogenic
+316	20577006	TRPV4	-	R594H	spondylometaphyseal dysplasia, Kozlowski type (SMDK)	-	association between the position of mutations and the disease phenotype	pathogenic
+317	20577006	TRPV4	-	[novel mutation 1]	metatropic dysplasia (MD)	-	association between the position of mutations and the disease phenotype	pathogenic
+318	20577006	TRPV4	-	[novel mutation 2]	spondylometaphyseal dysplasia, Kozlowski type (SMDK)	-	association between the position of mutations and the disease phenotype	pathogenic
+319	20577006	TRPV4	-	[novel mutation 17]	metatropic dysplasia (MD) or spondylometaphyseal dysplasia, Kozlowski type (SMDK)	-	association between the position of mutations and the disease phenotype	pathogenic
+320	20534142	PCSK1	rs6232	N221D	obesity, abnormal glucose homeostasis	elevated proinsulin concentrations, increased insulin sensitivity, improved glucose homeostasis	association with elevated AUCproinsulin and AUCproinsulin/AUCinsulin, improved insulin sensitivity and glucose homeostasis	likely pathogenic
+321	20534142	PCSK1	rs6235	-	obesity, abnormal glucose homeostasis	elevated proinsulin concentrations	association with elevated AUCproinsulin and AUCproinsulin/AUCinsulin	likely pathogenic
+322	20227423	DISC1	Ser704Cys	-	chronic fatigue syndrome (CFS), major depressive disorder (MDD), schizophrenia	continuous severe fatigue, overlapping symptoms with MDD	associated with an increased risk of CFS development	likely pathogenic
+323	20086182	CASP8	-652 6N del	-	squamous cell carcinoma of the head and neck (SCCHN)	-	inversely associated with SCCHN risk and increased levels of camptothecin-induced p53-mediated apoptosis	likely benign
+324	20086182	CASP8	-	D302H	squamous cell carcinoma of the head and neck (SCCHN)	-	no association with SCCHN risk	benign
+325	19918264	FGFR4	Gly388Arg	p.Gly388Arg	prostate cancer	-	no overall association is detectable between the Arg allele and increased prostate cancer risk	likely benign
+326	19728872	MANBA	c.1922G>A	p.Arg641His	beta-Mannosidosis	severe neurological disorder	reduced enzyme activity to 7-14%	likely pathogenic
+327	19664890	LIX1	c.387+107A>T	-	spinal muscular atrophy (SMA)	-	not identified as pathogenic mutation, but A-allele is significantly more frequent in SMA patients	unknown
+328	19521089	SLC6A4	5-HTTLPR	-	Parkinson's disease (PD)	muscular rigidity, resting tremor and bradykinesia	association between the 5-HTTLPR polymorphism and risk of PD	likely pathogenic
+329	19521089	SLC6A4	rs25531	-	Parkinson's disease (PD)	-	no association between rs25531 and risk of PD	likely benign
+330	19404517	GPIX	-	N45S	Bernard-Soulier syndrome (BSS)	bleeding symptoms, thrombocytopenia, giant platelets, diminished expression of CD42a and CD42b	diminished expression of CD42a and CD42b, characteristic laboratory parameters for BSS	pathogenic
+331	19370764	GNPTG	c.610-2A>G	p.G204_K247del	Mucolipidosis type III (MLIII)	aberrantly spliced forms	altered splicing	pathogenic
+332	19370764	GNPTG	c.610-2A>G	p.G204VfsX28	Mucolipidosis type III (MLIII)	aberrantly spliced forms	altered splicing	pathogenic
+333	19370764	GNPTG	c.611delG	-	Mucolipidosis type III (MLIII)	-	located within the coding region	pathogenic
+334	19370764	GNPTG	c.640_667del28	-	Mucolipidosis type III (MLIII)	-	located within the coding region	pathogenic
+335	19370764	GNPTG	c.609+28_610-16del	-	Mucolipidosis type III (MLIII)	failure to synthesize GNPTG protein	nonsense-mediated mRNA decay (NMD)	pathogenic
+336	19370764	GNPTG	p.T286M	-	Mucolipidosis type III (MLIII)	-	novel mutation	unknown
+337	19370764	GNPTG	p.W111X	-	Mucolipidosis type III (MLIII)	-	nonsense mutation	pathogenic
+338	19370764	GNPTG	p.G204VfsX17	-	Mucolipidosis type III (MLIII)	failure to synthesize GNPTG protein	nonsense-mediated mRNA decay (NMD)	pathogenic
+339	19218574	PI3-kinase	Met326Ile	Met326Ile	polycystic ovary syndrome (PCOS)	higher serum 17-hydroxyprogesterone (17-OHP) and free testosterone levels	no significant difference in genotype distribution between PCOS and control groups	benign
+340	18681856	TSHR	c.1358T>C	p.M453T	non-autoimmune hyperthyroidism (NAH)	ventriculomegaly, bilateral shortening of the fifth metacarpal bones and the middle phalanges of the fifth fingers	activating germline mutation	pathogenic
+341	19808398	SCN5A	-	A1180V	dilated cardiomyopathy	structural heart disease, atrioventricular block	disturbing Na(+) influx and cellular Na(+) homeostasis	pathogenic
+342	18470323	TGFBI	C417T	R124C	lattice corneal dystrophy type I	variable age of onset, symmetric, decreased visual acuity	cosegregated with LCD type I in the investigated family	pathogenic
+343	18457324	CBR3	V244M	V244M	congestive heart failure (CHF)	cardiotoxic doxorubicinol formation	modulating the intracardiac formation of cardiotoxic anthracycline alcohol metabolites	likely pathogenic
+344	18457324	NQO1	NQO1*2	-	congestive heart failure (CHF)	-	no association between the polymorphism and the risk of anthracycline-related CHF	benign
+345	18410548	AIP	c.742_744delTAC	p.Y248del	pituitary adenoma	GH-secreting adenoma	loss of heterozygosity (LOH) analysis of tumour DNA revealed the loss of the wild-type allele	pathogenic
+346	18385794	SOX2	c.310G>T	p.Glu104X	anophthalmia and/or microphthalmia	severe eye malformation	loss of function	pathogenic
+347	18385794	SOX2	c.549delC	p.Pro184ArgfsX19	anophthalmia and/or microphthalmia	severe eye malformation	loss of function	pathogenic
+348	18385794	SOX2	c.*557G>A	-	anophthalmia and/or microphthalmia	-	indeterminate relationship between the nucleotide change and the protein function	unknown
+349	18385794	SOX2	c.*469C>A (rs11915160)	-	-	-	present as a known single nucleotide polymorphism	benign
+350	18385794	CHX10	c.471C>T (rs35435463)	p.Ser157Ser	-	-	synonymous sequence variant	benign
+351	18385794	CHX10	c.579G>A	p.Gln193Gln	-	-	synonymous sequence variant	benign
+352	18385794	CHX10	c.871G>A	p.Asp291Asn	-	-	present in healthy controls, suggesting non-causality	benign
+353	18257781	PKD2	c.1445T>G	p.F482C	Autosomal dominant polycystic kidney disease (ADPKD)	-	not found in a screen of 280 chromosomes of healthy subjects, altered gene expression, abnormal protein localization, and reduced polycystin-2 channel function	pathogenic
+354	18257781	PKD1	IVS21-2delAG	-	Autosomal dominant polycystic kidney disease (ADPKD)	-	de-novo variant, proband's parents did not have the mutation	likely pathogenic
+355	18050247	SELP	N673S	-	systemic lupus erythematosus (SLE)	-	association with SLE in transmission disequilibrium testing (TDT) and multitest corrections	likely pathogenic
+356	18050247	IRAK1	C203S	-	systemic lupus erythematosus (SLE)	-	association with SLE in transmission disequilibrium testing (TDT) and multitest corrections	likely pathogenic
+357	18050247	TNFRSF6	-	-	systemic lupus erythematosus (SLE)	-	association with SLE and previous findings of their association with SLE pathogenesis	likely pathogenic
+358	18050247	IRF5	-	-	systemic lupus erythematosus (SLE)	-	association with SLE and previous findings of their association with SLE pathogenesis	likely pathogenic
+359	17962394	FRMD7	c.686C>G	p.R229G	X linked nystagmus (NYS)	-	novel missense mutation, not documented in 120 control individuals, skewed X inactivation influences the manifestation of the disease	pathogenic
+360	17910065	PAX9	C139T	R47W	nonsyndromic oligodontia	oligodontia phenotype	dramatically reduced DNA binding suggesting haploinsufficiency	pathogenic
+361	17710578	ACE	I/D polymorphism	-	preeclampsia	severe proteinuria and renal dysfunction	associated with severe proteinuria and renal dysfunction	likely pathogenic
+362	17710578	AT1R	A1166C polymorphism	-	preeclampsia	-	no association with preeclampsia or renal dysfunction	benign
+363	17683901	FGFR3	c.1138G>A	p.G380R	achondroplasia	dwarfism	associated with a G to A substitution at nucleotide position 1138	pathogenic
+364	17683901	FGFR3	c.1138G>C	p.G380R	achondroplasia	dwarfism	associated with a G to C substitution at nucleotide position 1138	pathogenic
+365	17671735	GJB2	-3170G>A	-	hereditary prelingual sensorineural hearing impairment	-	mutation in the 5'UTR region of GJB2	likely pathogenic
+366	17671735	GJB2	c.35delG	-	hereditary prelingual sensorineural hearing impairment	-	mutation in the coding exon of the GJB2 gene	likely pathogenic
+367	17671735	GJB2	-	p.R127H	hereditary prelingual sensorineural hearing impairment	-	combination with -3170G>A genotype	likely pathogenic
+368	17671735	GJB6	Delta(GJB6-D13S1830)	-	hereditary prelingual sensorineural hearing impairment	-	deletion in GJB6	likely benign
+369	17671735	GJB3	c.357C>T	-	hereditary prelingual sensorineural hearing impairment	-	base substitution in GJB3	likely benign
+370	17671735	GJB3	c.798C>T	-	hereditary prelingual sensorineural hearing impairment	-	base substitution in GJB3	likely benign
+371	17671735	GJB3	c.94C>T	p.R32W	hereditary prelingual sensorineural hearing impairment	-	base substitution in GJB3	likely benign
+372	17327131	CYP2F1	c.14_15insC	p.(premature stop codon in exon 2)	lung cancer	severely truncated protein with no catalytic activity	creates a premature stop codon	likely pathogenic
+373	17327131	CYP2F1	Asp218Asn	p.Asp218Asn	lung cancer	-	unknown effect on protein function	unknown
+374	17327131	CYP2F1	Gln266His	p.Gln266His	lung cancer	-	unknown effect on protein function	unknown
+375	17273972	TBX1	-	H194Q	Shprintzen syndrome	-	gain of function, possibly through stabilization of the protein dimer DNA complex	pathogenic
+376	17273972	TBX1	-	-	22q11.2 deletion syndrome	DiGeorge and Shprintzen (velocardiofacial) syndromes	haploinsufficiency of the T-box transcription factor gene	pathogenic
+377	17273972	TBX1	-	-	22q11.2 deletion syndrome	six of the major features of 22q11.2 deletion syndrome	loss of function	pathogenic
+378	17250663	TMC1	c.G1714C	p.D572H	non-syndromic, post-lingual, progressive sensorineural hearing loss	progressive hearing loss, profound deafness at all frequencies	critical function for amino acid-572 for wild-type TMC1 function or the pathogenesis of DFNA36 hearing loss	pathogenic
+379	17250663	TMC1	c.G1714A	p.D572N	non-syndromic, post-lingual, progressive sensorineural hearing loss	progressive hearing loss, profound deafness at all frequencies	critical function for amino acid-572 for wild-type TMC1 function or the pathogenesis of DFNA36 hearing loss	pathogenic
+380	17192049	CYP1A1	T3801C	-	prostate cancer	early age of onset	association with increased relative risk	likely pathogenic
+381	17192049	CYP1A1	A to G transition in exon7	Ile462Val	prostate cancer	-	association with decreased relative risk	likely benign
+382	17000021	PTPN22	rs2476601	R620W	type 1 diabetes (T1D), juvenile idiopathic arthritis (JIA)	-	association with increased risk of autoimmune diseases	pathogenic
+383	17000021	PTPN22	rs2488457	-	type 1 diabetes (T1D), juvenile idiopathic arthritis (JIA)	-	no independent contribution to the risk of autoimmunity	benign
+384	17000021	PTPN22	rs1217412	-	type 1 diabetes (T1D), juvenile idiopathic arthritis (JIA)	-	no independent contribution to the risk of autoimmunity	benign
+385	16843501	hOGG1	G1245C	Ser326Cys	gastric cancer	impaired DNA repair	no correlation	benign
+386	16843501	RAD51	G135C	-	gastric cancer	impaired DNA repair, high level of oxidatively damaged DNA	modulation of the cellular response to oxidative stress	likely pathogenic
+387	16601880	GLDC	c.28delC	-	Glycine encephalopathy (nonketotic hyperglycinaemia, NKH)	-	disease-causing mutation	pathogenic
+388	16601880	GLDC	c.1175delC	-	Glycine encephalopathy (nonketotic hyperglycinaemia, NKH)	-	disease-causing mutation	pathogenic
+389	16601880	GLDC	c.2186delC	-	Glycine encephalopathy (nonketotic hyperglycinaemia, NKH)	-	disease-causing mutation	pathogenic
+390	16601880	GLDC	c.2422delA	-	Glycine encephalopathy (nonketotic hyperglycinaemia, NKH)	-	disease-causing mutation	pathogenic
+391	16601880	GLDC	c.1002_1003insT	-	Glycine encephalopathy (nonketotic hyperglycinaemia, NKH)	-	disease-causing mutation	pathogenic
+392	16601880	GLDC	c.1285_1286insCAAA	-	Glycine encephalopathy (nonketotic hyperglycinaemia, NKH)	-	disease-causing mutation	pathogenic
+393	16601880	GLDC	c.2153_2155delinsTCCTGGTTTA	-	Glycine encephalopathy (nonketotic hyperglycinaemia, NKH)	-	disease-causing mutation	pathogenic
+394	16601880	GLDC	-	p.E153X	Glycine encephalopathy (nonketotic hyperglycinaemia, NKH)	-	disease-causing mutation	pathogenic
+395	16601880	GLDC	-	p.R236X	Glycine encephalopathy (nonketotic hyperglycinaemia, NKH)	-	disease-causing mutation	pathogenic
+396	16601880	GLDC	-	p.E270X	Glycine encephalopathy (nonketotic hyperglycinaemia, NKH)	-	disease-causing mutation	pathogenic
+397	16601880	GLDC	-	p.R337X	Glycine encephalopathy (nonketotic hyperglycinaemia, NKH)	-	disease-causing mutation	pathogenic
+398	16601880	GLDC	-	p.R424X	Glycine encephalopathy (nonketotic hyperglycinaemia, NKH)	-	disease-causing mutation	pathogenic
+399	16601880	GLDC	c.861+1G>T	-	Glycine encephalopathy (nonketotic hyperglycinaemia, NKH)	-	disease-causing mutation	pathogenic
+400	16601880	GLDC	c.1402-1C>G	-	Glycine encephalopathy (nonketotic hyperglycinaemia, NKH)	-	disease-causing mutation	pathogenic
+401	16601880	GLDC	c.2316-1G>A	-	Glycine encephalopathy (nonketotic hyperglycinaemia, NKH)	-	disease-causing mutation	pathogenic
+402	16601880	GLDC	c.2919+1G>A	-	Glycine encephalopathy (nonketotic hyperglycinaemia, NKH)	-	disease-causing mutation	pathogenic
+403	16601880	GLDC	-	p.S132W	Glycine encephalopathy (nonketotic hyperglycinaemia, NKH)	-	requires expression studies to confirm pathogenicity	unknown
+404	16601880	GLDC	-	p.Y138F	Glycine encephalopathy (nonketotic hyperglycinaemia, NKH)	-	requires expression studies to confirm pathogenicity	unknown
+405	16601880	GLDC	-	p.G171A	Glycine encephalopathy (nonketotic hyperglycinaemia, NKH)	-	requires expression studies to confirm pathogenicity	unknown
+406	16601880	GLDC	-	p.T187K	Glycine encephalopathy (nonketotic hyperglycinaemia, NKH)	-	requires expression studies to confirm pathogenicity	unknown
+407	16601880	GLDC	-	p.R212K	Glycine encephalopathy (nonketotic hyperglycinaemia, NKH)	-	requires expression studies to confirm pathogenicity	unknown
+408	16601880	GLDC	-	p.T269M	Glycine encephalopathy (nonketotic hyperglycinaemia, NKH)	-	requires expression studies to confirm pathogenicity	unknown
+409	16601880	GLDC	-	p.R373W	Glycine encephalopathy (nonketotic hyperglycinaemia, NKH)	-	requires expression studies to confirm pathogenicity	unknown
+410	16601880	GLDC	-	p.I440N	Glycine encephalopathy (nonketotic hyperglycinaemia, NKH)	-	requires expression studies to confirm pathogenicity	unknown
+411	16601880	GLDC	-	p.R461Q	Glycine encephalopathy (nonketotic hyperglycinaemia, NKH)	-	requires expression studies to confirm pathogenicity	unknown
+412	16601880	GLDC	-	p.N533Y	Glycine encephalopathy (nonketotic hyperglycinaemia, NKH)	-	requires expression studies to confirm pathogenicity	unknown
+413	16601880	GLDC	-	p.C644F	Glycine encephalopathy (nonketotic hyperglycinaemia, NKH)	-	requires expression studies to confirm pathogenicity	unknown
+414	16601880	GLDC	-	p.H651R	Glycine encephalopathy (nonketotic hyperglycinaemia, NKH)	-	requires expression studies to confirm pathogenicity	unknown
+415	16601880	GLDC	-	p.V705M	Glycine encephalopathy (nonketotic hyperglycinaemia, NKH)	-	requires expression studies to confirm pathogenicity	unknown
+416	16601880	GLDC	-	p.N732K	Glycine encephalopathy (nonketotic hyperglycinaemia, NKH)	-	requires expression studies to confirm pathogenicity	unknown
+417	16601880	GLDC	-	p.G771R	Glycine encephalopathy (nonketotic hyperglycinaemia, NKH)	-	requires expression studies to confirm pathogenicity	unknown
+418	16601880	GLDC	-	p.H775R	Glycine encephalopathy (nonketotic hyperglycinaemia, NKH)	-	requires expression studies to confirm pathogenicity	unknown
+419	16601880	GLDC	-	p.T830M	Glycine encephalopathy (nonketotic hyperglycinaemia, NKH)	-	requires expression studies to confirm pathogenicity	unknown
+420	16601880	GLDC	-	p.A841P	Glycine encephalopathy (nonketotic hyperglycinaemia, NKH)	-	requires expression studies to confirm pathogenicity	unknown
+421	16601880	GLDC	-	p.D880V	Glycine encephalopathy (nonketotic hyperglycinaemia, NKH)	-	requires expression studies to confirm pathogenicity	unknown
+422	16601880	GLDC	-	p.S957P	Glycine encephalopathy (nonketotic hyperglycinaemia, NKH)	-	requires expression studies to confirm pathogenicity	unknown
+423	16601880	GLDC	-	p.R966G	Glycine encephalopathy (nonketotic hyperglycinaemia, NKH)	-	requires expression studies to confirm pathogenicity	unknown
+424	16601880	GLDC	c.2838+5G>A	-	Glycine encephalopathy (nonketotic hyperglycinaemia, NKH)	-	requires expression studies to confirm pathogenicity	unknown
+425	16418600	TSPYL1	-	p.F366L	SIDS	-	cannot be ruled out completely, but heterozygous exchange cannot solely explain the sudden death	unknown
+426	16418600	TSPYL1	457_458insG	-	SIDDT	dysgenesis of the testes	loss of function mutations	pathogenic
+427	16379540	CFTR	D110H	-	cystic fibrosis	-	anomalous electropherograms obtained after PCR/OLA analysis	unknown
+428	16379540	CFTR	S589N	-	cystic fibrosis	-	anomalous electropherograms obtained after PCR/OLA analysis	unknown
+429	16379540	CFTR	CFTRdel14b_17b	-	cystic fibrosis	-	anomalous electropherograms obtained after PCR/OLA analysis	unknown
+430	16379540	CFTR	c.4002A>G	-	-	-	exonic polymorphism	benign
+431	16321363	ALG6	338G>A	-	congenital disorder of glycosylation-Ic (CDG-Ic)	mild CDG phenotype	initially appeared to be a homozygous novel point mutation, but further analysis showed a de novo deletion	unknown
+432	16321363	ALG6	del(1)(p31.2p32.3)	-	congenital disorder of glycosylation-Ic (CDG-Ic)	mild CDG phenotype	de novo event, cells accumulated lipid-linked oligosaccharides lacking three glucose residues	pathogenic
+433	16211251	LTC4S	10G>A	p.Glu4Lys	allergic diseases (bronchial asthma and/or allergic dermatitis)	allergic diseases	association with allergic diseases in patients and familial analysis	likely pathogenic
+434	16157158	HTR2C	-	Cys23Ser	seasonal affective disorder (SAD)	weight regulation disturbances	influence on weight regulation, body mass index (BMI), and seasonal appetite change	likely pathogenic
+435	15851735	GLDC	c.2607C>A	-	glycine encephalopathy	hypotonia, abnormal movements, convulsions, moderate mental retardation, aggression, irritability	missplicing and reduced GLDC expression	likely pathogenic
+436	15642853	PRKN	exon 2 deletion	-	early-onset parkinsonism	symmetrical foot dystonia at onset, gait disturbance, diurnal change, and very slow progression	loss of function	pathogenic
+437	15642853	PRKN	exon 7 G284R substitution	-	early-onset parkinsonism	typical Parkinson disease	loss of function	pathogenic
+438	15642853	PRKN	exon 3 deletion	-	early-onset parkinsonism	symmetrical foot dystonia at onset, gait disturbance, diurnal change, and very slow progression	loss of function	pathogenic
+439	15642853	PRKN	exon 11 R396G substitution	-	early-onset parkinsonism	-	loss of function	likely pathogenic
+440	15623763	TGFBI	-	Gly594Val	lattice corneal dystrophy (LCD)	atypical clinical features	novel mutation associated with distinct phenotype	likely pathogenic
+441	15623763	TGFBI	-	Val539Asp	lattice corneal dystrophy (LCD)	-	novel mutation	likely pathogenic
+442	15623763	TGFBI	-	Val624-Val625del	lattice corneal dystrophy (LCD)	atypical clinical features	novel mutation associated with distinct phenotype	likely pathogenic
+443	15623763	TGFBI	-	Arg124Cys	lattice corneal dystrophy (LCD)	-	predominant mutation causing LCD	pathogenic
+444	15623763	TGFBI	-	His626Arg	lattice corneal dystrophy (LCD)	-	mutation found in LCD patients	likely pathogenic
+445	15623763	TGFBI	-	Arg555Trp	granular corneal dystrophy (GCD)	-	predominant mutation causing GCD	pathogenic
+446	15623763	TGFBI	-	Arg124Leu	Reis-Bucklers dystrophy (GCD type III)	-	mutation found in GCD type III patient	likely pathogenic
+447	15623763	TGFBI	-	Leu269Phe	granular corneal dystrophy (GCD)	-	single-nucleotide polymorphism (SNP) found in GCD patients	benign
+448	15459183	FCGR2B	-	Ile232Thr	systemic lupus erythematosus (SLE)	-	association with SLE in the presence of CD72-*1/*1 genotype	likely pathogenic
+449	15459183	CD72	-	49 amino acid changes in the membrane-distal portion of the extracellular domain	systemic lupus erythematosus (SLE)	nephritis	regulation of alternative splicing by the 13-nucleotide repeat and 4 bp deletion	likely pathogenic
+450	15459183	CD72	13-nucleotide repeat in intron 8	-	systemic lupus erythematosus (SLE)	nephritis	regulation of alternative splicing	unknown
+451	15459183	CD72	4 bp deletion in intron 8	-	systemic lupus erythematosus (SLE)	nephritis	regulation of alternative splicing	unknown
+452	15148206	K12	429A-->C	Arg135Ser	Meesmann's corneal dystrophy	-	replacing a highly conserved arginine residue in the beginning of the helix initiation motif	pathogenic
+453	15148206	K12	1222ins27	-	Meesmann's corneal dystrophy	-	insertion mutation, consisting of a duplication of 27 nucleotides, before the helix termination motif	pathogenic
+454	15122711	POLG	-	Glu873Stop	Alpers' syndrome	refractory seizures, neurodegeneration, and liver disease	deficiency in mitochondrial DNA polymerase gamma (POLG) catalytic activity	pathogenic
+455	15122711	POLG	G1681A	Ala467Thr	Alpers' syndrome	refractory seizures, neurodegeneration, and liver disease	deficiency in mitochondrial DNA polymerase gamma (POLG) catalytic activity	pathogenic
+456	15069170	NCCT	c.185C>T	p.Thr60Met	Gitelman's syndrome	-	inactivating mutation	pathogenic
+457	15069170	NCCT	c.1712C>T	p.Ala569Val	Gitelman's syndrome	-	inactivating mutation	pathogenic
+458	15069170	NCCT	c.1930C>T	p.Arg642Cys	Gitelman's syndrome	-	inactivating mutation	pathogenic
+459	15069170	NCCT	c.2552T>A	p.Leu849His	Gitelman's syndrome	-	inactivating mutation	pathogenic
+460	15069170	NCCT	c.1932delC	-	Gitelman's syndrome	-	inactivating mutation	pathogenic
+461	15069170	NCCT	c.7A>T	p.Met1Leu	Gitelman's syndrome	-	inactivating mutation	pathogenic
+462	15069170	NCCT	c.1181_1186+20del26	-	Gitelman's syndrome	deletion of exon 9 and frameshift at the start of exon 10	inactivating mutation	pathogenic
+463	15069170	NCCT	c.1811_1812delAT	-	Gitelman's syndrome	-	inactivating mutation	pathogenic
+464	15069170	NCCT	IVS16+1G>A	-	Gitelman's syndrome	additional 96 bp insertion between exons 16 and 17	inactivating mutation	pathogenic
+465	15064320	SRD5A2	Tdel219	p.Thr219fs*	male pseudohermaphrodite (MPH)	ambiguous genitalia	frameshift mutation	pathogenic
+466	15064320	SRD5A2	R227Q	p.Arg227Gln	male pseudohermaphrodite (MPH)	ambiguous genitalia	missense mutation	likely pathogenic
+467	15000256	FMR1	c.879A>C	-	autism and mental retardation	aberrant splicing, premature termination of protein synthesis	aberrant splicing, premature termination of protein synthesis	pathogenic
+468	14979495	TLR2	Arg753Gln	Arg753Gln	tuberculosis	-	association with a negative influence on TLR2 function	pathogenic
+469	14742428	BCKDHA	C219W-alpha (TGC to TGG)	C219W	Maple syrup urine disease (MSUD)	classic phenotype	defective subunit assembly and reduced binding affinity for cofactor thiamin diphosphate	pathogenic
+470	14742428	BCKDHB	H156Y-beta (CAT to TAT)	H156Y	Maple syrup urine disease (MSUD)	classic phenotype	defective subunit assembly and reduced binding affinity for cofactor thiamin diphosphate	pathogenic
+471	14742428	BCKDHB	V69G-beta (GTT to GGT)	V69G	Maple syrup urine disease (MSUD)	classic phenotype	aberrant folding	pathogenic
+472	14742428	BCKDHB	IVS 9 del[-7:-4]	-	Maple syrup urine disease (MSUD)	-	unknown	unknown
+473	14742428	BCKDHB	1109 ins 8bp (exon 10)	-	Maple syrup urine disease (MSUD)	-	unknown	unknown
+474	14742428	DBT	H391R (CAC to CGC)	H391R	Maple syrup urine disease (MSUD)	thiamin responsiveness	abolishes the key catalytic residue	pathogenic
+475	14742428	DBT	S133stop (TCA to TGA)	S133*	Maple syrup urine disease (MSUD)	-	premature stop codon	pathogenic
+476	14673473	TTR	-	Val30Met	Familial amyloid polyneuropathy (FAP)	-	amino-acid substitutions	pathogenic
+477	12925722	COL2A1	-	p.Asp262Gly	Spondyloepimetaphyseal dysplasia (SEMD)	disproportionate short stature, malformed vertebrae, abnormal epiphyses or metaphyses, chest deformity, limb shortening, myopia, early-onset degenerative osteoarthrosis	substitution of an obligate glycine within the triple helix	pathogenic
+478	12809638	arylsulfatase A	2590_2591insCCCC	-	MLD	-	frameshift	pathogenic
+479	12809638	arylsulfatase A	752_758delGCCGGCC	-	MLD	-	frameshift	pathogenic
+480	12809638	arylsulfatase A	2566T-->C	C488R	MLD	-	disrupting an unusual cysteine-knot at the C-terminal end of the protein	pathogenic
+481	12809638	arylsulfatase A	-	R84Q	-	-	on a pseudodeficiency allele	benign
+482	12729343	NRAMP1	469 + 14G/C	-	tuberculous pleurisy	-	association with defective production and function of Nrampl, significant odds ratio	likely pathogenic
+483	12729343	NRAMP1	1729 + 55del4	-	tuberculous pleurisy	-	association with defective production and function of Nrampl, significant odds ratio	likely pathogenic
+484	12729343	NRAMP1	D543N	-	tuberculous pleurisy	-	no significant difference in frequency between pleurisy and control groups	likely benign
+485	12673366	RAD51	G135C	-	breast cancer	-	no significant differences in genotype distribution and allele frequencies between patients and controls	likely benign
+486	22104738	MLYCD	c.920T>G	p.Leu307Arg	malonic aciduria	developmental delay, short stature, brain abnormalities, massive excretion of malonic acid and methylmalonic acid	not found in 100 healthy controls and not previously reported	likely pathogenic
+487	22104738	MLYCD	exon 1 deletion	-	malonic aciduria	developmental delay, short stature, brain abnormalities, massive excretion of malonic acid and methylmalonic acid	-	likely pathogenic
+488	22295085	NF2	-	frameshift mutations	vestibular schwannomas (VS)	tumor behavior	molecular genetic changes	pathogenic
+489	22295085	NF2	-	nonsense mutations	vestibular schwannomas (VS)	tumor behavior	molecular genetic changes	pathogenic
+490	22295085	NF2	-	in-frame deletion	vestibular schwannomas (VS)	tumor behavior	molecular genetic changes	pathogenic
+491	22295085	NF2	-	splicing donor site	vestibular schwannomas (VS)	tumor behavior	molecular genetic changes	pathogenic
+492	22295085	NF2	-	missense mutation	vestibular schwannomas (VS)	tumor behavior	molecular genetic changes	pathogenic
+493	22174939	RET	-	-	Hirschsprung disease (HSCR; congenital aganglionosis)	-	contribution to the disease, especially in the lesser common and more severe forms	pathogenic
+494	22174939	RET	-	silent	Hirschsprung disease (HSCR; congenital aganglionosis)	-	no effect on protein function	benign
+495	22174939	RET	-	missense	Hirschsprung disease (HSCR; congenital aganglionosis)	-	potential disruption of protein function	likely pathogenic
+496	22174939	RET	-	nonsense	Hirschsprung disease (HSCR; congenital aganglionosis)	-	truncation of protein	pathogenic
+497	22174939	RET	-	frame-shifts	Hirschsprung disease (HSCR; congenital aganglionosis)	-	disruption of protein reading frame	pathogenic
+498	22174939	RET	-	in-frame amino-acid deletion	Hirschsprung disease (HSCR; congenital aganglionosis)	-	potential disruption of protein function	likely pathogenic
+499	22174939	RET	-	splice-site deletions	Hirschsprung disease (HSCR; congenital aganglionosis)	-	disruption of splicing	pathogenic
+500	22174939	RET	-	nucleotide substitutions	Hirschsprung disease (HSCR; congenital aganglionosis)	-	potential disruption of splicing or protein function	likely pathogenic
+501	22174939	RET	-	22-bp deletion	Hirschsprung disease (HSCR; congenital aganglionosis)	-	potential disruption of splicing or protein function	likely pathogenic
+502	22174939	RET	-	single-nucleotide substitution in the 5' untranslated region	Hirschsprung disease (HSCR; congenital aganglionosis)	-	potential disruption of gene regulation	unknown
+503	21943124	FGFR2	1372 bp deletion between exons IIIb and IIIc	-	Apert syndrome	-	dominant gain-of-function manner, autocrine activation	pathogenic
+504	21779184	HBA1/2	a-thalassemia-1 SEA type deletion	-	thalassemia	-	a-thalassemia-1 SEA type deletion causes thalassemia	pathogenic
+505	21779184	HBA1/2	a-thalassemia-1 Thai type deletion	-	thalassemia	-	a-thalassemia-1 Thai type deletion causes thalassemia	pathogenic
+506	21779184	HBB	b-thalassemia 3.5-kb gene deletion	-	thalassemia	-	b-thalassemia 3.5-kb gene deletion causes thalassemia	pathogenic
+507	21640722	POLH	13 base pair deletion	-	xeroderma pigmentosum variant (XPV), skin cancers	-	deficiency of DNA polymerase eta, inability to replicate past UV-induced DNA damage	pathogenic
+508	21499297	C10ORF97	rs2297882	-	non-small-cell lung cancer (NSCLC)	increased risk of NSCLC	association with decreased C10ORF97 expression and increased risk of NSCLC	pathogenic
+509	21695597	HLA-DRB1	rs9271366	-	systemic lupus erythematosus (SLE)	-	association with SLE in African Americans and previous Chinese genome-wide association study	likely pathogenic
+510	21695597	HLA-DRB1	rs204890	-	systemic lupus erythematosus (SLE)	-	association with SLE independent of rs9271366 SNP	likely pathogenic
+511	21695597	HLA-DRB1	rs2071349	-	systemic lupus erythematosus (SLE)	-	association with SLE independent of rs9271366 SNP	likely pathogenic
+512	21695597	HLA-DRB1	rs2844580	-	systemic lupus erythematosus (SLE)	-	association with SLE independent of rs9271366 SNP	likely pathogenic
+513	21695597	C4A	C4A deletion	-	systemic lupus erythematosus (SLE)	-	no significant association after adjustment for other SNPs	likely benign
+514	21629979	EGFR	-	-	glioblastoma with an oligodendroglial component (GBMO)/glioblastoma multiforme (GBM)	-	gene amplification	unknown
+515	21629979	PDGFR	-	-	glioblastoma with an oligodendroglial component (GBMO)/glioblastoma multiforme (GBM)	-	gene amplification	unknown
+516	21629979	INK4	-	-	glioblastoma with an oligodendroglial component (GBMO)/glioblastoma multiforme (GBM)	-	homozygous deletion	unknown
+517	21629979	chromosome 10	-	-	glioblastoma with an oligodendroglial component (GBMO)/glioblastoma multiforme (GBM)	-	loss of heterozygosity (LOH)	unknown
+518	21629979	1p19q	-	-	glioblastoma with an oligodendroglial component (GBMO)/glioblastoma multiforme (GBM)	-	loss of heterozygosity (LOH)	unknown
+519	22048266	SIM2	rs2073601	p.Leu<>Met	Down syndrome	-	nonsynonymous substitution of leucine to methionine	unknown
+520	22048266	ETS2	rs461155	-	Down syndrome	high heterozygosity	high heterozygosity	unknown
+521	21771880	IRS2	10510452_139	-	obesity	influencing BMI, fat mass, and waist circumference	associated with obesity-related traits	likely pathogenic
+522	21790735	SERPING1	650-kbp deletion	-	hereditary or acquired angio-oedema (HAE or AAE)	recurring episodes of subcutaneous or submucosal oedema	half copy number of the C1-INH gene	pathogenic
+523	21506149	parkin	202A deletion	-	Parkinson's disease	intractable axial symptoms, postural tremor, preserved cognition	causes early-onset Parkinson's disease with marked levodopa/STN-DBS-resistant axial features	pathogenic
+524	21904390	PAX6	c.357-3C>G	p.Ser119fsX	Aniridia (AN)	-	novel heterozygous splicing-site mutation	pathogenic
+525	21904390	PAX6	c.643T>C	p.S216P	Peters anomaly	-	located in the homeodomain region of the PAX6	pathogenic
+526	21904390	PAX6	large deletion including the whole PAX6 gene	-	Aniridia (AN)	-	large deletion detected by MLPA analysis	pathogenic
+527	21496008	ARX	c.304ins(GCG)(7)	-	non-syndromic intellectual disability (ID)	severe brain and genital malformations	protein mislocalization	pathogenic
+528	21496008	ARX	c.429_452dup	-	non-syndromic intellectual disability (ID)	severe brain and genital malformations	protein mislocalization	pathogenic
+530	21496008	ARX	c.1074G>T	-	non-syndromic intellectual disability (ID)	severe brain and genital malformations	protein mislocalization	pathogenic
+531	21496008	ARX	c.429_453dup27bp	-	non-syndromic intellectual disability (ID)	severe brain and genital malformations	protein mislocalization	pathogenic
+532	21496008	ARX	c.429_453dup33bp	-	non-syndromic intellectual disability (ID)	severe brain and genital malformations	protein mislocalization	pathogenic
+533	21717135	-	10-bp deletion in the ribosomal NTS region	-	sporotrichosis	disseminated cutaneous sporotrichosis	caused more extensive system involvement and showed stronger virulence than the control strain	pathogenic
+534	21976953	FBN1	c.3703T>C	p.S1235P	Marfan syndrome	-	induce conformation change of the calcium binding epidermal growth factor-like#15 domain	pathogenic
+535	21546516	CTNS	57 kb deletion	-	cystinosis	abnormal accumulation of lysosomal cystine	deletion of the majority of CTNS	pathogenic
+536	21546516	TRPV1	57 kb deletion	-	cystinosis	dysregulation of transcription	deletion of the first two non-coding exons	likely pathogenic
+537	21976404	ACE	-	-	systemic lupus erythematosus (SLE)	-	association with disease activity parameters, higher serum ACE level, and correlation with SLEDAI scores	likely pathogenic
+538	21879313	IL28B	rs8099917	-	chronic hepatitis C	impaired cellular lipoprotein pathways	association with higher levels of apoB-100 and LDL cholesterol	unknown
+539	21879313	HCV	-	Arg70	chronic hepatitis C	impaired cellular lipoprotein pathways	association with higher levels of apoB-100 and LDL cholesterol	unknown
+540	20728296	RB1	-	-	Arima syndrome, retinoblastoma	severe psychomotor retardation, characteristic face, nystagmus, retinopathy, cystic kidney disease, brain malformation with molar tooth sign and cerebellar vermis hypoplasia	deletion of the RB1 gene	pathogenic
+541	20602574	AMBP	-218G/T, -189T/C	-	kidney stone formation	-	no significant differences in allele distribution between patients and controls	benign
+542	21059483	GALT	5.5 kb deletion	-	galactosemia	neurological deficits, ovarian failure	causing a 5.5 kb deletion	pathogenic
+543	21103668	F8	-	-	haemophilia A	severe haemophilia A	created by DNA double strand breaks and subsequent DNA repair by the non-homologous end joining DNA repair pathway (NHEJ)	pathogenic
+545	20682662	CCR5	32 base-pair deletion (DD32)	-	rheumatoid arthritis (RA), systemic lupus erythematosus (SLE), lupus nephritis (LN)	-	no significant association with disease susceptibility or severity	benign
+546	20806042	GJA8	c.592C-->T	p.R198W	congenital cataract-microcornea syndrome (CCMC)	-	co-segregated with all affected members of the family, not detected in non-carrier relatives or normal controls	pathogenic
+547	21159032	ADRA2B	-	-	recurrent spontaneous abortions (RSA)	-	no significant difference between the groups, presence of the D allele was not associated with RSA	benign
+548	20651814	ADRA2B	indel polymorphism at position -4825	-	migraine	-	no association between indel polymorphism and migraine	benign
+549	20534762	TSH-beta subunit gene	c.103+1G>A	-	congenital central hypothyroidism	conventional treatment-resistant anemia	dramatically affected pre-mRNA processing, causing exon 2 to be completely skipped	pathogenic
+550	20534762	TSH-beta subunit gene	313delT	C105Vfs114X	congenital central hypothyroidism	conventional treatment-resistant anemia	nonsense mutation leading to a truncated protein	pathogenic
+551	20534762	TSH-beta subunit gene	c.323G>A	C88Y	congenital central hypothyroidism	conventional treatment-resistant anemia	affect subunit conformation, predicted to be a damaging substitution by PolyPhen and SIFT analysis	pathogenic
+552	20523265	CFH	rs3753394	-	age-related macular degeneration (AMD)	-	significant association with wet AMD	likely pathogenic
+553	20523265	CFH	rs800292	-	age-related macular degeneration (AMD)	-	significant association with wet AMD	likely pathogenic
+554	20523265	CFH	rs1061170	-	age-related macular degeneration (AMD)	-	significant association with wet AMD	likely pathogenic
+555	20523265	CFH	rs1329428	-	age-related macular degeneration (AMD)	-	significant association with wet AMD	likely pathogenic
+556	20523265	CFH	rs2274700	-	age-related macular degeneration (AMD)	-	no significant association with AMD	benign
+557	20523265	CFH	rs1410996	-	age-related macular degeneration (AMD)	-	no significant association with AMD	benign
+558	20523265	CFH	rs7535263	-	age-related macular degeneration (AMD)	-	no significant association with AMD	benign
+559	20523265	C2	-	-	age-related macular degeneration (AMD)	-	no significant association with AMD	benign
+560	20523265	CFB	-	-	age-related macular degeneration (AMD)	-	no significant association with AMD	benign
+561	20523265	C3	-	-	age-related macular degeneration (AMD)	-	no significant association with AMD	benign
+562	20523265	CFHR1	-	-	age-related macular degeneration (AMD)	-	deletion was not polymorphic	benign
+563	20523265	CFHR3	-	-	age-related macular degeneration (AMD)	-	deletion was not polymorphic	benign
+564	20352162	SERPINE1	4G/5G	-	myocardial infarction (MI)	-	no elevated risk was found in the carriers of the 4G allele	likely benign
+565	20352162	SERPINE1	4G/5G	-	coronary diseases	-	marginally increased risk in 4G allele carriers	likely benign
+566	20202300	-	-	-	multidrug-resistant tuberculosis (MDR-TB)	-	associated with the Beijing genotype and recent nosocomial transmission	unknown
+567	20126413	PTEN	-	-	cancer	-	known homozygous mutation	pathogenic
+568	20113448	HP	HP(del)	-	congenital anhaptoglobinemia	anaphylactic shock	being homozygous for the Hp gene deletion	pathogenic
+569	20017074	SERPINE1	4G5G	-	coronary artery disease	-	modulate the risk of coronary artery disease	unknown
+570	20017074	SERPINE1	4G5G	-	occlusive artery disease (OAD)	-	no association between SERPINE1 polymorphisms and OAD	benign
+571	20017074	SERPINE1	4G5G	-	deep venous thrombosis (DVT)	-	no association between SERPINE1 polymorphisms and DVT	benign
+572	19897031	IRF4	rs12203592	-	childhood acute lymphoblastic leukemia (ALL)	-	loss of repressive effect on IRF4 promoter activity	likely pathogenic
+573	19766614	SEDL	c.370-371insA	p.S124fsX127	Spondyloepiphyseal dysplasia tarda (SEDT)	disproportionate short-trunked short stature, dysplasia of the large joints and flattened thoracic and lumber vertebral bodies	predicted to result in frameshifts and generate a premature stop codon	pathogenic
+574	19730022	dystrophin	duplication at exon 1 to 6	-	dystrophinopathy	congestive heart failure, rhabdomyolysis, renal failure, muscle weakness	mosaic pattern with dystrophin antibody against amino-terminal, carboxy-terminal, and rod domain	pathogenic
+575	19681861	COL7A1	-	-	Dystrophic epidermolysis bullosa (DEB)	severe genetic skin blistering disorder	molecular basis of the disease	pathogenic
+576	19681861	MMP1	rs1799750	-	Dystrophic epidermolysis bullosa (DEB)	modulation of disease severity	no statistically significant correlation between disease severity and genotype	likely benign
+577	19559455	-	-	-	HIV-1	low viral evolution, HIV controller	combination of deleted viral genomes and host protective factors	unknown
+578	19542096	SYNE-1	c.136-1A>G	-	Arthrogryposis multiplex congenita (AMC), autosomal recessive adult onset cerebellar ataxia	bilateral clubfoot, decreased fetal movements, delay in motor milestones, progressive motor decline	aberrant retention of intron 136 leading to premature stop codons and lack of C-terminal transmembrane domain KASH	pathogenic
+579	19477219	CCND1	-	-	Mantle cell lymphoma (MCL)	aberrant activation of CCND1/cyclin D1	genomic abnormalities	unknown
+580	19477219	INK4A/ARF	-	-	Mantle cell lymphoma (MCL)	neoplastic phenotype	deletion	pathogenic
+581	19477219	MYC	-	-	Mantle cell lymphoma (MCL)	neoplastic phenotype	duplication/amplification	pathogenic
+582	19477219	ATM	-	-	Mantle cell lymphoma (MCL)	neoplastic phenotype	deletion	pathogenic
+583	19477219	TP53	-	-	Mantle cell lymphoma (MCL)	neoplastic phenotype	deletion	pathogenic
+584	19477219	miR17-92	-	-	Mantle cell lymphoma (MCL)	oncogenic	duplication/amplification	pathogenic
+585	19477219	TNFSF	-	-	Mantle cell lymphoma (MCL)	neoplastic phenotype	homozygous deletion	pathogenic
+586	19394258	DGUOK	c.444-62C>A	in-frame insertion of 20 amino acids	mitochondrial DNA depletion	subtentorial abnormal myelination and moderate hyperintensity in the bilateral pallidi	disrupts the alpha5 helix of the dGK kinase domain, rendering the protein unable to bind purine deoxyribonucleosides	pathogenic
+587	19365571	CHST6	c.892C>T	p.Q298X	macular corneal dystrophy (MCD)	abnormal metabolism of keratan sulfate	loss of CHST6 function	pathogenic
+588	19365571	CHST6	c.1072T>C	p.Y358H	macular corneal dystrophy (MCD)	abnormal metabolism of keratan sulfate	loss of CHST6 function	pathogenic
+589	19132389	PGC	-	-	gastric cancer (GC)	increased risk of gastric cancer and its precancerous conditions	association with H. pylori infection and increased risk of GC and its precancerous conditions	likely pathogenic
+590	19129715	IGFALS	1308_1316 dup9	p.LEL insertion	primary IGF deficiency	moderate short stature, nondetectable serum ALS, extremely low serum concentrations of IGF-I and IGFBP-3	mutation in a highly conserved leucine-rich repeat (LRR) motif	pathogenic
+591	19129715	IGFALS	C60S	p.C60S	primary IGF deficiency	moderate short stature, nondetectable serum ALS, extremely low serum concentrations of IGF-I and IGFBP-3	mutation in a highly conserved LRR 1	pathogenic
+592	19129715	IGFALS	L244F	p.L244F	primary IGF deficiency	moderate short stature, nondetectable serum ALS, extremely low serum concentrations of IGF-I and IGFBP-3	mutation in a highly conserved LRR 9	pathogenic
+593	19101703	PABPN1	insertion of (GCG)4GCA into the normal allele (GCG)6(GCA)3GCG	-	Oculopharyngeal muscular dystrophy (OPMD)	muscle disorder	unequal cross-over of two PABPN1 alleles	pathogenic
+594	19082493	TS	28 bp VNTR	-	colorectal cancer (CRC)	variable response to chemotherapy	variable response to chemotherapy	unknown
+595	19082493	TS	G/C SNP	-	colorectal cancer (CRC)	variable response to chemotherapy	variable response to chemotherapy	unknown
+596	19082493	TS	deletion of 6 bp at position 1494	-	colorectal cancer (CRC)	variable response to chemotherapy	variable response to chemotherapy	unknown
+597	19082493	TS	C_allele 6-	-	colorectal cancer (CRC)	better progression-free survival (PFS)	better progression-free survival (PFS)	likely benign
+598	19082493	TS	G_allele 6+	-	colorectal cancer (CRC)	worse progression-free survival (PFS)	worse progression-free survival (PFS)	likely pathogenic
+599	19082493	TS	6+/6+	-	colorectal cancer (CRC)	better progression-free survival (PFS)	better progression-free survival (PFS)	likely benign
+600	19082493	TS	6-/6-	-	colorectal cancer (CRC)	intermediate progression-free survival (PFS)	intermediate progression-free survival (PFS)	unknown
+601	19082493	TS	6+/6-	-	colorectal cancer (CRC)	intermediate progression-free survival (PFS)	intermediate progression-free survival (PFS)	unknown
+602	19047089	BRCA	-	-	ovarian cancer	genetic instability	distinct genetic patterns and loss of heterozygosity primarily due to uniparental disomy	pathogenic
+603	19037252	PLCE1	four-basepair deletion in exon 3	-	diffuse mesangial sclerosis	congenital or infantile nephrotic syndrome	nonpenetrance may be due to compensatory mutations at a second locus	likely pathogenic
+604	18838613	CDKN2A	-	-	childhood acute lymphoblastic leukemia (ALL)	-	genomic deletion, loss of heterozygosity (LOH)	pathogenic
+605	18827003	NR3C1	c.1201G>C	p.D401H	metabolic syndrome	obesity, hypertension	enhances the transcriptional activity of glucocorticoid-responsive genes	likely pathogenic
+606	18813858	IRF6	520delG	-	Van der Woude Syndrome (VWS)	lower lip pits and cleft lip and/or palate	haploinsufficiency of the IRF6 gene	pathogenic
+607	18813858	IRF6	T1135A	-	Van der Woude Syndrome (VWS)	lower lip pits and cleft lip and/or palate	haploinsufficiency of the IRF6 gene	pathogenic
+608	18704161	- 	 - 	 - 	 - 	 - 	 - 	 unknown
+609	18398821	TXNL4B	-	-	breast cancer	good prognosis	deletion of 16q22.2	unknown
+610	18398821	DXH38	-	-	breast cancer	good prognosis	deletion of 16q22.2	unknown
+611	18398821	ADAMTS18	-	-	breast cancer	-	tumor suppressor gene	likely pathogenic
+612	18398821	CNTNAP4	-	-	breast cancer	-	cell recognition gene	unknown
+613	18398821	CHST3	-	-	breast cancer	-	associated with deletion of 16q	unknown
+614	18398821	SPOCK2	-	-	breast cancer	-	associated with deletion of 16q	unknown
+615	18398821	JMY	-	-	breast cancer	-	regulation of the cell cycle	unknown
+616	18398821	PTPRN2	-	-	breast cancer	-	regulation of the cell cycle	unknown
+617	18398821	Cwf19L2	-	-	breast cancer	-	regulation of the cell cycle	unknown
+618	18398821	KPNB1	-	-	breast cancer	-	chromosome stability	unknown
+619	18385169	TNFA	-308G>A	-	asthma	bronchial hyperresponsiveness	associated with increased asthma prevalence and with bronchial hyperresponsiveness	likely pathogenic
+620	18385169	LTA	252A>G	-	asthma	-	no consistent association	likely benign
+621	18272172	hERG	2398+1G>C	p.(in-frame insertion of 18 amino acids in the cyclic nucleotide binding domain)	type 2 long QT syndrome	trafficking defect of the mutant channel	disrupted normal splicing, activated a cryptic splice donor site, and led to a dominant negative suppression of wild-type channel function	pathogenic
+622	18164595	HR	1782-83delAG	-	Atrichia with papular lesions (APL)	total hair loss on scalp, axilla and body	frameshift and a downstream premature termination codon	pathogenic
+623	18164595	HR	3097delG	-	Atrichia with papular lesions (APL)	total hair loss on scalp, axilla and body	homozygous deletion of a G nucleotide at the exon 15-intron 15 boundary	pathogenic
+624	18164595	HR	c.276A>G	N970S	Atrichia with papular lesions (APL)	total hair loss on scalp, axilla and body	missense mutation	pathogenic
+625	18046082	APOE	c.308G>C	p.Arg150Pro	Lipoprotein glomerulopathy (LPG)	thrombus-like substances in markedly dilated glomerular capillaries and elevated plasma levels of apolipoprotein E (apoE)	marked molecular conformational change of the apoE and thus impair its binding ability to lipids	pathogenic
+626	18036257	- 	 - 	 - 	 osteoporosis 	 loss of bone mineral density, bone fragility 	 - 	 unknown
+627	17962469	TULP1	6-base in-frame duplication	-	Leber congenital amaurosis (LCA) or early-onset retinal degeneration (EORD)	nystagmus, hemeralopia, mild myopia, low visual acuity, spicular retinitis pigmentosa, clumped pigmented retinopathy, macular involvement, salt-and-pepper retinopathy, midperipheral retinal pigment epithelium (RPE) atrophy, perifoveal ring of increased fundus autofluorescence (FAF), thinned retina, photoreceptor loss	intrafamilial phenotypic variability could be attributed to disease progression or possibly modifier alleles	pathogenic
+628	17951029	PORCN	c.898G>T	p.E300X	Focal dermal hypoplasia (FDH) or Goltz syndrome	depressed, pale linear scars on the trunk and limbs, sparse brittle hair, syndactyly, dental caries, osteopathia striata	nonsense mutation leading to premature termination codon	pathogenic
+629	17868390	DFNA5	IVS8+4 A>G	p.(truncation at position 372)	non-syndromic, late-onset autosomal dominant sensorineural hearing loss	variable phenotypes of hearing loss in terms of severity and age-at-onset of disease	skipping of exon 8, frameshift, and introduction of a premature stop codon	pathogenic
+630	17634480	GPX4	rs713041	-	breast cancer	increased risk of death	associated with an increased risk of death, with a hazard ratio of 1.27 per rare allele carried	likely pathogenic
+631	17634480	GPX4	rs757229	-	breast cancer	increased risk of death	associated with an increased risk of death	likely pathogenic
+632	17628794	MnSOD	-	p.Val16Ala	urolithiasis	oxidative stress, stone formation in the renal system	association with increased risk of urolithiasis	likely pathogenic
+633	17495183	TNMD	rs5966709	-	type 2 diabetes (T2D)	features of adiposity	associated with features of adiposity in women	likely pathogenic
+634	17495183	TNMD	rs4828037	-	type 2 diabetes (T2D)	features of adiposity	associated with features of adiposity in women	likely pathogenic
+635	17495183	TNMD	rs11798018	-	type 2 diabetes (T2D)	features of adiposity	associated with features of adiposity in men	likely pathogenic
+636	17495183	TNMD	rs2073163	-	type 2 diabetes (T2D)	higher 2-hour plasma glucose levels	associated with 2-hour plasma glucose levels in men and conversion of IGT to T2D	likely pathogenic
+637	17495183	TNMD	rs1155794	-	type 2 diabetes (T2D)	higher 2-hour plasma glucose levels	associated with 2-hour plasma glucose levels in men and conversion of IGT to T2D	likely pathogenic
+638	17495183	TNMD	rs2073162	-	type 2 diabetes (T2D)	higher 2-hour plasma glucose levels	associated with conversion of IGT to T2D	likely pathogenic
+639	17437275	ZEB1	-	-	posterior polymorphous corneal dystrophy (PPCD)	-	novel pathogenic mutations	pathogenic
+640	17437275	VSX1	-	-	posterior polymorphous corneal dystrophy (PPCD)	-	no disease causing mutations identified	unknown
+641	17437275	COL8A2	-	-	posterior polymorphous corneal dystrophy (PPCD)	-	no disease causing mutations identified	unknown
+642	17426470	APC	c.5772delA	p.Asn1924Thrfs*	desmoid tumors, familial adenomatous polyposis	unusual and late onset phenotype	frameshift mutation leading to a truncated protein	pathogenic
+643	17372760	RECQL4	IVS10-1G>A	-	Rothmund-Thomson syndrome, RAPADILINO syndrome, Baller-Gerold syndromes	intrauterine and postnatal growth retardation, failure to thrive, persisting diarrhoea, skin lesions, absence of eyebrows and eyelashes, patellar hypoplasia	splice site mutation	pathogenic
+644	17372760	RECQL4	L638P	L638P	Rothmund-Thomson syndrome, RAPADILINO syndrome, Baller-Gerold syndromes	intrauterine and postnatal growth retardation, failure to thrive, persisting diarrhoea, skin lesions, absence of eyebrows and eyelashes, patellar hypoplasia	nucleotide substitution	pathogenic
+645	17327916	MYCN	-	-	neuroblastoma	-	amplification	pathogenic
+646	17327916	ALK	-	-	neuroblastoma	-	amplification	pathogenic
+647	17311329	LMP-1	30-bp deletion	-	primary central nervous system lymphoma (PCNSL)	-	association with EBV-2 in PCNSL brain biopsies	unknown
+648	17311329	LMP-1	30-bp deletion	-	-	-	more prevalent in HIV-infected patients	unknown
+649	17311329	LMP-1	30-bp deletion	-	-	-	co-infection with non-deleted form	unknown
+650	17286451	RB1	-	-	retinoblastoma (RB)	tumor formation	loss of heterozygosity (LOH) of the RB1 gene	pathogenic
+651	17185385	MAPT	SNP2	-	Amyotrophic lateral sclerosis (ALS-G), Parkinsonism dementia complex (PDC-G), Guam dementia (GD)	-	influences risk for ALS-G, PDC-G and GD through a dominant mechanism	likely pathogenic
+652	17185385	MAPT	SNP6	-	Amyotrophic lateral sclerosis (ALS-G), Parkinsonism dementia complex (PDC-G), Guam dementia (GD), progressive supranuclear palsy	-	influences risk for ALS-G, PDC-G, GD and progressive supranuclear palsy through a recessive mechanism	likely pathogenic
+653	17185385	MAPT	SNP9	-	Amyotrophic lateral sclerosis (ALS-G), Parkinsonism dementia complex (PDC-G), Guam dementia (GD)	-	influences risk for ALS-G, PDC-G and GD through a recessive mechanism	likely pathogenic
+654	17177139	THRB	1284A>C	E333D	Resistance to thyroid hormone (RTH)	elevated serum thyroid hormones, failure to suppress pituitary thyroid stimulating hormone (TSH) secretion, variable peripheral tissue responsiveness to TH, overweight	impaired transcriptional regulation, dominant inhibition of the wild-type TRbeta counterpart transactivation function	pathogenic
+655	17065479	RLBP1	7.36-kb deletion	-	Retinitis punctata albescens (RPA)	early-onset severe night blindness, tiny, dotlike, white deposits in the fundus	abolishes the retinal binding site of CRALBP	pathogenic
+656	17003923	Factor V	1691G>A	-	thrombophilia	-	hereditary hypercoagulability	unknown
+657	17003923	Factor V	4070A>G	-	thrombophilia	-	hereditary hypercoagulability	unknown
+658	17003923	Factor VII	Arg353Gln	-	thrombophilia	-	hereditary hypercoagulability	unknown
+659	17003923	Factor XIII	Val34Leu	-	thrombophilia	-	hereditary hypercoagulability	unknown
+660	17003923	Beta-fibrinogen	-455G>A	-	thrombophilia	-	hereditary hypercoagulability	unknown
+661	17003923	Prothrombin	20210G>A	-	thrombophilia	-	hereditary hypercoagulability	unknown
+662	17003923	Tissue factor pathway inhibitor	536C>T	-	thrombophilia	-	hereditary hypercoagulability	unknown
+663	17003923	Thrombomodulin	127G>A	-	thrombophilia	-	hereditary hypercoagulability	unknown
+664	17003923	Angiotensin converting enzyme	intron 16 insertion/deletion	-	thrombophilia	-	hereditary hypercoagulability	unknown
+665	17003923	Factor VII-activating protease	1601G>A	-	thrombophilia	-	hereditary hypercoagulability	unknown
+666	17003923	Plasminogen activator inhibitor 1	-675 insertion/deletion	-	thrombophilia	-	hereditary hypercoagulability	unknown
+667	17003923	Tissue plasminogen activator	intron h deletion/insertion	-	thrombophilia	-	hereditary hypercoagulability	unknown
+668	17003923	Apolipoprotein E	E2/E3/E4	-	thromboembolic diseases	-	influencing susceptibility to thromboembolic diseases	unknown
+669	17003923	Glycoprotein Ia	807C>T	-	thromboembolic diseases	-	influencing susceptibility to thromboembolic diseases	unknown
+670	17003923	Methylenetetrahydrofolate reductase	677C>T	-	thromboembolic diseases	-	influencing susceptibility to thromboembolic diseases	unknown
+671	17002658	PROT	g.1755 G > A	R-4Q	prothrombin deficiency	under-carboxylation of prothrombin and poor cleavage of the propeptide	by analogy with the previously reported factor IX San Dimas	likely pathogenic
+672	17002658	PROT	g.10435_10809del	p.(del 50 amino acids in the protease domain)	prothrombin deficiency	impair folding, secretion, stability and/or activity of the truncated prothrombin	likely to impair folding, secretion, stability and/or activity of the truncated prothrombin	likely pathogenic
+673	16989765	TIMP3	His158Arg	His158Arg	Sorsby fundus dystrophy (SFD)	bilateral choroidal neovascularization, severe diffuse pigmentary degeneration, nyctalopia	disrupts TIMP3 function, substitution by arginine disrupts protein-protein interaction interface	pathogenic
+674	16840830	MEN1	c.1670A>G	p.Lys557Glu	Multiple endocrine neoplasia type 1 (MEN1)	primary hyperparathyroidism (PHPT), prolactinoma	novel missense mutation	unknown
+675	16840830	MEN1	c.1253G>T	p.Asp418Tyr	Multiple endocrine neoplasia type 1 (MEN1)	epigastric pain, watery diarrhea, subtotal parathyroidectomy, enucleation of pancreatic islet cell tumor, prolactinoma	novel missense mutation	unknown
+676	16838170	HNF4A	rs4810424	-	type 2 diabetes mellitus	elevated risk for the conversion to diabetes	association with the conversion to diabetes in female carriers of the less frequent C allele	likely pathogenic
+677	16838170	HNF4A	rs1884614	-	type 2 diabetes mellitus	-	in almost complete association with rs4810424	unknown
+678	16838170	HNF4A	rs2144908	-	type 2 diabetes mellitus	-	in almost complete association with rs4810424	unknown
+679	16838170	HNF4A	rs2071197	-	type 2 diabetes mellitus	-	part of the haplotype associated with the conversion to diabetes	unknown
+680	16838170	HNF4A	rs3818247	-	type 2 diabetes mellitus	-	part of the haplotype associated with the conversion to diabetes	unknown
+681	16796766	LDLR	-	-	Familial Hypercholesterolemia	-	deletions and other major structural rearrangements of the LDLR gene	pathogenic
+682	16796766	LDLR	exon 7-8 deletion	-	Familial Hypercholesterolemia	-	deletions and other major structural rearrangements of the LDLR gene	pathogenic
+683	16781314	PKP1	c.888delC	-	ectodermal dysplasia-skin fragility syndrome	skin fragility, progressive plantar keratoderma, nail dystrophy, alopecia	importance of functional plakophilin 1 in maintaining desmosomal adhesion in skin	pathogenic
+684	16723031	TYMS	1494del6	-	breast cancer	reduced risk	association with cancer risk, altered thymidylate synthase expression	likely pathogenic
+685	16723031	TYMS	TSER 28-bp tandem repeat	-	breast cancer	-	no association with breast cancer risks	benign
+686	16614502	ACE	-	-	Kawasaki disease	-	association study with low rate of DD and high rate of ID genotype among Kawasaki patients	likely pathogenic
+687	16614502	ACE	-	-	ischemic heart disease	-	reported association	unknown
+688	16614502	ACE	-	-	hypertrophic cardiomyopathy	-	reported association	unknown
+689	16614502	ACE	-	-	idiopathic dilated cardiomyopathy	-	reported association	unknown
+690	16575011	TYMS	3R G > C	-	colorectal cancer	-	no prognostic information	unknown
+691	16575011	TYMS	1494del6	-	colorectal cancer	-	protective effect	likely benign
+692	16575011	TYMS	3R/3R genotype	-	colorectal cancer	-	better outcome	likely benign
+693	16506214	COX-2	+3100 T/G	-	prostate cancer	-	statistically significant difference in allele frequency between cases and controls	likely benign
+694	16506214	COX-2	+8365 C/T	-	prostate cancer	-	statistically significant difference in allele frequency between cases and controls	likely benign
+695	16410744	TP53	-	-	glioblastoma	-	mutation	pathogenic
+696	16410744	PTEN	-	-	glioblastoma	-	mutation	pathogenic
+697	16410744	EGFR	-	-	glioblastoma	-	amplification	pathogenic
+698	16410744	p16	-	-	glioblastoma	-	homozygous deletion	pathogenic
+699	16410744	EGFR	-	-	glioblastoma	-	mutations in the kinase domain (exons 18-21)	pathogenic
+700	16410744	EGFR	codon 787 CAG/CAA (Gln/Gln)	-	glioblastoma	-	polymorphism	unknown
+701	16402033	RB1	-	-	bladder cancer	allelic losses, clonal expansion of intraurothelial neoplasia, severe dysplasia/carcinoma in situ	loss of function, allelic losses associated with early clonal expansion	pathogenic
+702	16322765	-	-	-	cancer	loss of heterozygosity, amplification, deletion	amplification is essentially monoallelic	unknown
+703	16311014	-	-	-	-	-	-	unknown
+704	16288199	NOS2	CCTTT-microsatellite (CCTTT)14	-	primary open angle glaucoma (POAG)	-	specific binding of nuclear proteins, higher activity in a reporter-construct	likely pathogenic
+705	16216473	HPRT	C463T	P155S	HPRT deficiency, hyperuricemia, gout	neurological manifestations, no Lesch-Nyhan disease	allows some expression of functional enzyme in nucleated cells	likely pathogenic
+706	16159638	TIM1	15-bp insertion/deletion in exon 4	-	atopy and eczema	-	associated with increased relative risk	likely pathogenic
+707	16159638	TIM3	SNP at position +4259	-	atopy and eczema	-	predicts a putative change in the amino acid sequence of the protein and associated with increased relative risk	likely pathogenic
+708	16159638	ITK	SNPs in the 5' genomic region	-	atopy	-	show moderate linkage disequilibrium with those in TIM 3 and had an independent effect on atopy	likely pathogenic
+709	16130093	COL6A1	-	-	Ullrich scleroatonic muscular dystrophy	different degrees of severity	genotype-phenotype correlation demonstrating dominant and recessive mutations	pathogenic
+710	16130093	COL6A1	-	-	Ullrich scleroatonic muscular dystrophy	milder phenotype	heterozygous glycine substitutions in the triple-helix domain	pathogenic
+711	16130093	COL6A1	-	-	Ullrich scleroatonic muscular dystrophy	severe clinical and biochemical phenotypes	recessive mutations	pathogenic
+712	16130093	COL6A1	exon 9 deletion	-	Ullrich scleroatonic muscular dystrophy	severe clinical and biochemical phenotypes	recessive mutation	pathogenic
+713	16130093	COL6A1	exon 22 deletion	-	Ullrich scleroatonic muscular dystrophy	severe clinical and biochemical phenotypes	recessive mutation	pathogenic
+714	16130093	COL6A1	exon 31 substitution	premature termination codon	Ullrich scleroatonic muscular dystrophy	severe clinical and biochemical phenotypes	nonsense mutation causing premature termination	pathogenic
+715	16130093	COL6A1	exon 9 glycine substitution	-	Ullrich scleroatonic muscular dystrophy	milder phenotype	heterozygous glycine substitution in the triple-helix domain	pathogenic
+716	16130093	COL6A1	exon 10 glycine substitution	-	Ullrich scleroatonic muscular dystrophy	milder phenotype	heterozygous glycine substitution in the triple-helix domain	pathogenic
+717	16120104	PER2	C111G	-	advanced sleep phase syndrome (ASPS)	morning preference	alteration of the secondary structure of the transcript	likely pathogenic
+718	16120104	PER2	C-1228T	-	-	-	no significant difference in allele frequencies	benign
+719	16120104	PER2	G3853A	p.Gly-to-Glu	-	-	no significant association	unknown
+720	16005363	WFS1	AFF344-345ins	-	Wolfram syndrome	early onset diabetes mellitus, progressive optic atrophy, sensorineural deafness, diabetes insipidus, renal tract abnormalities, neurogical and psychiatric syndromes, preclinical hypopituitarism	only the two family members homozygous for the mutation showed WFS	pathogenic
+721	15937959	FLJ22341	-	-	epithelial ovarian cancers (EOC)	-	identified as a strong candidate tumor suppressor gene (TSG) by RT-PCR analysis	unknown
+722	15937959	DKFZP434P0316	-	-	epithelial ovarian cancers (EOC)	-	identified as a candidate by RT-PCR analysis	unknown
+723	15770126	FKBP6	-	-	Williams-Beuren syndrome (WBS)	neurodevelopmental microdeletion disorder	haploinsufficiency does not preclude male fertility in WBS	likely benign
+724	15768551	HBB	GTT-->GCT	p.Val23Ala	erythrocytosis	elevated oxygen affinity	elevated oxygen affinity	pathogenic
+725	15732660	ACE	-	-	coronary heart disease (CHD)	-	association with increased risk, higher frequency of DD genotype in cases	pathogenic
+726	15649253	p14	-	-	primary central nervous system lymphomas (PCNSL, brain lymphomas)	-	homozygously or hemizygously deleted	pathogenic
+727	15649253	p14	-	L50R	primary central nervous system lymphomas (PCNSL, brain lymphomas)	-	missense mutation	likely pathogenic
+728	15607529	LH/CGR	c.1836T>G	p.Tyr612*	Leydig cell hypoplasia (LCH), male pseudohermaphroditism	complete male pseudohermaphroditism	loss of surface binding of radiolabeled hCG and cAMP generation	pathogenic
+729	15599941	PSA	G/A	-	prostate cancer (PC)	increased risk of PC, especially among younger men	association with androgen response element (ARE) and synergistic effect with AR gene	likely pathogenic
+730	15599941	AR	-	-	prostate cancer (PC)	increased risk of PC	association with variable length glutamine and glycine repeats	likely pathogenic
+731	15599941	PSA	GG	-	prostate cancer (PC)	increased risk of PC, especially among younger men	significantly higher distribution in PC patients	likely pathogenic
+732	15599941	AR	short CAG repeat (< 22)	-	prostate cancer (PC)	increased risk of malignant disease	significantly more cases with short CAG/GG genotype	likely pathogenic
+733	15599941	PSA	GG	-	prostate cancer (PC)	increased risk of PC, especially among younger men	synergistic effect with short CAG repeat in AR gene	likely pathogenic
+734	15599941	AR	short CAG repeat (< 22)/GG	-	prostate cancer (PC)	increased risk of malignant disease	significantly more cases with short CAG/GG genotype	likely pathogenic
+735	15557460	-	-	-	snowflake vitreoretinal degeneration (SVD)	small yellow-white dots in the retina, fibrillar anomaly of the vitreous humor, and retinal detachment	no potentially pathogenic coding sequence variation or evidence for deletion in the COL4A3 gene	unknown
+736	15528217	MMP1	-	-	non-small cell lung carcinoma (NSCLC)	-	no significant difference in genotype and allelotype distribution	unknown
+737	15528217	MMP3	-	-	non-small cell lung carcinoma (NSCLC)	increased risk to develop NSCLC in smoking individuals, increased risk of lymphatic metastasis	stratification analysis showed increased risk	likely pathogenic
+738	15528217	MMP1	-	-	non-small cell lung carcinoma (NSCLC)	lymphatic metastasis	MMP 1G/5A haplotype significantly increased the risk of lymphatic metastasis	likely pathogenic
+739	15528217	MMP3	-	-	non-small cell lung carcinoma (NSCLC)	lymphatic metastasis	frequency of the MMP3 5A homozygote in NSCLC patients with lymphatic metastasis was significantly higher	likely pathogenic
+740	15517085	CDKN2B	-	-	neuroblastoma	-	no deletion or mutation detected	benign
+741	15517085	CDKN2A	-	-	neuroblastoma	-	no deletion or mutation detected	benign
+742	15353880	GLA	-	p.Leu19Pro	Fabry's disease	cardiac hypertrophy	deficiency in alpha-galactosidase A	pathogenic
+743	15205584	FXII	G-->C in exon 12	W486C	congenital FXII deficiency	abnormal coagulation test	impairs intracellular processing of the protein and/or transport system	pathogenic
+744	15177686	HIRA	-	-	DiGeorge and Velocardiofacial syndromes (DGS/VCFS)	cardiovascular, craniofacial, and thymic malformations	altered gene regulation and transcription	unknown
+745	15122708	SEPN1	del 92 nucleotide -19/+73	-	Desmin-related myopathies (DRMs), rigid spine muscular dystrophy, classical multiminicore disease	Mallory body-like inclusions	linkage of the disease to the SEPN1 locus and identical clinical features with SEPN-RM	pathogenic
+746	15111599	CRYBA3/A1	279delGAG	p.Gly91del	congenital nuclear lactescent cataract	cortical lens fiber morphology was normal	cosegregated in all affected individuals and not observed in unaffected individuals or in 250 normal control subjects	pathogenic
+747	15018851	UL97	-	p.591, p.592	-	resistance to ganciclovir	changes in resistance selective pressure	pathogenic
+748	15018851	UL97	-	p.594	-	resistance to ganciclovir	changes in resistance selective pressure	pathogenic
+749	15018851	DNA polymerase	-	p.N495K	-	decreased sensitivity to foscarnet	changes in resistance selective pressure	pathogenic
+750	15018851	DNA polymerase	-	p.L501I	-	cross-resistance to ganciclovir and cidofovir	changes in resistance selective pressure	pathogenic
+751	14709355	APOA1	c.531_532delGC	p.Arg178*	Familial HDL deficiency (FHD), premature coronary heart disease	severe heart failure, corneal opacities, planar xanthomas, extensive obstructions in coronary vessels	frameshift and a stop codon at residue 178, decreased LCAT activity	pathogenic
+752	14708104	GLI3	c.3385_3386delTT	p.F1129X	Pallister-Hall syndrome (PHS)	central and postaxial polydactyly, hypothalamic hamartoma (HH), bifid epiglottis, imperforate anus, renal abnormalities, pulmonary segmentation anomalies, mental retardation, behavioral problems, intractable seizures	frameshift and premature stop	pathogenic
+753	14633686	RAD51	-	-	transitional cell carcinoma (TCC) of the bladder	variable levels of expression	loss or inactivation of the gene	likely pathogenic
+754	14568816	PYGM	c.1367G>A	p.(Gly456Glu)	McArdle disease	subsarcolemmal glycogen accumulation and negative histochemical reaction for phosphorylase	phosphorylase deficiency in muscle	pathogenic
+755	14568816	dGK	c.763_766dupGATT	p.(Arg255Ter)	mitochondrial hepatopathy with liver failure and mitochondrial DNA depletion	micronodular cirrhosis and massive mitochondrial proliferation	frame shift and a premature TGA stop codon resulting in a truncated protein	pathogenic
+756	12737948	FECH	IVS10+1, g-->t	-	erythropoietic protoporphyria (EPP)	photosensitivity, liver complications	"causes the deletion of exon 10, ""null-allele"" mutation"	pathogenic
+757	12701064	CYP17	1-base deletion at codon 329 (TAC-->AA)	truncated protein (1-417 amino acids)	17alpha-hydroxylase/17,20-lyase deficiency	amenorrhea, sexual infantilism, hypokalemic low aldosterone hypertension	production of a truncated protein	pathogenic
+758	12701064	CYP17	3-base deletion (TCC, either 350-351 or 351-352 codon)	-	17alpha-hydroxylase/17,20-lyase deficiency	amenorrhea, sexual infantilism, hypokalemic low aldosterone hypertension	compound heterozygous mutation	pathogenic
+759	12631337	IL1A	TN7(delTTCA)A	-	end-stage renal disease (ESRD)	higher levels of IL-1 alpha expression	association with higher levels of IL-1 alpha expression and reduced risk for ESRD	likely benign
+760	21750150	DACH1	homozygous deletion	-	glioblastoma multiformes	decreased cell proliferation, reduced tumorigenicity	loss of function, transcriptional activation of bFGF	pathogenic
+761	21699520	PTCH1	g.2885G>C	p.R962T	Basal cell carcinomas (BCCs)	-	mutation in an external domain of the protein	likely pathogenic
+762	21699520	PTCH1	g.2839T>G	p.E947stop	Gorlin syndrome	-	truncated protein	pathogenic
+763	21699520	PTCH1	IVS9 + 217T	-	-	-	presented in all control and tumor samples	benign
+764	21542403	RET	-	p.C634	medullary thyroid carcinoma (MTC), multiple endocrine neoplasia type 2 (MEN2A, MEN2B)	-	high-risk allele	pathogenic
+765	21542403	RET	-	p.C620	multiple endocrine neoplasia type 2 (MEN2)	-	related to MEN2 in families	pathogenic
+766	21542403	RET	-	p.691	medullary thyroid carcinoma (MTC), multiple endocrine neoplasia type 2 (MEN2A, MEN2B)	-	less-recognised gene variation	unknown
+767	21542403	RET	-	p.432	medullary thyroid carcinoma (MTC), multiple endocrine neoplasia type 2 (MEN2A, MEN2B)	-	less-recognised gene variation	unknown
+768	21542403	RET	IVS19-37G/C	-	medullary thyroid carcinoma (MTC), multiple endocrine neoplasia type 2 (MEN2A, MEN2B)	-	intronic mutation	unknown
+769	21542403	RET	-	p.D1017N	medullary thyroid carcinoma (MTC), multiple endocrine neoplasia type 2 (MEN2A, MEN2B)	-	less-recognised gene variation	unknown
+770	21903317	REN	c.28T>C	p.W10R	chronic kidney disease (CKD)	anemia, hyperuricemia	mutation in the signal sequence	likely pathogenic
+771	22303603	-	-	-	diabetes and obesity	-	-	unknown
+772	22337303	LMP1	30-bp deletion	-	tumorigenic activity and nasopharyngeal carcinoma	-	geographical localization and tumorigenic activity	pathogenic
+773	22337303	LMP1	69-bp deletion	-	nasopharyngeal carcinoma	-	majority of 69-bp deletion isolates were derived from patients with nasopharyngeal carcinoma	pathogenic
+774	22337303	LMP1	27-bp deletion	-	-	-	not related to malignant or non-malignant isolate origin	unknown
+775	22337303	LMP1	33-bp repeats	-	-	less than five 33-bp repeats	not related to malignant or non-malignant isolate origin	benign
+776	22337303	LMP1	new mutations in NC isolates	-	-	-	unique for this strain	unknown
+777	21684788	ALDH3A2	c.407C>T	p.P136L	Sjogren-Larsson syndrome (SLS)	severe symptoms of SLS with uncommon deterioration in oral motor function and loss of ambulation	large gene deletions and missense mutation	pathogenic
+778	21684788	ALDH3A2	352-kb deletion	-	Sjogren-Larsson syndrome (SLS)	severe symptoms of SLS with uncommon deterioration in oral motor function and loss of ambulation	large gene deletions	pathogenic
+779	21684788	ALDH3A2	1.44-Mb deletion	-	Sjogren-Larsson syndrome (SLS)	severe symptoms of SLS	large gene deletions	pathogenic
+780	21533187	PTPN11	-	frameshift	Metachondromatosis (MC)	-	loss-of-function mutations	pathogenic
+781	21533187	PTPN11	-	nonsense	Metachondromatosis (MC)	-	loss-of-function mutations	pathogenic
+782	21533187	PTPN11	-	splice-site mutations	Metachondromatosis (MC)	-	loss-of-function mutations	pathogenic
+783	21533187	PTPN11	15 kb deletion spanning exon 7	-	Metachondromatosis (MC)	loss-of-heterozygosity for the wild-type allele	loss-of-function mutations	pathogenic
+784	21042587	GR	-	p.R469*	primary glucocorticoid resistance	cortisol resistance, bilateral adrenal hyperplasia, arterial hypertension, hypokalemia	truncated GR lacking hormone and DNA binding capacity, devoid of hormone-dependent nuclear translocation and transactivation properties, GR haploinsufficiency due to nonsense-mediated mRNA Decay	pathogenic
+785	20693575	HCN4	13 nucleotide insertion in exon 6	p.695X	sinus bradycardia	sinus node dysfunction with low resting heart rate, sinus arrhythmias, premature beats	dominant-negative suppression of cAMP-induced channel activation	pathogenic
+786	21182502	COL7A1	IVS64+5g->a	-	Recessive dystrophic epidermolysis bullosa (RDEB), cutaneous squamous cell carcinoma (SCC)	undetectable expression of type VII collagen polypeptides in the basement membrane zone	in-frame deletion of exon 64	pathogenic
+787	21219851	COL3A1	c.2187delA	-	Ehlers-Danlos syndrome, vascular type (vEDS)	-	detected by high-resolution melting curve analysis (hrMCA)	pathogenic
+788	21219851	COL3A1	c.2992C>T	-	Ehlers-Danlos syndrome, vascular type (vEDS)	-	detected by high-resolution melting curve analysis (hrMCA)	pathogenic
+789	21219851	COL3A1	rs1800255:G>A	-	-	-	used for differentiation before sequencing	unknown
+790	21219851	COL3A1	rs1801184:T>C	-	-	-	used for differentiation before sequencing	unknown
+791	21219851	COL3A1	rs2271683:A>G	-	-	-	used for differentiation before sequencing	unknown
+792	21126715	BSCL2	783insG	Ile262fs	Congenital generalized lipodystrophy (CGL)	lack of subcutaneous fat, prominent musculature, generalized eruptive xanthomas, extreme hypertriglyceridemia, severe hepatic steatosis, periportal necrosis, enlargement of kidneys	homozygous insertion of a nucleotide leading to frameshift mutation	pathogenic
+793	20634801	MYC	-	-	prostate cancer	high Gleason score	preferential chromosomal duplication event during prostate tumorigenesis	unknown
+794	20843112	p16	-	-	gastric carcinomas	-	no mutations or deletions detected	benign
+795	20630757	DMD	-	-	Duchenne muscular dystrophy (DMD) and Becker muscular dystrophy	significant weakness, myalgias/cramps, DMD-like progression, mild Becker muscular dystrophy-like phenotype	improved molecular diagnostic methods, X-chromosome inactivation pattern	unknown
+796	20630757	DMD	exonic deletions or duplications	-	Duchenne muscular dystrophy (DMD) and Becker muscular dystrophy	significant weakness, myalgias/cramps, DMD-like progression, mild Becker muscular dystrophy-like phenotype	X-chromosome inactivation pattern was skewed toward non-random	likely pathogenic
+797	20630757	DMD	point mutations	-	Duchenne muscular dystrophy (DMD) and Becker muscular dystrophy	significant weakness, myalgias/cramps, DMD-like progression, mild Becker muscular dystrophy-like phenotype	X-chromosome inactivation pattern was random	likely pathogenic
+798	20630757	DMD	splice site mutation	-	Duchenne muscular dystrophy (DMD) and Becker muscular dystrophy	significant weakness, myalgias/cramps, DMD-like progression, mild Becker muscular dystrophy-like phenotype	heterozygous compound state	likely pathogenic
+799	21030903	UL97	-	-	ganciclovir resistance	-	no significant reduction in ganciclovir susceptibility	benign
+800	21030903	UL54	-	-	ganciclovir resistance	-	no significant reduction in ganciclovir susceptibility	benign
+801	21340161	TPO	c.1186_1187insGGCC	-	dyshormonogenetic congenital hypothyroidisms (CH) with total iodide organification defect (TIOD)	severe goitrous CH	monoallelic TPO expression	likely pathogenic
+802	20606392	GHR	R211H	-	GH insensitivity and IGF deficiency	modest growth failure, elevated serum GH concentrations, abnormally low serum IGF-I and IGFBP-3 concentrations	mutations affecting the intracellular domain of the GHR	pathogenic
+803	20606392	GHR	899dupC	-	GH insensitivity and IGF deficiency	modest growth failure, elevated serum GH concentrations, abnormally low serum IGF-I and IGFBP-3 concentrations	mutations affecting the intracellular domain of the GHR, resulting in a frameshift and a premature stop codon	pathogenic
+804	20515563	TYMS	-	-	colorectal cancer	-	significantly higher mRNA and protein levels in patients with the TS 3R/3R versus the 2R/2R and 2R/3R genotypes	unknown
+805	20515563	TYMS	six base-pair insertion in the 3'-untranslated region	-	colorectal cancer	-	significantly higher TS mRNA levels than heterozygous and homozygous wild type individuals	unknown
+806	20515563	TYMS	-	-	colorectal cancer	microsatellite unstable tumours	significantly higher TS mRNA and protein levels compared with microsatellite stable tumours	unknown
+807	20515563	TYMS	TS enhancer region repeats	-	colorectal cancer	-	significant association between the number of TS enhancer region repeats and intratumoural TS mRNA and protein levels	unknown
+808	20143913	ARSB	c.899-1142del	p.(frameshift starting at amino acid 300)	mucopolysaccharidosis type VI	-	frameshift leading to a protein with 39% amino acids different from the normal enzyme	pathogenic
+809	20143913	ARSB	g.99367-102002del	p.(frameshift starting at amino acid 300)	mucopolysaccharidosis type VI	-	frameshift leading to a protein with 39% amino acids different from the normal enzyme	pathogenic
+810	20143913	ARSB	p.R315X	-	mucopolysaccharidosis type VI	-	apparent homozygosity, further testing revealed compound heterozygosity	unknown
+811	20026870	ACE	I/D polymorphism	-	prostate cancer	-	association between prostate cancer and the DD genotype	likely pathogenic
+812	20026870	ACE	I/D polymorphism	-	benign prostatic hyperplasia	-	association between benign prostatic hyperplasia and the DD genotype	likely pathogenic
+813	20026870	AGT1R	A1166C	-	benign prostatic hyperplasia	-	A1166 allele in the homozygote state was identified as a risk genotype	likely pathogenic
+814	20026870	AGT1R	A1166C	-	prostate cancer	-	no significant association found	unknown
+815	20026870	ACE	I/D polymorphism	-	prostate cancer	-	D allele was closely associated with a significant higher risk of developing prostate cancer	likely pathogenic
+816	20026870	ACE	I/D polymorphism	-	benign prostatic hyperplasia	-	D allele was closely associated with a significant higher risk of developing benign prostatic hyperplasia	likely pathogenic
+817	19958188	HBB	-369 (C>G)	-	beta-thalassemia intermedia (beta-TI), beta-thalassemia major (beta-TM)	-	common mutation in this population	benign
+818	19958188	HBB	-611 (-T)	-	beta-thalassemia intermedia (beta-TI), beta-thalassemia major (beta-TM)	-	common mutation in this population	benign
+819	19958188	HBB	-603/604 (GA>AG)	-	beta-thalassemia intermedia (beta-TI), beta-thalassemia major (beta-TM)	-	common mutation in this population	benign
+820	19958188	HBB	-588 (A>G)	-	beta-thalassemia intermedia (beta-TI)	-	altering the repressor function at the adult-specific silencer region	likely pathogenic
+821	19958188	HBB	XmnI polymorphism	-	beta-thalassemia intermedia (beta-TI)	-	complete correlation with the A allele of -588 variation	likely pathogenic
+822	19958188	HBB	HS-111 (-21 A)	-	beta-thalassemia intermedia (beta-TI)	high levels of Hb F	association with beta-TI patients	likely pathogenic
+823	19929939	CYLD	c.2449delT	p.Cys817ValfsX15	multiple trichoepitheliomas	-	premature translational termination codon	pathogenic
+824	19880293	FOXP3	-3279 A/C	-	psoriasis	-	associated with increased risk of psoriasis	likely pathogenic
+825	19880293	FOXP3	IVS9+459 A/G	-	psoriasis	-	associated with increased risk of psoriasis	likely pathogenic
+826	19880293	FOXP3	-6054 deletion/ATT	-	psoriasis	-	no evidence of increased risk	likely benign
+827	19880293	FOXP3	-924 A/G	-	psoriasis	-	no evidence of increased risk	likely benign
+828	19804530	-	-	-	-	-	-	unknown
+829	19645056	TBX1	-	-	22q11.2 deletion syndrome	phenotypic variability	-	unknown
+830	19592582	TMPRSS6	2172_2173insCCCC	p.P686fs	iron-refractory iron deficiency anemia (IRIDA)	elevated hepcidin levels	ineffective suppression of hepcidin transcription	pathogenic
+831	19592582	TMPRSS6	c.467C>A and c.468C>T	p.A118D	iron-refractory iron deficiency anemia (IRIDA)	elevated hepcidin levels	intra-molecular structural imbalance that impairs matriptase-2 activation and ineffective suppression of hepcidin transcription	pathogenic
+832	19484664	ACE	-	-	asthma	-	higher frequency of the DD genotype in asthmatics compared with controls	likely pathogenic
+833	19476483	CCR5	Delta32 polymorphism	-	abdominal aortic aneurysms (AAA)	-	no significant difference in allele frequency and genotype analysis between AAA and control groups	benign
+834	19473658	APOA1	c.413_414delAA	p.Asn138Argfs*41	HDL deficiency	marked plasma high density lipoprotein (HDL) cholesterol deficiency, apoA-I deficiency, prior myocardial infarction, moderate corneal opacities, extensive atherosclerosis	undetectable apoA-I HDL particles in homozygotes, decreased concentrations of apoA-I in large alpha-1 and very small prebeta-1 HDL subpopulations in heterozygotes	pathogenic
+835	19448408	GSTM1	T1270533G	-	nasopharyngeal carcinoma (NPC)	-	no evident relationships between the variants and clinical phenotypes of NPC	benign
+836	19448408	GSTM1	C1256088C	-	nasopharyngeal carcinoma (NPC)	-	no apparent association with genetic susceptibility to NPC	benign
+837	19435819	PARK2	-	-	Glioblastoma multiforme (GBM)	decreased expression	deletion of chromosome 6q26-27	likely pathogenic
+838	19435819	PACRG	-	-	Glioblastoma multiforme (GBM)	-	deletion of chromosome 6q26-27	likely pathogenic
+839	19435819	QKI	-	-	Glioblastoma multiforme (GBM)	-	deletion of chromosome 6q26-27	likely pathogenic
+840	19435819	PDE10A	-	-	Glioblastoma multiforme (GBM)	-	deletion of chromosome 6q26-27	likely pathogenic
+841	19435819	LRP1B	-	aberrant protein	Glioblastoma multiforme (GBM)	aberrant protein	novel internal deletion	pathogenic
+842	19435819	TP53	-	-	Glioblastoma multiforme (GBM)	-	homozygous mutation	pathogenic
+843	19435819	RB1	-	-	Glioblastoma multiforme (GBM)	-	deletion of 13q14	pathogenic
+844	19435819	PTEN	-	-	Glioblastoma multiforme (GBM)	-	deletion	likely pathogenic
+845	19435819	CDKN2A	-	-	Glioblastoma multiforme (GBM)	-	deletion of p16(INK4A)/p15(INK4B)-CDK4/6-pRb pathway	likely pathogenic
+846	19435819	CDKN2B	-	-	Glioblastoma multiforme (GBM)	-	deletion of p16(INK4A)/p15(INK4B)-CDK4/6-pRb pathway	likely pathogenic
+847	19435819	EGFR	-	-	Glioblastoma multiforme (GBM)	-	amplification	likely pathogenic
+848	19353688	PCDH9	-	-	deafness	deafness, duodenal stenosis, developmental and growth delay, vertebral anomalies, and facial dysmorphisms	monosomy of PCHD9 or another gene in the IT	unknown
+849	19309272	SMN1	homozygous deletion	-	Spinal muscular atrophy (SMA)	-	homozygous deletion of the gene	pathogenic
+850	19309272	SMN2	conversion to SMN2	-	Spinal muscular atrophy (SMA)	-	conversion to the highly homologous SMN2 gene	pathogenic
+851	19144556	vWF	1849T>A	-	-	-	-	unknown
+852	19144556	vWF	2122C>T	-	-	-	-	unknown
+853	19144556	vWF	2180C>T	-	-	-	-	unknown
+854	19144556	vWF	2192C>T	-	-	-	-	unknown
+855	19144556	vWF	TTAT insertion between nt 2057 and 2058	-	-	-	-	unknown
+856	19144556	vWF	1978(TATC)(1-2)	-	-	-	-	unknown
+857	19144556	vWF	2193(ATCT)(5-13)	-	-	-	-	unknown
+858	19144556	vWF	2234(TGTA)(5-7)	-	-	-	unknown	
+859	19048115	NF1	-	-	ovarian serous carcinoma (OSC)	-	homozygous deletions, splicing mutations, and loss of Nf1 protein expression	pathogenic
+860	19048115	TP53	-	-	ovarian serous carcinoma (OSC)	-	mutations	pathogenic
+861	19048115	NF1	-	-	ovarian serous carcinoma (OSC)	Ras pathway activation	homozygous deletions, splicing mutations, and loss of Nf1 protein expression	pathogenic
+862	19048115	TP53	-	-	ovarian serous carcinoma (OSC)	Ras pathway activation	mutations	pathogenic
+863	19048115	BRCA1	-	-	ovarian serous carcinoma (OSC)	-	dysfunction of the Brca1 tumor-suppressor protein	pathogenic
+864	19048115	BRCA2	-	-	ovarian serous carcinoma (OSC)	-	dysfunction of the Brca2 tumor-suppressor protein	pathogenic
+865	18798060	MMP1	-	-	colorectal cancer	invasion and metastasis of colorectal cancer	association with susceptibility to initiation and invasion of colorectal cancer, especially in smoker men	likely pathogenic
+866	18791947	GPIbalpha	c.116_119delTGAG	p.Ser39Argfs*12	Bernard-Soulier Syndrome	giant platelets, absent platelet agglutination to ristocetin, thrombocytopenia	coding frame shift with a new termination codon after 11 novel amino acids, undetectable surface expression of GPIbalpha	pathogenic
+867	18790087	CCR5	c.312_343del	p.Phe508del is not mentioned in the text, but the 32-bp deletion (CCR5-Delta32) is mentioned	HIV-1 infection, AIDS	resistance to HIV-1 infection and a slower progression towards AIDS	strong negative correlations in Europe between the allele frequency and two historical parameters	likely pathogenic
+868	18600483	rpoB	-	p.Leu531	rifampin resistance	-	nucleotide substitutions at codon 531	pathogenic
+869	18600483	rpoB	-	p.Ser526	rifampin resistance	-	nucleotide substitutions at codon 526	pathogenic
+870	18600483	rpoB	-	p.Leu511	rifampin resistance	-	nucleotide substitutions at codon 511	pathogenic
+871	18600483	rpoB	-	p.Ser513	rifampin resistance	-	nucleotide substitutions at codon 513	pathogenic
+872	18600483	rpoB	-	p.Leu515	rifampin resistance	-	nucleotide substitutions at codon 515	pathogenic
+873	18600483	rpoB	-	p.Ser516	rifampin resistance	-	nucleotide substitutions at codon 516	pathogenic
+874	18600483	rpoB	-	p.Leu517	rifampin resistance	-	nucleotide substitutions at codon 517	pathogenic
+875	18600483	rpoB	-	p.Ser518	rifampin resistance	-	nucleotide substitutions at codon 518	pathogenic
+876	18600483	rpoB	-	p.Leu533	rifampin resistance	-	nucleotide substitutions at codon 533	pathogenic
+877	18439317	MMP1	-1607 promoter polymorphism (G/D)	-	Degenerative Disc Disease (DDD)	increased susceptibility to develop DDD	association between -1607 promoter polymorphism and DDD	likely pathogenic
+878	18426832	CYP19	C/T	-	gynecomastia	breast glandular tissue enlargement	associated with high aromatase activity	likely pathogenic
+879	18426832	CYP19	TTTA repeat	-	gynecomastia	breast glandular tissue enlargement	in linkage disequilibrium with the T allele in the 3'-UTR	likely pathogenic
+880	18426832	CYP19	TCT deletion/insertion	-	gynecomastia	breast glandular tissue enlargement	associated with high aromatase activity	likely pathogenic
+881	18408250	IRF5	rs729302	-	rheumatoid arthritis (RA)	-	association with RA susceptibility, odds ratio (OR) 1.22	likely pathogenic
+882	18391980	WTX	-	-	Wilms' tumors	-	loss of heterozygosity, loss of function	likely pathogenic
+883	18391980	WTX	-	-	Wilms' tumors	reduced expression of the mutant allele	inactivating somatic mutation, reduced expression of the mutant allele	pathogenic
+884	18241046	PLN	AF177763.1:g.203A>C	-	dilated cardiomyopathy (DCM)	depressed contractility	increased PLN expression and altered binding to the mutated DNA site	likely pathogenic
+885	18235024	KCNV2	-	-	Cone dystrophy with supernormal rod response (CDSRR)	reduced visual acuity, color vision defects, macular defects	mutations concordantly segregate in all available families according a recessive mode of inheritance	pathogenic
+886	18202102	snoRNA U50	2 bp (TT) deletion	-	prostate cancer	clinically significant prostate cancer	homozygous deletion abolished U50 function in a colony formation assay and significant association with clinically significant prostate cancer	likely pathogenic
+887	17994380	HBB	Sicilian (-13,377 bp)	-	deltabeta-thalassemia	elevated levels of Hb F and low mean corpuscular volume (MCV)	association with clinical manifestation of deltabeta-thal	pathogenic
+888	17994380	HBB	Hb Lepore	-	deltabeta-thalassemia	elevated levels of Hb F and low mean corpuscular volume (MCV)	association with clinical manifestation of deltabeta-thal	pathogenic
+889	17994380	HBB	Asian-Indian (G)gamma((A)gammadeltabeta)(0)-thal	-	deltabeta-thalassemia	elevated levels of Hb F and low mean corpuscular volume (MCV)	association with clinical manifestation of deltabeta-thal	pathogenic
+890	17994380	HBB	HPFH 1 (Black)	-	deltabeta-thalassemia	-	no association found in this study	unknown
+891	17994380	HBB	HPFH 3 (Indian)	-	deltabeta-thalassemia	-	no association found in this study	unknown
+892	17994380	HBB	Spanish (-114 kb)	-	deltabeta-thalassemia	-	no association found in this study	unknown
+893	17994380	HBB	Chinese (G)gamma((A)gammadeltabeta)(0)-thal (-100 kb)	-	deltabeta-thalassemia	-	no association found in this study	unknown
+894	17994380	HBB	Turkish form of inversion-deletion (deltabeta)(0)-thal	-	deltabeta-thalassemia	-	no association found in this study	unknown
+895	17990063	COH1	-	p.T3708fs3769	Cohen syndrome	developmental delay, visual disability, facial dysmorphisms, intermittent neutropenia, retinopathy, myopia, truncal obesity	truncating mutation leading to frameshift	pathogenic
+896	17959715	MLH1	rs1800734	-	therapy-related acute myeloid leukaemia (t-AML), breast cancer	-	association with increased risk of developing t-AML in patients previously treated with a methylating agent	likely pathogenic
+897	17876530	CCR5	32-bp deletion	-	HIV-1 infection	resistance to HIV-1 infection	homozygosity for the mutation leads to resistance	pathogenic
+898	17876530	DC-SIGNR	-	-	HIV-1 infection	reduced risk of HIV-1 infection	5/5 homozygous genotype showed significant reduced risk	likely pathogenic
+899	17876530	DC-SIGNR	-	-	HIV-1 infection	-	no statistical significance in the differences in the distribution of genotypes	benign
+900	17876530	DC-SIGN	-	-	HIV-1 infection	-	no statistical significance in the differences in the distribution of genotypes	benign
+901	17671968	ROBO3	-	-	Gilles de la Tourette Syndrome (GTS)	motor and phonic tics	no association found in genetic study	benign
+902	17671968	ROBO4	-	-	Gilles de la Tourette Syndrome (GTS)	motor and phonic tics	no association found in genetic study	benign
+903	17671968	SLITRK1	-	-	Gilles de la Tourette Syndrome (GTS)	motor and phonic tics	identification of translocation breakpoint and mutations in patients	likely pathogenic
+904	17614823	F7	-	-	inherited factor VII (FVII) deficiency	bleeding disorder	large genomic re-arrangements at F7 locus	pathogenic
+905	17549393	IRF6	c.201C>A	p.Y67X	Van der Woude syndrome (VWS)	cleft lip, cleft palate, hypodontia, lower lip pits	truncated protein lacking parts of the DNA-binding domain and the complete Smad-interferon regulatory factor-binding domain	pathogenic
+906	17392687	CRYBB2	12 nucleotide inframe deletion	-	subfertility	defects in egg and sperm production	defects in egg and sperm production	likely pathogenic
+907	17356395	-	i(7)(q10)	-	Shwachman syndrome, myelodysplastic syndromes, acute myeloid leukemias	clonal chromosome anomalies in bone marrow cells	clonal chromosome anomalies associated with disease progression	pathogenic
+908	17356395	-	MID1064	-	Shwachman syndrome	-	used as a marker for monitoring i(7)(q10)-positive cells	benign
+909	17353905	DFF45	-	-	neuroblastoma	resistant to genotoxic stresses, apoptotic nuclear fragmentation	role in the regulation of apoptosis in response to CDDP, C-terminal region required for inducing nuclear fragmentation	unknown
+910	17250667	WAS	c.725delA	p.Ala242fs	Wiskott-Aldrich syndrome	-	frameshift mutation	pathogenic
+911	17250667	WAS	c.724delC	p.Arg241fs	Wiskott-Aldrich syndrome	-	frameshift mutation	pathogenic
+912	17175380	DUTT1/ROBO1	-	-	childhood acute lymphoblastic leukemia (ALL), lung and breast tumors	-	homozygous deletion region between 72.6 and 78.8 Mb, tumor suppressor gene	pathogenic
+913	17169596	SCOT	c.671G>A	-	Hereditary SCOT deficiency	episodes of severe ketoacidosis	causes exon 6 skipping, leading to frameshift and nonsense-mediated RNA decay	pathogenic
+914	17083016	SP-A2	-	p.Gln223Lys	meningococcal disease	increased susceptibility to meningococcal disease and risk of death	substitution of glutamine with lysine at residue 223 in the carbohydrate recognition domain	pathogenic
+915	17050029	HBX	-	p.P38S	hepatocellular carcinoma (HCC)	-	associated with the development of HCC, multiple logistic regression analysis showed the prevalence of the codon-38 change was significantly associated with HCC	pathogenic
+916	16970763	NDP	-	Leu103Val	X-linked familial exudative vitreoretinopathy (FEVR)	severe disease phenotype	novel mutation within the coding region	pathogenic
+917	16970763	NDP	-	His43Arg	Norrie disease	severe disease phenotype with deafness and mental retardation	novel mutation within the coding region	pathogenic
+918	16970763	NDP	14-bp deletion in 5' untranslated region	-	regressed retinopathy of prematurity (ROP)	mild-regressed ROP	deletion within the non-coding region	likely pathogenic
+919	16970763	NDP	14-bp deletion in 5' untranslated region	-	-	unaffected	deletion within the non-coding region in an unaffected individual	likely benign
+920	16849419	SLC34A3	101-bp deletion in intron 9	-	Hereditary hypophosphatemic rickets with hypercalciuria (HHRH)	hypophosphatemia and rickets/osteomalacia with increased serum 1,25-dihydroxyvitamin D [1,25-(OH)(2)D] resulting in hypercalciuria	aberrant RNA splicing	pathogenic
+921	16849419	SLC34A3	85-bp deletion in intron 10	-	Hereditary hypophosphatemic rickets with hypercalciuria (HHRH)	hypophosphatemia and rickets/osteomalacia with increased serum 1,25-dihydroxyvitamin D [1,25-(OH)(2)D] resulting in hypercalciuria	aberrant RNA splicing	pathogenic
+922	16849419	SLC34A3	G-to-A substitution at the last nucleotide in exon 7	-	Hereditary hypophosphatemic rickets with hypercalciuria (HHRH)	hypophosphatemia and rickets/osteomalacia with increased serum 1,25-dihydroxyvitamin D [1,25-(OH)(2)D] resulting in hypercalciuria	aberrant RNA splicing	pathogenic
+923	16822828	CYP17	V311fs	-	17alpha-Hydroxylase deficiency	-	frame-shifting mutation	pathogenic
+924	16822828	CYP17	Y329fs	-	17alpha-Hydroxylase deficiency	-	frame-shifting mutation	pathogenic
+925	16822828	CYP17	D487_S488_F489 deletion	-	17alpha-Hydroxylase deficiency	-	deletion mutation	pathogenic
+926	16628674	multidrug resistance protein 2	-	V1188E	primary biliary cirrhosis	pruritus	significantly associated with the presence of pruritus	likely pathogenic
+927	16200390	TPH	-	-	migraine	-	negative results from the two-stage DNA pooling design	benign
+928	16200390	AADC	-	-	migraine	-	negative results from the two-stage DNA pooling design	benign
+929	16200390	MAOA	-	-	migraine	-	negative results from the two-stage DNA pooling design	benign
+930	16018252	SRY	c.38A>G	p.Glu38Gly	46,XY sex reversal	sex reversal	amino acid substitution outside the HMG-box	likely pathogenic
+931	16018252	SRY	c.387T>A	p.Tyr130Term	46,XY sex reversal	sex reversal	amino acid substitution leading to premature termination	pathogenic
+932	16000134	SERPINC1	7916_7917insT	p.Glu272*	congenital antithrombin deficiency	superior mesenteric vein (SMV) thrombosis	decreased antithrombin activity	pathogenic
+933	15837627	JAK2	JAK2V617F	p.Val617Phe	Polycythemia vera (PV), essential thrombocythemia (ET), and myeloid metaplasia with myelofibrosis (MMM)	-	constitutively active tyrosine kinase	pathogenic
+934	15827093	STAT5b	-	frame shift leading to early protein termination	growth failure	severe growth failure, abnormally low serum levels of IGF-I	lack of immunodetectable STAT5b protein	pathogenic
+935	15818664	ANKH	-4G>A	-	chondrocalcinosis	increased extracellular PPi and chondrocyte hypertrophy	up-regulates expression of ANKH and extracellular PPi in chondrocyte cells	likely pathogenic
+936	15818664	ANKH	+14C>T	-	chondrocalcinosis	-	increased reticulocyte ANKH transcription/ANKH translation in vitro	likely pathogenic
+937	15818664	ANKH	GAG deletion	-	chondrocalcinosis	-	increased reticulocyte ANKH transcription/ANKH translation in vitro	likely pathogenic
+938	15818664	ANKH	143T>C	-	chondrocalcinosis	-	no effect on reticulocyte ANKH transcription/ANKH translation in vitro	benign
+939	15814629	ACE	-	-	gastric cancer	lymph node metastases, UICC tumor stage	influences metastatic behavior	unknown
+940	15807692	COL7A1	3472delC	-	recessive dystrophic epidermolysis bullosa, Hallopeau-Siemens variant (HS-RDEB)	-	frameshift and a premature termination codon (PTC)	pathogenic
+941	15807692	COL7A1	IVS51 + 1G-->A	-	recessive dystrophic epidermolysis bullosa, Hallopeau-Siemens variant (HS-RDEB)	-	activation of a cryptic splice site, aberrant out-of-frame splicing, and a downstream PTC	pathogenic
+942	15710861	ARSA	-	F219V	Metachromatic leukodystrophy (MLD)	progressive psychocognitive impairment without clinical or electrophysiologic signs and only minor morphologic signs of peripheral nerve affection	reduction in enzyme activity to an extent unexpected for an adult patient with MLD, misfolded unstable enzyme with a specific activity less than 1% of normal	pathogenic
+943	15481887	HBB	GAG-->GCG	p.Glu26Ala	anemia	microcytosis and hypochromia	possible abnormal splicing	likely pathogenic
+944	15481887	HBB	GGC-->AGC	p.Gly29Ser	anemia	microcytosis and hypochromia	slight instability in vitro	likely pathogenic
+945	15377356	COL17A1	1877-2A-->C	-	epidermolysis bullosa	intraepidermal blister formation, reduced type XVII collagen expression	alternative transcripts with deletions	pathogenic
+946	15377356	COL17A1	3432delT	-	epidermolysis bullosa	intraepidermal blister formation, reduced type XVII collagen expression	production of a slightly smaller type XVII collagen molecule	pathogenic
+947	15282322	Mrad9	-	-	genomic instability, embryonic development failure	spontaneous chromosome aberrations, HPRT mutations, sensitivity to UV light, gamma rays, and hydroxyurea	failure to maintain genomic integrity, inability to initiate and maintain cell cycle checkpoints	pathogenic
+948	15272913	PGR	PROGINS 306 base pair insertion polymorphism	-	endometriosis	-	statistically significant difference in the distribution of PROGINS genotypes between patients with and without endometriosis	likely pathogenic
+949	15258261	MRE11	-	-	growth defects, infertility	dicentric chromosomes, chromosomal fragments, anaphase bridges, chromosome fragmentation	aberrant function of the Mre11/Rad50/Nbs1 complex, defects in DNA checkpoint, double-strand break repair, meiosis, and telomere maintenance	pathogenic
+950	15191352	TR-beta	1123T-->G	I280S	Resistance to thyroid hormone syndrome (RTH)	seriously impaired intellectual development, hyperkinetic behaviour, tachycardia, hearing and visual impairment	dominant negative effect of the I280S mutant protein and the absence of any functional TR-beta	pathogenic
+951	15184540	vacA	-	-	-	-	differences in vacA genotype characteristics	unknown
+952	15184540	cagA	-	-	-	differences in the numbers of repeats	differences in the numbers of repeats at the 3'-end of the cagA gene	unknown
+953	15184540	cagA	-	-	-	mixed infections	RAPD-PCR fingerprinting showed distinctly different profiles	unknown
+954	15184540	ribA	-	-	-	-	minor genomic alterations	unknown
+955	15135245	APOB	CAC(3543)TAC	H3543Y	Familial defective apolipoproteinB 100 (FDB)	decreased binding of LDL to the LDL-receptor	affecting binding to the LDL-receptor	likely pathogenic
+956	15135245	APOB	-	R3500Q	Familial defective apolipoproteinB 100 (FDB)	decreased binding of LDL to the LDL-receptor	decreased binding of LDL to the LDL-receptor	pathogenic
+957	15135245	APOB	-	R3500W	Familial defective apolipoproteinB 100 (FDB)	decreased binding of LDL to the LDL-receptor	affecting binding to the LDL-receptor	likely pathogenic
+958	15135245	APOB	-	R3531C	Familial defective apolipoproteinB 100 (FDB)	decreased binding of LDL to the LDL-receptor	affecting binding to the LDL-receptor	likely pathogenic
+959	15135245	APOB	-	R3480W	Familial defective apolipoproteinB 100 (FDB)	decreased binding of LDL to the LDL-receptor	affecting binding to the LDL-receptor	likely pathogenic
+960	15086325	F5	IVS8 -2A>G	-	inherited coagulation FV deficiency	severely reduced plasma levels of FV activity and antigen	abolishment of the canonical splicing site and activation of the cryptic acceptor site	pathogenic
+961	15086325	F5	2238-9del AG	p.*689	inherited coagulation FV deficiency	severely reduced plasma levels of FV activity and antigen	introduced a premature termination code	pathogenic
+962	15086325	F5	G6410T	Gly2079Val	inherited coagulation FV deficiency	severely reduced plasma levels of FV activity and antigen	-	likely pathogenic
+963	14999772	DUSP16	-	-	prostate cancer	downregulated in clinical tumors and cultured prostate cancer tissue	significantly downregulated in both clinical tumors and cultured prostate cancer tissue	unknown
+964	14999772	FLJ10298	-	-	prostate cancer	downregulated in clinical tumors and cultured prostate cancer tissue	significantly downregulated in both clinical tumors and cultured prostate cancer tissue	unknown
+965	14999772	BCLG	-	-	prostate cancer	downregulated in clinical tumors and cultured prostate cancer tissue	significantly downregulated in both clinical tumors and cultured prostate cancer tissue	unknown
+966	14978789	-	-	-	cervical cancer	-	loss of tumor-suppressor activity	unknown
+967	14623461	EXO1	-	-	colorectal cancer	no colorectal cancer or known colorectal adenomas	no evidence of MSI	likely benign
+968	14623461	EXO1	-	-	hereditary nonpolyposis colon cancer (HNPCC)	no symptoms warranting gastrointestinal or other investigation	no evidence of MSI	likely benign
+969	14623461	EXO1	-	-	multiple cutaneous and uterine leiomyomatosis	multiple leiomyomatosis	-	unknown
+970	14623461	EXO1	1q42.3 approximately q43 deletion	-	multiple cutaneous and uterine leiomyomatosis	multiple leiomyomatosis	-	unknown
+971	14587045	HBB	Hb E mutation	-	Hb E/Hb Lepore disease	-	associated with Hb E/Hb Lepore disease	pathogenic
+972	14587045	HBD	-	-	Hb Lepore disease	-	originally misidentified, but associated with a minor Hb variant	unknown
+973	14587045	HBB	beta(0)-thalassemia mutation	-	beta(0)-thalassemia	-	common East Indian beta(0)-thalassemia mutation	pathogenic
+974	14587045	HBD	missense mutation	-	hemoglobinopathy syndromes	minor Hb variant	previously unreported, in cis with the beta(0)-thalassemia mutation	unknown
+975	14576201	ABCA1	G5947A	R1851Q	Tangier disease (TD) and familial hypoalphalipoproteinemia (FHA)	low levels of high-density lipoprotein cholesterol (HDL-C) and premature coronary heart disease (CHD)	abnormally spliced cDNA sequence	pathogenic
+976	14576201	ABCA1	IVS46: del T -39...-46	-	Tangier disease (TD) and familial hypoalphalipoproteinemia (FHA)	low levels of high-density lipoprotein cholesterol (HDL-C) and premature coronary heart disease (CHD)	abnormally spliced cDNA sequence with skipping of exon 47	pathogenic
+977	14533983	CCR5	D32	-	HIV-1 infection	-	association with resistance to HIV-1 infection	pathogenic
+978	14533983	CCR2B	-	p.Val64Ile	HIV-1 infection	delayed disease progression	unknown functional consequences	unknown
+979	14510916	AVP-NPII	1892G>C	A68P	Familial autosomal dominant neurohypophyseal diabetes insipidus (FNDI), central diabetes insipidus (DI)	progressive loss in AVP secretion, gradual vasopressinergic deficiency	accumulation of A68P mutated precursor might have a cytotoxicity effect, leading to a gradual death of magnocellular neurones	pathogenic
+980	14510914	NIS	c.1314_1328delins15nt	p.(439-443del)	congenital hypothyroidism	inability of the thyroid gland to concentrate I-	failure to concentrate iodide in COS-7 cells transfected with a vector expressing the mutant del-(439-443) NIS	pathogenic
+981	12968672	VDR	G-1739A	-	osteoporotic fractures	decreased fracture risk	protective effect on fracture risk	benign
+982	12898858	AGT	M235T	-	renal disease	-	association with renal disease, higher frequency of T allele in patients	likely pathogenic
+983	12898858	AT1R	A1166C	-	interstitial nephritis	faster disease progression	association with disease progression, shorter time to ESRD in patients with C allele	likely pathogenic
+984	12898858	ACE	-	-	interstitial nephritis	-	no statistically significant differences between groups	benign
+985	12832681	Mycobacterium tuberculosis	-	-	tuberculosis	-	recent transmission patterns and epidemiological linkage	unknown
+986	12752111	HBB	IVSI-5 (G-->C)	-	thalassaemia	severe to moderate thalassaemia	-	pathogenic
+987	12752111	HBB	IVSI-1 (G-->A)	-	thalassaemia	severe to moderate thalassaemia	-	pathogenic
+988	12752111	HBB	CD26 GAG-->GAA	-	thalassaemia	severe to moderate thalassaemia	-	pathogenic
+989	12752111	HBB	13-bp deletion removing the last nucleotide in CD6 to CD10 inclusively	-	thalassaemia	severe to moderate thalassaemia	-	pathogenic
+990	12752111	HBB	IVSI-129 (A-->C)	-	thalassaemia	severe to moderate thalassaemia	-	pathogenic
+991	12752111	HBB	CD55 (-A)	-	thalassaemia	severe to moderate thalassaemia	-	pathogenic
+992	12752111	HBA1	-alpha3.7 deletion	-	alpha+ thalassaemia	-	-	pathogenic
+993	12752111	HBA1	-alpha4.2 deletion	-	alpha+ thalassaemia	-	-	pathogenic
+994	12752111	HBA1	quadruplicated alpha-globin gene	-	thalassaemia	severe thalassaemia phenotype	-	pathogenic
+995	12750403	HCN4	1631delC	HCN4-573X	sinus node dysfunction (SND)	sinus bradycardia and chronotropic incompetence	altered biophysical properties and dominant-negative effect	likely pathogenic
+996	12736721	M6P/IGF2R	-	-	hepatocellular carcinoma (HCC)	decreased expression of M6P/IGF2R mRNA	decreased expression of M6P/IGF2R mRNA	likely benign
+997	12719097	CACNA1F	c.4548delC	p.Ala1524Valfs*	X-linked congenital stationary night blindness (CSNB2)	nonprogressive night blindness, subnormal visual acuity, reduction of the ERG B-wave, subnormal rod and cone function	predicted premature termination	pathogenic
+998	12672033	DMBT1	-	-	brain, gastrointestinal and lung cancer	-	homozygous deletion and lack of expression	pathogenic
+999	12672033	DMBT1	-	-	brain tumors	homozygous deletion	inactivation of DMBT1	pathogenic
+1000	12672033	DMBT1	-	-	brain tumors	-	mutation does not play a role in inactivation of DMBT1	benign
+1001	12668354	SLC6A4	5-HTTLPR	-	shyness	-	association with shyness scores	likely pathogenic
+1002	12668354	DRD4	-	-	shyness	-	no significant association	benign
+1003	12668354	COMT	-	-	shyness	-	no significant association	benign
+1004	12668354	MAOA	-	-	shyness	-	no significant association	benign
+1005	12653841	C6	1936delG	-	Neisseria meningitidis infection, focal and segmental glomerulosclerosis with hyalinosis, systemic lupus erythematosus, Still's disease	undetectable antigenic C6	homozygous single-base deletion	pathogenic
+1006	12653841	C6	1195delC	-	Neisseria meningitidis infection, focal and segmental glomerulosclerosis with hyalinosis, systemic lupus erythematosus, Still's disease	undetectable antigenic C6	compound heterozygous deletions	pathogenic
+1007	12653841	C6	878delA	-	Neisseria meningitidis infection, focal and segmental glomerulosclerosis with hyalinosis, systemic lupus erythematosus, Still's disease	undetectable antigenic C6	compound heterozygous deletions	pathogenic
+1008	12653841	C6	1936delG	-	-	undetectable antigenic C6	homozygous single-base deletion	pathogenic
+1009	21738389	DFNB31	c.737delC	p.Pro246HisfsX13	Usher syndrome	severe rod-cone dystrophy and varying degrees of hearing impairment	predicted to lead to a truncated protein	pathogenic
+1010	21881116	HBV	insertion/deletion in precore region	frameshift of precore protein	fulminant hepatitis (FH)	-	enhanced HBV replication	pathogenic
+1011	21881116	HBV	insertion of A between nucleotides 1900 and 1901	3-nucleotide change within the Kozak sequence of the core protein	fulminant hepatitis (FH)	-	enhanced core protein expression	pathogenic
+1012	21559944	HYAL1	c.104delT	p.Val35AlafsX25	Mucopolysaccharidosis IX (MPS IX)	joint pain and swelling with diffuse joint involvement and proliferative synovitis	premature termination codon resulting in total HYAL1 deficiency	pathogenic
+1013	21798259	WT1	-	frameshift mutations	acute myeloid leukemia (AML)	younger age, higher white blood cell count, lower platelet count	frameshift mutations	pathogenic
+1014	21798259	WT1	-	base substitutions	acute myeloid leukemia (AML)	younger age, higher white blood cell count, lower platelet count	base substitutions	pathogenic
+1015	21798259	WT1	rs16754	-	acute myeloid leukemia (AML)	-	association with FLT3-ITD mutation	unknown
+1016	21798259	WT1	insertion within codon 313	-	acute myeloid leukemia (AML)	younger age, higher white blood cell count, lower platelet count	novel mutation	likely pathogenic
+1017	21798259	WT1	insertion within codon 314	-	acute myeloid leukemia (AML)	younger age, higher white blood cell count, lower platelet count	novel mutation	likely pathogenic
+1018	21897748	GJA3	c.130G>A	p.V44M	autosomal dominant cataract	-	damaging effects on protein function	pathogenic
+1019	21911891	PAI-1	4G/5G	-	liver fibrosis associated to non-alcoholic fatty liver disease (NAFLD)	lower PAI-1 serum levels	no association was found between PAI-1 serum levels or 4G/5G genotype with liver fibrosis	benign
+1020	21757944	HBB	CD +90 del 13 bp	-	b-thalassemia	slight decrease in the stability of the mRNA	does not have a hematological effect in the heterozygotes	likely benign
+1021	21757944	HBB	IVSII-1 (G > A)	-	b-thalassemia	-	causes the b-thalassemia phenotype in combination with the 13-bp deletion	pathogenic
+1022	22129472	LDLR	c.1706-2 A>T	p.(Asp569Valfs*93)	Familial hypercholesterolemia (FH)	-	truncated receptor missing exons 14-18, severe down regulation of LDLR mRNA expression due to nonsense-mediated-decay	pathogenic
+1023	21682595	XRCC1	rs25487	Arg399Gln	systemic lupus erythematosus (SLE)	malar rash or photosensitivity manifestations	association with reduced DNA repair and increased risk of SLE incidence and manifestations	likely pathogenic
+1024	21054465	CYP2C8	T deletion at 5063	-	hypertension	-	differences in variant frequencies were detected between the controls and hypertensive patients	unknown
+1025	21054465	CYP2C8	substitution of C to T at 33468	-	hypertension	-	differences in variant frequencies were detected between the controls and hypertensive patients	unknown
+1026	21054465	CYP2C8	C35322C	-	hypertension	-	having homozygous C35322C could be a protective factor for hypertension	likely benign
+1027	21054465	CYP2C8	C35322T	-	hypertension	-	a higher frequency of the C35322T SNP was observed among hypertensive patients than control subjects	likely pathogenic
+1028	20648600	HBV	rtL180M	rtL180M	HIV and hepatitis B virus (HBV)	viremia	LAM resistance substitutions	pathogenic
+1029	20648600	HBV	rtM204V	rtM204V	HIV and hepatitis B virus (HBV)	viremia	LAM resistance substitutions	pathogenic
+1030	20648600	HBV	rtV173L	rtV173L	HIV and hepatitis B virus (HBV)	viremia	LAM resistance substitutions	pathogenic
+1031	20648600	HBV	sE164D	sE164D	HIV and hepatitis B virus (HBV)	vaccine escape phenotype	associated changes in the envelope gene	pathogenic
+1032	20648600	HBV	sI195M	sI195M	HIV and hepatitis B virus (HBV)	vaccine escape phenotype	associated changes in the envelope gene	pathogenic
+1033	20648600	HBV	A1762T	-	HIV and hepatitis B virus (HBV)	-	mutations in the BCP region	pathogenic
+1034	20648600	HBV	G1764A	-	HIV and hepatitis B virus (HBV)	-	mutations in the BCP region	pathogenic
+1035	20648600	HBV	G1896A	-	HIV and hepatitis B virus (HBV)	-	mutations in the precore region	pathogenic
+1036	20648600	HBV	G1899A	-	HIV and hepatitis B virus (HBV)	-	mutations in the precore region	pathogenic
+1037	21445905	LACTASE	C to T at -13,910 bp upstream	-	lactose intolerance	ability to tolerate milk, cheese, and other lactose-containing dairy products	persistent expression of lactase into adulthood	benign
+1038	21343167	HERV-K113	-	-	RA, SLE	-	statistically significant differences in the insertion frequencies between the groups of RA and SLE patients vs healthy controls	likely pathogenic
+1039	21133595	GSTM1	GSTM1 deletion	-	head and neck cancer (HNC)	cancer of the oral cavity, pharynx and larynx	statistically significant association with HNC development	likely pathogenic
+1040	21133595	GSTT1	GSTT1 deletion	-	head and neck cancer (HNC)	cancer of the oral cavity, pharynx and larynx	statistically significant association with HNC development	likely pathogenic
+1041	21325775	APOE	-	p.Pro158Arg	Lipoprotein glomerulopathy (LPG)	nephrotic syndrome, mild dyslipidemia	conformational change of apoE protein and affects the interaction between abnormal apoE-containing lipoproteins and the endothelial cells of glomerular capillaries	likely pathogenic
+1042	21108633	PAX2	c.69delC	-	papillorenal syndrome (PRS), end-stage renal disease	ocular colobomas, renal hypo/dysplasia, progressive renal failure, kidney and urinary tract malformations	frameshift	pathogenic
+1043	21108633	PAX2	c.410+5 G/A	-	papillorenal syndrome (PRS), end-stage renal disease	ocular colobomas, renal hypo/dysplasia, progressive renal failure, kidney and urinary tract malformations	splice site mutation	pathogenic
+1044	20884631	TNFRSF14	-	-	follicular lymphoma (FL)	inferior overall survival (OS) and disease-specific survival (DSS)	frequent occurrence of acquired mutations and correlation with inferior clinical outcomes	pathogenic
+1045	20738799	TP63	c.1790T>C	p.I597T	Ankyloblepharon-ectodermal dysplasia-clefting (AEC) syndrome	severe ectodermal dysplasia, facial clefting	novel mutation, clinical and genetic heterogeneity	unknown
+1046	21127202	MYH7	-	-	Ebstein anomaly with left ventricular noncompaction (LVNC)	congenital heart malformations, left ventricular noncompaction	mutations in MYH7 are predominantly found in Ebstein anomaly associated with LVNC	pathogenic
+1047	21127202	MYH7	3-bp deletion	-	Ebstein anomaly with left ventricular noncompaction (LVNC)	congenital heart malformations, left ventricular noncompaction	mutations in MYH7 are predominantly found in Ebstein anomaly associated with LVNC	pathogenic
+1048	21127202	MYH7	-	missense mutations	Ebstein anomaly with left ventricular noncompaction (LVNC)	congenital heart malformations, left ventricular noncompaction	mutations in MYH7 are predominantly found in Ebstein anomaly associated with LVNC	pathogenic
+1049	21135151	CCR5	-	-	HIV-1 infection/AIDS	delayed onset of AIDS symptoms	lower viral replication rates	unknown
+1050	21112374	MUTYH	AluYb8MUTYH	-	type 2 diabetes mellitus (T2DM)	increased 8-OHdG levels	association with increased 8-OHdG levels and moderately increased percentage of the mutant allele	likely pathogenic
+1051	21493871	MLL	rs525549	-	acute lymphoblastic leukemia (ALL)	-	association with ALL	unknown
+1052	21493871	MLL	rs6589664	-	acute lymphoblastic leukemia (ALL)	-	association with ALL	unknown
+1053	21493871	EP300	rs5758222	-	acute lymphoblastic leukemia (ALL)	-	association with ALL	unknown
+1054	21493871	EP300	rs7286979	-	acute lymphoblastic leukemia (ALL)	-	association with ALL	unknown
+1055	21493871	EP300	rs20551	-	acute lymphoblastic leukemia (ALL)	-	association with ALL	unknown
+1056	21138945	ADAM3A	homozygous loss at 8p12	-	pediatric high-grade glioma (pHGG)	-	novel deletion confirmed by quantitative real-time PCR (qPCR)	unknown
+1057	21138945	CDKN2A	loss of CDKN2A	-	pediatric high-grade glioma (pHGG)	-	loss confirmed by fluorescent in situ hybridization on tissue microarrays	pathogenic
+1058	21138945	CDKN2B	loss of CDKN2B	-	pediatric high-grade glioma (pHGG)	-	loss confirmed by fluorescent in situ hybridization on tissue microarrays	pathogenic
+1059	21138945	PDGFRA	amplification of the 4q11-13 region	-	pediatric high-grade glioma (pHGG)	-	amplification confirmed by qPCR analysis	pathogenic
+1060	21138945	KIT	amplification of the 4q11-13 region	-	pediatric high-grade glioma (pHGG)	-	amplification detected by oligo array CGH	unknown
+1061	21138945	MYCN	amplification	-	pediatric high-grade glioma (pHGG), anaplastic astrocytomas	-	amplification significantly associated with anaplastic astrocytomas	pathogenic
+1062	20801540	CP	c.2554+1G>T	p.(del 809-852)	Aceruloplasminemia	movement disorders, retinal degeneration, diabetes mellitus	defective cellular iron export	pathogenic
+1063	20555334	-	-	-	Proteus syndrome	excessive cell proliferation, severely disfiguring overgrowth	LOH and CNVs were not common in PS	unknown
+1064	20555334	-	duplication of 11p15	-	Beckwith-Wiedemann syndrome	small-scale CNVs, excessive cell proliferation, increased frequency of tumors	presence of small-scale CNVs	unknown
+1065	20538085	FBN1	-	-	Marfan syndrome	pleiotropic disorder	mutations in FBN1	pathogenic
+1066	20538085	FBN1	c.123A>T	p.Lys41Arg	Marfan syndrome	pleiotropic disorder	mutations in FBN1	pathogenic
+1067	20538085	FBN1	c.456G>C	p.Arg152Pro	Marfan syndrome	pleiotropic disorder	mutations in FBN1	pathogenic
+1068	20538085	FBN1	c.789T>A	p.Tyr263Asn	Marfan syndrome	pleiotropic disorder	mutations in FBN1	pathogenic
+1069	20538085	FBN1	c.901C>G	p.Arg301Gly	Marfan syndrome	pleiotropic disorder	mutations in FBN1	pathogenic
+1070	20538085	FBN1	c.1234A>C	p.Glu412Ala	Marfan syndrome	pleiotropic disorder	mutations in FBN1	pathogenic
+1071	20454699	TACSTD2	c.356G>A	C119Y	gelatinous drop-like corneal dystrophy (GDLD)	mulberry-like opacities in the subepithelium and anterior stroma	exposed cysteine residue, which might cause interchain disulfide bond formation and protein aggregation leading to disturbed cell junctions of the corneal epithelium	pathogenic
+1072	20367983	MEN1	c.1546_1547insC	-	Multiple endocrine neoplasia type 1 (MEN1)	parathyroid hyperplasia and pituitary adenoma	inducing a frame shift mutation	pathogenic
+1073	20367983	MEN1	IVS3 + 18C > T	-	Multiple endocrine neoplasia type 1 (MEN1)	-	needs a further investigation	unknown
+1074	20335448	NR3C1	G2141A	p.Arg714Gln	generalized glucocorticoid resistance syndrome	hypertension, premature pubarche, hypoglycemia, hypokalemia	impaired transactivation activity, attenuated transactivation of the activation function (AF)-2, reduced binding to a p160 nuclear receptor coactivator, conformational change to the LBD and the AF-2 transactivation surface	pathogenic
+1075	20300861	Tg737	-	-	hepatocellular carcinoma	-	loss of heterozygosity	pathogenic
+1076	20154289	HBA2	alpha 2 codon 104 G --> A	p.Arg104Gln	Hb H disease	-	nondeletional mutation	pathogenic
+1077	20154289	HBA1	-alpha(3.7) deletion	-	Hb H disease	-	alpha+ thalassemia mutation	pathogenic
+1078	20154289	HBA1	- -(SEA)	-	Hb H disease	-	deletion	pathogenic
+1079	20154289	HBA1	- -(SA)	-	Hb H disease	-	deletion	pathogenic
+1080	20080916	IRF5	promoter indel	-	systemic lupus erythematosus (SLE)	-	altered IRF5 expression in PBMC	likely pathogenic
+1081	20080916	IRF5	rs2070197	-	systemic lupus erythematosus (SLE)	-	independent genetic effects	likely pathogenic
+1082	20080916	IRF5	rs2004640	-	systemic lupus erythematosus (SLE)	-	association with SLE	likely pathogenic
+1083	20080916	IRF5	rs10954213	-	systemic lupus erythematosus (SLE)	altered IRF5 transcript levels	greatest influence on IRF5 transcript levels	likely pathogenic
+1084	20019594	LDLR	-	p.E180K	Familial hypercholesterolemia (FH)	increase in low-density lipoprotein (LDL) cholesterol levels and premature coronary artery disease	unknown	unknown
+1085	20019594	LDLR	-	p.R194S	Familial hypercholesterolemia (FH)	increase in low-density lipoprotein (LDL) cholesterol levels and premature coronary artery disease	unknown	unknown
+1086	20019594	LDLR	-	p.C152G	Familial hypercholesterolemia (FH)	increase in low-density lipoprotein (LDL) cholesterol levels and premature coronary artery disease	unknown	unknown
+1087	20019594	LDLR	-	p.D157fsX158	Familial hypercholesterolemia (FH)	increase in low-density lipoprotein (LDL) cholesterol levels and premature coronary artery disease	truncated LDLR	pathogenic
+1088	20019594	LDLR	-	p.S173fsX174	Familial hypercholesterolemia (FH)	increase in low-density lipoprotein (LDL) cholesterol levels and premature coronary artery disease	truncated LDLR	pathogenic
+1089	19823838	TNFRSF1A	c.263G>C	-	Tumor necrosis factor receptor-associated periodic syndrome (TRAPS)	-	affect an exonic splicing enhancer (ESE)	unknown
+1090	19823838	TNFRSF1A	c.264C>A	-	Tumor necrosis factor receptor-associated periodic syndrome (TRAPS)	-	affect an exonic splicing enhancer (ESE)	unknown
+1091	19823838	TNFRSF1A	c.263G>C; c.264C>A	p.(Ala88?)	Tumor necrosis factor receptor-associated periodic syndrome (TRAPS)	-	affect an exonic splicing enhancer (ESE)	unknown
+1092	19781362	p63	c.893G>A	p.R298Q	ADULT syndrome	-	mutation analysis of p63 gene	likely pathogenic
+1093	19781362	p63	rs16864880	-	ADULT syndrome	-	single nucleotide polymorphism (SNP) in the downstream flanking region (DFR) of p63 exon 8	unknown
+1094	19686598	PKD1	-	nonsense mutations	Autosomal dominant polycystic kidney disease (ADPKD)	-	likely pathogenic germline sequence changes	likely pathogenic
+1095	19686598	PKD1	-	missense mutations	Autosomal dominant polycystic kidney disease (ADPKD)	-	likely pathogenic germline sequence changes	likely pathogenic
+1096	19686598	PKD1	-	frameshifting mutations	Autosomal dominant polycystic kidney disease (ADPKD)	-	likely pathogenic germline sequence changes	likely pathogenic
+1097	19686598	PKD1	-	in-frame deletion	Autosomal dominant polycystic kidney disease (ADPKD)	-	likely pathogenic germline sequence changes	likely pathogenic
+1098	19686598	PKD1	-	splice site mutation	Autosomal dominant polycystic kidney disease (ADPKD)	-	likely pathogenic germline sequence changes	likely pathogenic
+1099	19686598	PKD1	-	polymorphisms or unclassified variants	Autosomal dominant polycystic kidney disease (ADPKD)	-	not likely pathogenic germline sequence changes	unknown
+1100	19686598	PKD2	-	-	Autosomal dominant polycystic kidney disease (ADPKD)	-	-	likely pathogenic
+1101	19624920	-	-	-	multidrug-resistant tuberculosis (MDR TB)	-	molecular cluster detection contributes to identification of transmission profile, risk factors, and control measures	unknown
+1102	19624485	HLA-G	rs16375	-	human cytomegalovirus (hCMV) infection	increased urine hCMV DNA copies	association with increased odds ratio and higher urine hCMV DNA copies	pathogenic
+1103	19565319	ADORA2A	rs2236624	-	Autism spectrum disorders (ASDs)	-	nominal association with the disorder	likely pathogenic
+1104	19565319	ADORA2A	rs3761422	-	Autism spectrum disorders (ASDs)	phenotypic variability in ASD symptoms	influence on phenotypic variability	likely pathogenic
+1105	19565319	ADORA2A	rs5751876	-	Autism spectrum disorders (ASDs)	phenotypic variability in ASD symptoms	influence on phenotypic variability	likely pathogenic
+1106	19565319	ADORA2A	rs35320474	-	Autism spectrum disorders (ASDs)	phenotypic variability in ASD symptoms	influence on phenotypic variability	likely pathogenic
+1107	19561170	PRKCG	-	-	Spinocerebellar ataxia type 14 (SCA14)	severe phenotype	increased kinase activity, phosphorylation of aprataxin (APTX) and inhibition of its nuclear entry, leading to decreased nuclear APTX, increased oxidative stress-induced DNA damage and cell death	pathogenic
+1108	19537956	CYP1A1	CYP1A1-m1	-	HIV-1 infection	impaired viral response to HAART therapy	association with metabolic conversion of environmental toxins to DNA adducts	pathogenic
+1109	19537956	GSTM1	GSTM1 deletion	-	HIV-1 infection	-	no association with HAART effectiveness	benign
+1110	19537956	GSST1	GSST1 deletion	-	HIV-1 infection	-	no association with HAART effectiveness	benign
+1111	19340305	LKB1	-	-	cervical cancer	accelerated disease progression	LKB1 inactivation associated with poor survival	pathogenic
+1112	19196567	ACE	-	-	cardiovascular morbidity and mortality	elevated pulse pressure	association with increased pulse pressure in patients with a first anterior acute myocardial infarction	likely pathogenic
+1113	19137569	CYP1B1	-	-	cleft lip with or without cleft palate	-	deletion event	unknown
+1114	19137569	FGF10	-	-	cleft lip with or without cleft palate	-	deletion event	unknown
+1115	19137569	SP8	-	-	cleft lip with or without cleft palate	-	deletion event	unknown
+1116	19137569	SUMO1	-	-	cleft lip with or without cleft palate	-	deletion event	likely pathogenic
+1117	19137569	TBX1	-	-	cleft lip with or without cleft palate	-	deletion event	likely pathogenic
+1118	19137569	TFAP2A	-	-	cleft lip with or without cleft palate	-	deletion event	likely pathogenic
+1119	19137569	UGT7A1	-	-	cleft lip with or without cleft palate	-	deletion event	unknown
+1120	18945288	HGD	c.342delA	p.Arg58fs	alkaptonuria	-	frameshift at amino acid position 58	pathogenic
+1121	18759095	B3GALTL	-	-	Peters' plus syndrome	visual impairment, short stature, mental retardation, Peters' anomaly, skeletal abnormalities, distinctive facial features	homozygous deletion in the gene	pathogenic
+1122	18726896	TSLC1	-	-	neuroblastoma	reduced TSLC1 expression, poor prognosis, decreased cell proliferation	loss of heterozygosity (LOH), reduced expression levels correlate with stage, Shimada's pathological classification, MYCN amplification status, TrkA expression levels and DNA index	likely pathogenic
+1123	18699851	PRKACB	-	-	Mantle cell lymphoma (MCL)	-	deregulation of cyclic adenosine monophosphate-regulated pathways	unknown
+1124	18699851	ATM	-	-	Mantle cell lymphoma (MCL)	-	deregulation of DNA damage repair, maintenance of chromosome stability and prevention of rereplication	unknown
+1125	18699851	ERCC5	-	-	Mantle cell lymphoma (MCL)	-	deregulation of DNA damage repair, maintenance of chromosome stability and prevention of rereplication	unknown
+1126	18699851	FBXO5	-	-	Mantle cell lymphoma (MCL)	-	deregulation of DNA damage repair, maintenance of chromosome stability and prevention of rereplication	unknown
+1127	18699851	ARHGAP29	-	-	Mantle cell lymphoma (MCL)	-	deregulation of signal transduction	unknown
+1128	18694509	TMPRSS2	rs12329760	-	prostate cancer	aggressive phenotype	association with TMPRSS2-ERG fusion by translocation and multiple copies of the gene fusion	likely pathogenic
+1129	18694509	ERG	-	-	prostate cancer	aggressive phenotype	association with TMPRSS2-ERG fusion	unknown
+1130	18694509	TMPRSS2-ERG	-	-	prostate cancer	reduced prostate cancer-specific survival with multiple copies of the fusion	reduced prostate cancer-specific survival with multiple copies of the fusion	likely pathogenic
+1131	18622266	CRHR1	-	-	asthma	response to inhaled corticosteroids	association with inversion status or long-range LD with another gene	unknown
+1132	18606230	CACNA1A	c.C5549G	p.Y1854X	episodic ataxia type 2 (EA2)	loss of Ca(V)2.1-mediated current	loss of Ca(V)2.1-mediated current	pathogenic
+1133	18606230	CACNA1A	-	p.R1858X	episodic ataxia type 2 (EA2)	-	premature stop codon	pathogenic
+1134	18606230	CACNA1A	-	p.Y1854X	episodic ataxia type 2 (EA2)	-	premature stop codon	pathogenic
+1135	18559591	LZTS1	-	-	uveal melanoma	rapid metastasis	silenced in rapidly metastasizing and metastatic uveal melanomas, forced expression inhibited motility and invasion	pathogenic
+1136	18372165	ATP2C1	c.520delC	-	Hailey-Hailey disease (HHD)	-	heterozygous mutation	pathogenic
+1137	18372165	ATP2C1	c.681dupA	-	Hailey-Hailey disease (HHD)	-	heterozygous mutation	pathogenic
+1138	18372165	ATP2C1	c.956delC	-	Hailey-Hailey disease (HHD)	-	heterozygous mutation	pathogenic
+1139	18372165	ATP2C1	c.360+1G>C	-	Hailey-Hailey disease (HHD)	mild phenotype	expression of a short in-frame mutant transcript with exon 5 skipping	pathogenic
+1140	18372165	ATP2C1	c.899+1G>T	-	Hailey-Hailey disease (HHD)	-	heterozygous mutation	pathogenic
+1141	18372165	ATP2C1	c.1570+2T>C	-	Hailey-Hailey disease (HHD)	-	heterozygous mutation	pathogenic
+1142	18372165	ATP2C1	-	p.Arg153X	Hailey-Hailey disease (HHD)	-	nonsense mutation	pathogenic
+1143	18246537	TP53	deletion of TP53 (17p13)	-	chronic lymphocytic leukemia (CLL)	-	genomic abnormalities detected by SNP-chip analysis	pathogenic
+1144	18246537	ATM	deletion of ATM (11q22)	-	chronic lymphocytic leukemia (CLL)	-	genomic abnormalities detected by SNP-chip analysis	pathogenic
+1145	18246537	AIM1	6q deletion at 6q21	-	chronic lymphocytic leukemia (CLL)	-	genomic abnormalities detected by SNP-chip analysis	pathogenic
+1146	18246537	miR-15a/miR-16-1	homozygous deletion	-	chronic lymphocytic leukemia (CLL)	-	genomic abnormalities detected by SNP-chip analysis	pathogenic
+1147	18210757	ACE	I/D polymorphism	-	colorectal cancer	-	no statistical differences in genotype distribution or allele frequency between patients and controls	benign
+1148	17968299	IL-10	-1082(G/A)	-	aggressive periodontitis	-	no association between patients and normal subjects in genotype and allele frequencies	benign
+1149	17961316	HBB	IVS1-1G>C	-	beta-thalassaemia	aberrant RNA splicing	aberrant RNA splicing due to inactivation of normal 5' splice site and activation of cryptic 5' splice sites	pathogenic
+1150	17935240	RPGR	g.ORF15 + 652-653delAG	-	X-linked retinitis pigmentosa (XLRP)	-	gonadal mosaicism and somatic mosaicism	pathogenic
+1151	17909797	CCR5	CCR5Delta32	-	melanoma	decreased survival following immunotherapy	association with decreased survival in stage IV patients receiving immunotherapy	likely pathogenic
+1152	17641158	BMPR2	-	-	pulmonary arterial hypertension	reduced expression of the mutant transcript	activation of a cryptic translation initiation site and premature stop codon triggering nonsense-mediated decay	pathogenic
+1153	17395743	PVT1	rs2720709	-	end-stage renal disease (ESRD)	-	association with ESRD in type 2 diabetes	likely pathogenic
+1154	17395743	PVT1	rs2648875	-	end-stage renal disease (ESRD)	-	association with ESRD in type 2 diabetes	likely pathogenic
+1155	17292585	ALDOB	Delta4E4	-	Hereditary fructose intolerance (HFI)	-	mutation in the liver isoenzyme of fructoaldolase	pathogenic
+1156	17292585	ALDOB	A149P	-	Hereditary fructose intolerance (HFI)	-	mutation in the liver isoenzyme of fructoaldolase	pathogenic
+1157	17292585	ALDOB	A174D	-	Hereditary fructose intolerance (HFI)	-	mutation in the liver isoenzyme of fructoaldolase	pathogenic
+1158	17292585	ALDOB	N334K	-	Hereditary fructose intolerance (HFI)	-	mutation in the liver isoenzyme of fructoaldolase	pathogenic
+1159	17199794	ACE	I/D	-	idiopathic nephrotic syndrome (INS)	steroid-resistant nephrotic syndrome	no significant correlation between ACE genotype and steroid responsiveness, histology or outcome	benign
+1160	17199794	ACE	I/I	-	idiopathic nephrotic syndrome (INS)	steroid-sensitive INS	no significant correlation between ACE genotype and steroid responsiveness, histology or outcome	benign
+1161	17199794	ACE	D/D	-	idiopathic nephrotic syndrome (INS)	steroid-sensitive INS	no significant correlation between ACE genotype and steroid responsiveness, histology or outcome	benign
+1162	17166870	ENG	6bINS	-	pulmonary arterial hypertension (PAH), Systemic sclerosis (SSc)	microvascular disturbance	lower frequency of 6bINS allele in SSc patients with associated PAH	likely benign
+1163	17160997	HBB	22-bp tandem duplication	severely truncated product	beta thalassemia	severe beta thalassemia/hemoglobin (Hb) E disease	producing a severely truncated product	pathogenic
+1164	17157502	CAPN3	-	-	Limb girdle muscular dystrophy type 2A (LGMD2A)	-	single or small nucleotide changes, frame-shift mutations, nonsense-mediated mRNA decay	pathogenic
+1165	17079875	RUNX1	-2084G>C	-	asthma	elevated IgE levels	marginal association with total IgE levels	unknown
+1166	17079875	RUNX1	-1282G>A	-	asthma	elevated IgE levels	marginal association with total IgE levels	unknown
+1167	17065198	TP53	-	-	non-melanoma skin cancers (NMSCs), squamous cell carcinomas (SCCs), Basal Cell Carcinomas, actinic keratosis (AK)	-	p53 accumulation and mutations, UV-specific C to T transitions at bipyrimidine sites, tandem mutations including UV signature CC to TT transitions	pathogenic
+1168	16780885	puratrophin-1	C-to-T substitution	-	autosomal dominant cerebellar ataxias (ADCAs)	cerebellar ataxia, exaggerated deep tendon reflexes, sensorineural hearing impairment	strong association with a form of ADCA linked to chromosome 16q22.1	pathogenic
+1169	16728705	TNFA	TNFA-863C>A	-	atopic asthma	reduced risk of asthma, reduced TsIgE levels, reduced serum TNF-alpha levels	influences the binding of nuclear proteins and TNF-alpha expression	likely benign
+1170	16728705	LTA	LTA_NcoI	-	atopic asthma	-	marginal association with asthma and TsIgE levels	unknown
+1171	16540739	CDKN2A	-	-	malignant peripheral nerve sheath tumors (MPNSTs)	abnormal expression of p16	loss of p16 function	pathogenic
+1172	16480574	LMP1	-	p.(346-355del; 334X; 335X; 338X; 366X)	nasopharyngeal carcinoma (NPC)	-	30-bp deletion and 4 missense point mutations	pathogenic
+1173	16424663	HJV	nt 81G deletion	-	hemochromatosis	iron overload, hypogonadotrophic hypogonadism, congestive heart failure, abnormal liver function tests	frameshift encoding 23 additional irrelevant amino acids and premature termination	pathogenic
+1174	16391785	DOCK8	homozygous deletion	-	lung cancer	reduced expression	genetic and epigenetic inactivation, including DNA methylation and histone deacetylation	pathogenic
+1175	16391785	DOCK8	homozygous deletion	-	gastric cancer	reduced expression	genetic and epigenetic inactivation, including DNA methylation and histone deacetylation	pathogenic
+1176	16391785	DOCK8	homozygous deletion	-	breast cancer	reduced expression	genetic and epigenetic inactivation, including DNA methylation and histone deacetylation	pathogenic
+1177	16380922	ESCO2	5-nucleotide deletion	-	Roberts syndrome (RBS) and SC phocomelia (SC)	tetraphocomelia, profound growth deficiency of prenatal onset, craniofacial anomalies, microcephaly, and mental deficiency	protein-truncating mutations	pathogenic
+1178	16380922	ESCO2	splice-site mutation	-	Roberts syndrome (RBS) and SC phocomelia (SC)	tetraphocomelia, profound growth deficiency of prenatal onset, craniofacial anomalies, microcephaly, and mental deficiency	protein-truncating mutations	pathogenic
+1179	16380922	ESCO2	single-nucleotide insertion	-	Roberts syndrome (RBS) and SC phocomelia (SC)	tetraphocomelia, profound growth deficiency of prenatal onset, craniofacial anomalies, microcephaly, and mental deficiency	protein-truncating mutations	pathogenic
+1180	16380922	ESCO2	single-nucleotide deletion	-	Roberts syndrome (RBS) and SC phocomelia (SC)	tetraphocomelia, profound growth deficiency of prenatal onset, craniofacial anomalies, microcephaly, and mental deficiency	protein-truncating mutations	pathogenic
+1181	16380922	ESCO2	nonsense mutation	-	Roberts syndrome (RBS) and SC phocomelia (SC)	tetraphocomelia, profound growth deficiency of prenatal onset, craniofacial anomalies, microcephaly, and mental deficiency	protein-truncating mutations	pathogenic
+1182	16379547	cystatin B	-	-	Progressive myoclonus epilepsy of the Unverricht-Lundborg type	myoclonic seizures and ataxia	repeat expansions of a dodecamer in the promoter region	pathogenic
+1183	16333097	plcD	-	-	extrathoracic tuberculosis	-	association with disease presentation after controlling for genotypes of plcABC genes and host-related risk factors	pathogenic
+1184	16333097	plcA	-	-	extrathoracic tuberculosis	-	no significant association after controlling for genotypes of plcABC genes and host-related risk factors	likely benign
+1185	16333097	plcB	-	-	extrathoracic tuberculosis	-	no significant association after controlling for genotypes of plcABC genes and host-related risk factors	likely benign
+1186	16333097	plcC	-	-	extrathoracic tuberculosis	-	no significant association after controlling for genotypes of plcABC genes and host-related risk factors	likely benign
+1187	16330669	CDKN2A	-	-	primary cutaneous large B-cell lymphoma (PCLBCL), leg type	-	inactivation by deletion or methylation of its promoter	pathogenic
+1188	16330669	BCL-2	-	-	primary cutaneous large B-cell lymphoma (PCLBCL), leg type	-	high-level DNA amplification	unknown
+1189	16330669	MALT1	-	-	primary cutaneous large B-cell lymphoma (PCLBCL), leg type	-	high-level DNA amplification	unknown
+1190	16330669	CDKN2B	-	-	primary cutaneous large B-cell lymphoma (PCLBCL), leg type	-	deletion	unknown
+1191	16330669	NSG-x	-	-	primary cutaneous large B-cell lymphoma (PCLBCL), leg type	-	deletion	unknown
+1192	16330669	c-REL	-	-	primary cutaneous follicle center lymphoma (PCFCL)	-	high-level DNA amplification	unknown
+1193	16143638	CREM	IVS2-58_55insT	-	male infertility	-	results in a four-fold decrease in binding of nuclear proteins	likely pathogenic
+1194	16143638	CREM	exon gamma nonsense mutation	-	male infertility	-	non-sense mutation	likely pathogenic
+1195	16143638	CREM	P1 single-nucleotide polymorphism	-	male infertility	-	potentially harmful genetic changes	unknown
+1196	16143638	CREM	P3 single-nucleotide polymorphism	-	male infertility	-	potentially harmful genetic changes	unknown
+1197	16143638	CREM	IVS1 single-nucleotide polymorphism	-	male infertility	-	potentially harmful genetic changes	unknown
+1198	16001362	DKFZP434I216	c.-16C>T	-	autosomal dominant cerebellar ataxia (ADCA)	progressive pure cerebellar ataxia, sensorineural hearing impairment	protein aggregation in Purkinje cells	pathogenic
+1199	15983230	SLC2A2	rs5393	-	type 2 diabetes	-	increased risk of type 2 diabetes	likely pathogenic
+1200	15951966	MSH2	-	-	HNPCC	-	exonic deletion including exon 3, unequal recombination between intronic Alu elements	pathogenic
+1201	15951966	MLH1	-	-	HNPCC	-	exonic deletion or duplication	pathogenic
+1202	15929706	PR	3-bp insertion mutation between codons 31 and 32	insertion of leucine between codons 31 and 32	-	poor virological success	better fitness of the variant viruses	unknown
+1203	15867855	TIM-1	rs2277025	-	asthma	-	association analysis showed higher frequency of TT genotype among patients with asthma	likely pathogenic
+1204	15867855	TIM-1	157delMTTTVP	-	asthma	-	haplotype analysis and family-based tests showed association with asthma	likely pathogenic
+1205	15867855	TIM-3	-	-	asthma	-	none of the variants yielded significant association with asthma	benign
+1206	15834874	HBV	G529A	-	hepatitis B	HBeAg negativity	associated with HBeAg negativity	likely pathogenic
+1207	15834874	HBV	C934A	-	hepatitis B	HBeAg negativity	associated with HBeAg negativity	likely pathogenic
+1208	15834874	HBV	A1053G	-	hepatitis B	HBeAg negativity	associated with HBeAg negativity	likely pathogenic
+1209	15834874	HBV	G1915T/A	-	hepatitis B	HBeAg negativity	associated with HBeAg negativity	likely pathogenic
+1210	15834874	HBV	T2005C/A	-	hepatitis B	HBeAg negativity	associated with HBeAg negativity	likely pathogenic
+1211	15834874	HBV	C3026T	-	hepatitis B	HBeAg negativity	associated with HBeAg negativity	likely pathogenic
+1212	15824163	BRAF	rs1639679	-	melanoma	-	no statistically significant difference in either genotype or allele frequencies between cases and controls	benign
+1213	15820770	GC	GAT-->GAG	p.Asp416Glu	type 1 diabetes	autoimmune markers	association with autoimmune markers of type 1 diabetes	likely pathogenic
+1214	15820770	GC	ACG-->AAG	p.Thr420Lys	type 1 diabetes	autoimmune markers	no direct association mentioned	unknown
+1215	15784611	-	-	-	-	-	position-specific phylogenetic features that describe the conservation of an amino acid at a specific site are the best discriminators of disease mutations versus neutral variations	unknown
+1216	15755837	DHFR	19-base pair deletion	-	preterm delivery	-	association with increased risk of preterm delivery and low birth weight, especially with low folate intake	likely pathogenic
+1217	15755837	DHFR	19-base pair deletion	-	low birth weight	-	association with increased risk of preterm delivery and low birth weight, especially with low folate intake	likely pathogenic
+1218	15702130	SLC11A1	(GT)(n) polymorphism	-	sarcoidosis	-	association with autoimmune disease and infectious susceptibility	likely pathogenic
+1219	15684865	NF2	-	-	neurofibromatosis type 2 (NF2)	-	identification of point mutations and large deletions	pathogenic
+1220	15672026	TNFRSF6	-670A>G	-	preterm premature rupture of membranes (PPROM)	-	association with increased rate of PPROM in multifetal pregnancies	likely pathogenic
+1221	15667541	F7	g.3907G>A	p.Glu29Lys	severe FVII deficiency	severe unprovoked parenchymal cerebral haemorrhage	novel single point mutation and gene deletion	pathogenic
+1222	15667541	F7	-	-	severe FVII deficiency	severe unprovoked parenchymal cerebral haemorrhage	gene deletion	pathogenic
+1223	15661214	MMP-1	-1607 insG	-	cervical neoplasia	invasiveness of SCC	association with advanced stages of disease and regional lymph node metastases	likely pathogenic
+1224	15661214	MMP-1	-1607 insG	-	cervical neoplasia	prognosis of SCC	heterozygous genotype associated with longer survival time	likely pathogenic
+1225	15661214	MMP-1	-1607 insG	-	cervical neoplasia	-	no significant correlation with HPV status	unknown
+1226	15595630	GSTM1	-	-	myelodysplastic syndromes (MDS)	erythroid response	association with response to rHuEpo treatment	unknown
+1227	15595630	GSTT1	-	-	myelodysplastic syndromes (MDS)	-	no significant association with response to rHuEpo treatment	unknown
+1228	15579915	RET	IVS10 + 4G	-	thyroid carcinoma (microfollicular carcinoma with tendency to evolve into MTC)	microfollicular carcinoma with tendency to evolve into MTC	genome destabilization through homologous recombination	likely pathogenic
+1229	15578687	-	-	-	ovarian carcinoma	aberrations in DNA copy number and gene expression	significant correlation between DNA copy number aberrations and variation in mRNA expression	unknown
+1230	15464247	IL12B	1188-A/C	-	HCV infection	reduced relapse rate	reduced relapse rate	likely benign
+1231	15464247	IL12B	4 bp insertion/deletion	-	HCV infection	-	no significant difference in HCV infection outcome	benign
+1232	15461822	-	Delta30	-	dengue	mild illness	ten-fold reduced in replication in SCID-HuH-7 mice	likely benign
+1233	15461822	-	Delta30-4995	-	dengue	-	more attenuated than rDEN2Delta30 in SCID-HuH-7 mice	likely benign
+1234	15461822	NS3	-	-	dengue	-	incorporation of a point mutation previously identified	unknown
+1235	15455371	COMT	-	-	breast cancer	-	involved in CE detoxification by conjugation reactions involving methylation	unknown
+1236	15455371	SULT1A1	-	-	breast cancer	-	involved in CE detoxification by conjugation reactions involving sulfation	unknown
+1237	15455371	UGT1A1	-	-	breast cancer	-	involved in CE detoxification by conjugation reactions involving glucuronidation	unknown
+1238	15455371	MnSOD	-	-	breast cancer	-	involved in protection against reactive oxidative species-mediated oxidation during the conversion of CE-SQ to CE-Q	unknown
+1239	15455371	GSTM1	-	-	breast cancer	-	involved in CE-Q metabolism	unknown
+1240	15455371	GSTT1	-	-	breast cancer	-	involved in CE-Q metabolism	unknown
+1241	15162062	FANCA	large intragenic deletions	-	Fanconi anaemia	chromosome fragility, multiple congenital abnormalities, progressive bone marrow failure and a high predisposition to develop malignancies	large intragenic deletions led to loss of gene function	pathogenic
+1242	15147378	GNAS	-	-	bleeding tendency	platelet hypo-reactivity	no modification of either the expression of platelet Gsalpha or the platelet response to Gs-agonists	benign
+1243	15147378	GNAS	36-bp insertion	-	bleeding tendency	platelet hypo-reactivity	moderate platelet Gsalpha over-expression	likely pathogenic
+1244	15147378	GNAS	-	-	primary intracerebral haemorrhage	-	no association	benign
+1245	15147378	GNAS	-	-	deep venous thrombosis	-	no association	benign
+1246	15147378	GNAS	-	-	cerebrovascular disease	-	no association	benign
+1247	15086338	COL7A1	6573 + 1G > C	-	Recessive dystrophic epidermolysis bullosa (RDEB)	mild clinical phenotype, reduced immunofluorescence staining for COL7A1, reduced number of abnormal or short anchoring fibrils	activation of a cryptic donor splicing site and results in a downstream PTC	pathogenic
+1248	15086338	COL7A1	5504delA	-	Recessive dystrophic epidermolysis bullosa (RDEB)	mild clinical phenotype, reduced immunofluorescence staining for COL7A1, reduced number of abnormal or short anchoring fibrils	causes a downstream frame shift in five amino acids before creating a PTC	pathogenic
+1249	15033202	NBS1	5 nucleotide deletion	-	Nijmegen breakage syndrome	microcephaly, immunodeficiency, borderline mental development, high tendency to lymphoreticular malignancies	chromosomal instability disorder	pathogenic
+1250	15009222	LGI1	del 329C	-	autosomal dominant lateral temporal epilepsy (ADLTE)	partial seizures with auditory aura	novel mutation, similar phenotype to other kindreds with ADLTE	likely pathogenic
+1251	15009222	LGI1	C435G	-	autosomal dominant lateral temporal epilepsy (ADLTE)	partial seizures with auditory aura	novel mutation, similar phenotype to other kindreds with ADLTE	likely pathogenic
+1252	14751036	TPO	GGCC insertion at exon 8, position 1277	-	goitrous congenital hypothyroidism	-	homozygous mutation leading to nonfunctional protein	pathogenic
+1253	14751036	TPO	GGCC insertion at exon 8, position 1277	-	goitrous congenital hypothyroidism	-	compound heterozygosity leading to nonfunctional protein	pathogenic
+1254	14751036	TPO	2068G>C	-	goitrous congenital hypothyroidism	-	compound heterozygosity leading to nonfunctional protein	pathogenic
+1255	14751036	TPO	C insertion in exon 14 between positions 2505-2511	-	goitrous congenital hypothyroidism	-	compound heterozygosity leading to nonfunctional protein	pathogenic
+1256	14751036	TPO	2084G>A	-	partial iodine organification defect (PIOD)	-	heterozygous mutation partially affecting protein function	likely pathogenic
+1257	14751036	TPO	1780C>A	-	partial iodine organification defect (PIOD)	-	heterozygous mutation partially affecting protein function	likely pathogenic
+1258	14751036	TPO	1242G>T	-	partial iodine organification defect (PIOD)	-	compound heterozygous condition partially affecting protein function	likely pathogenic
+1259	14751036	TPO	1780C>A	-	partial iodine organification defect (PIOD)	-	compound heterozygous condition partially affecting protein function	likely pathogenic
+1260	14751036	TPO	+1G>T	-	partial iodine organification defect (PIOD)	-	heterozygous mutation partially affecting protein function	likely pathogenic
+1261	14749703	FANCA	-	-	Fanconi anemia (FA), acute myeloid leukemia (AML)	genetic instability	reduced expression of FANCA	likely pathogenic
+1262	14734447	CBP	-	internal tandem duplication (ITD)	esophageal squamous cell carcinoma (ESCC)	-	loss of heterozygosity (LOH) and microsatellite instability (MSI) within the CBP gene	likely pathogenic
+1263	14639526	RAI1	-	-	Smith-Magenis syndrome (SMS)	-	heterozygous interstitial deletion on chromosome 17p11.2	pathogenic
+1264	14630830	PML	-	truncated PML protein	acute promyelocytic leukemia (APL)	RA resistance and poor prognosis	complete functional loss of PML	pathogenic
+1265	14623369	BDNF	C270T	-	schizophrenia	-	association with increased frequency in schizophrenia patients	likely pathogenic
+1266	14517957	BCKDHA	-	-	Maple syrup urine disease (MSUD)	classic severe form of MSUD	molecular basis of the disease	pathogenic
+1267	14517957	BCKDHB	-	-	Maple syrup urine disease (MSUD)	milder variant forms of the disease	molecular basis of the disease	pathogenic
+1268	14517957	DBT	-	-	Maple syrup urine disease (MSUD)	milder variant forms of the disease	molecular basis of the disease	pathogenic
+1269	14517957	BCKDHA	missense mutation	-	Maple syrup urine disease (MSUD)	classic severe form of MSUD	molecular basis of the disease	pathogenic
+1270	12927934	ATP8B1	-	homozygous amino acid change deletion	progressive familial intrahepatic cholestasis type 1	chronic unexplained diarrhea, short stature, liver steatosis	not corrected or aggravated by liver transplantation	pathogenic
+1271	12927934	ATP8B1	-	compound heterozygous missense and nonsense mutations	progressive familial intrahepatic cholestasis type 1	chronic unexplained diarrhea, short stature, liver steatosis	not corrected or aggravated by liver transplantation	pathogenic
+1272	12918106	-	-	-	colorectal cancer	-	loss of heterozygosity on chromosome 5p15	unknown
+1273	12872254	SMN1	c.399_402delAGAG	-	Spinal muscular atrophy (SMA)	variable, from type I to asymptomatic	reduction in SMN protein, influence on full-length/Delta7 ratio of SMN transcripts	pathogenic
+1274	12829659	TNF-alpha	G-308A	-	type 2 diabetes	-	associated with an approximate twofold higher risk for type 2 diabetes	likely pathogenic
+1275	12829659	IL-6	C-174G	-	type 2 diabetes	-	gene-gene interaction with the -308A allele of the TNF-alpha gene	likely pathogenic
+1276	12716337	IL6	-174G>C	-	chronic periodontitis	inflammatory tissue destruction	association with inflammatory diseases and significant difference in genotype and allele frequencies	likely pathogenic
+1277	12661032	KLF5	-	-	prostate cancer	loss of expression	frequent genomic deletion and loss of expression as well as cell growth suppression	likely pathogenic
+1278	12650796	CARD15	3020insC	-	Crohn's disease (CD)	-	truncation of the CARD15 protein and an altered function of CARD15	likely pathogenic
+1279	12626442	C4B	-	-	recurrent meningitis, chronic fistulas and abscesses	increased susceptibility to infections	genetic instability of the C4 gene region	pathogenic
+1280	12626442	MBL	-	-	recurrent meningitis, chronic fistulas and abscesses	increased susceptibility to infections	structural deficiency of mannan binding lectin	pathogenic
