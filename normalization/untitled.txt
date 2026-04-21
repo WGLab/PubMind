@@ -1,0 +1,10 @@
+Change Log for Normalization:
+
+1. Variant Regex Extract
+1.1 update the parse function to output HGVS format like c.7511T>C, instead of T7511C. 
+1.2 output cDNA change with c., protein change with c., MT change with m.
+1.3 DNA prefix capture： support for m. / n. / g. / c.
+
+2. Transcript and Genome Coordinates Mapping
+2.1 support  m. / n. / g. / c.
+2.2 provide hg19 (ensembl v 111) mapping when hg38 could not map (for g. and m.)

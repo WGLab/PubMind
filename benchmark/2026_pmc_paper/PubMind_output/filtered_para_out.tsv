@@ -1,0 +1,112 @@
+PMCID	section	gene	DNA mutation	protein mutation	disease	phenotype	LLM reasoning	pathogenicity
+PMC13044143	abstract	CYBA	c.427C>T	p.Q143*	autosomal recessive chronic granulomatous disease type 4 (A22° CGD)	recurrent severe pneumonia and pleural effusion	assessed as a likely pathogenic variant (PVS1_Strong+PM2_Supporting+PM3_Supporting)	likely pathogenic
+PMC13044143	Results	CYBA	c.427C>T	p.Q143*	chronic granulomatous disease type 4	-	assessed as a likely pathogenic variant (PVS1_Strong+PM2_Supporting+PM3_Supporting)	likely pathogenic
+PMC13044143	Introduction	CYBB	-	-	Chronic granulomatous disease (CGD)	phagocyte dysfunction, recurrent severe bacterial or fungal infections, formation of chronic granulomas	defects in the phagocyte NADPH oxidase complex	pathogenic
+PMC13044143	Introduction	CYBA	-	-	Chronic granulomatous disease (CGD)	phagocyte dysfunction, recurrent severe bacterial or fungal infections, formation of chronic granulomas	defects in the phagocyte NADPH oxidase complex	pathogenic
+PMC13044143	Introduction	NCF1	-	-	Chronic granulomatous disease (CGD)	phagocyte dysfunction, recurrent severe bacterial or fungal infections, formation of chronic granulomas	defects in the phagocyte NADPH oxidase complex	pathogenic
+PMC13044143	Introduction	NCF2	-	-	Chronic granulomatous disease (CGD)	phagocyte dysfunction, recurrent severe bacterial or fungal infections, formation of chronic granulomas	defects in the phagocyte NADPH oxidase complex	pathogenic
+PMC13044143	Introduction	NCF4	-	-	Chronic granulomatous disease (CGD)	phagocyte dysfunction, recurrent severe bacterial or fungal infections, formation of chronic granulomas	defects in the phagocyte NADPH oxidase complex	pathogenic
+PMC13044143	Introduction	CYBA	-	-	AR-CGD	-	novel nonsense mutation	pathogenic
+PMC13044143	Results	CYBA	c.427C>T	p.Q143*	-	-	reliable detection results with high sequencing quality	likely pathogenic
+PMC13044143	Results	CYBA	c.427C>T	p.Q143*	-	-	no reports were found for this variant site	unknown
+PMC13044143	Results	CYBA	c.427C>T	p.Q143*	-	-	-	pathogenic
+PMC13044143	Results	CYBA	c.427C>T	p.Q143*	-	premature termination of translation	nonsense mutation causes premature termination of translation	pathogenic
+PMC13044143	Results	CYBA	c.427C>T	p.Q143*	-	-	novelty and absence from ClinVar and HGMD Professional	likely pathogenic
+PMC13044143	Results	CYBA	c.427C>T	p.Q143*	AR-CGD	loss of oxidase activity	truncation eliminates the conserved proline−rich region (PRR) and causes complete loss of oxidase activity	pathogenic
+PMC13044143	Results	-	-	-	Autosomal Recessive Chronic Granulomatous Disease (AR-CGD)	normal phenotypes in heterozygous parents, strong correlation with clinical phenotype in homozygous patient	autosomal recessive inheritance pattern and correlation with clinical phenotype	unknown
+PMC13044143	Results	CYBA	c.427C>T	p.Q143*	-	-	PVS1_Strong+PM2_Supporting+PM3_Supporting	likely pathogenic
+PMC13044143	Results	CYBA	c.427C>T	p.Q143*	-	-	-	unknown
+PMC13044143	Results	-	-	-	-	-	-	unknown
+PMC13044143	Results	p22phox	c.427C>T	p.Q143*	-	loss of α-helical structure and altered spatial conformation	eliminates the protein’s ability to bind to p47phox	pathogenic
+PMC13044143	Results	CYBA	c.427C>T	p.Q143*	-	truncated CYBA protein	truncated protein	pathogenic
+PMC13044143	Results	CYBA	c.427C>T	p.Q143*	-	-	critical for maintaining protein function and may lead to protein dysfunction	likely pathogenic
+PMC13044143	Results	CYBA	c.427C>T	p.Q143*	-	-	highly conserved across different species	likely pathogenic
+PMC13044143	Discussion	CYBA	c.427C>T	p.Q143*	AR-CGD	recurrent severe pneumonia, pleural effusion, and disseminated BCG disease	ACMG criteria classified this variant	likely pathogenic
+PMC13044143	Discussion	-	-	-	Chronic granulomatous disease (CGD)	recurrent severe infections, pulmonary complications, bilateral pulmonary consolidation, enlarged mediastinal lymph nodes	immunodeficiency, inability to fight off opportunistic pathogens	unknown
+PMC13044143	Discussion	-	-	-	chronic granulomatous disease (CGD)	recurrent fever, lymphadenopathy, pulmonary consolidation, granulomatous inflammation	impaired NADPH oxidase activity	unknown
+PMC13044143	Discussion	CYBA	-	-	Chronic Granulomatous Disease (CGD)	-	deletions and missense mutations, nonsense mutations	unknown
+PMC13044143	Discussion	CYBA	c.427C>T	p.Q143*	Chronic Granulomatous Disease (CGD)	recurrent severe infections, A22° phenotype (complete loss of functional p22phox protein)	loss of the proline-rich C-terminal domain of the p22-phox protein, preventing p22-phox from binding to the SH3 domain of p47-phox, and severely impairing NADPH oxidase activity	pathogenic
+PMC13044143	Discussion	CYBA	-	p.Q58*	Chronic Granulomatous Disease (CGD)	severe infections and poor prognosis	complete loss of protein function	pathogenic
+PMC13044143	Discussion	CYBA	-	p.143 truncation	Chronic Granulomatous Disease (CGD)	predominantly pulmonary infections, milder disease course	retained partial N-terminal functional domains	likely pathogenic
+PMC13044143	Discussion	-	-	-	Chronic Granulomatous Disease (CGD)	infection	infection prophylaxis and HSCT efficacy	unknown
+PMC13044143	Discussion	-	c.427C>T	-	-	characteristic clinical phenotype	based on rigorous ACMG guideline-based grading	likely pathogenic
+PMC13044143	Discussion	CYBA	c.427C>T	p.Q143*	primary immunodeficiency disorder, CGD	-	expands the spectrum of pathogenic variants	pathogenic
+PMC13044143	Others	-	-	-	recurrent severe pneumonia and pleural effusion	-	-	unknown
+PMC13044143	Others	CYBA	-	-	recurrent severe pneumonia and pleural effusion	-	expanding the spectrum of pathogenic variants	pathogenic
+PMC13044143	Others	-	-	-	recurrent severe pneumonia	fever, pleural effusion	-	unknown
+PMC13044143	Others	-	-	-	-	-	-	unknown
+PMC13044143	Others	-	-	-	-	bilateral pulmonary consolidation, right pleural effusion, and mediastinal lymphadenopathy	no significant improvement in lesions over time	unknown
+PMC13044143	Others	-	-	-	chronic granulomatous disease (CGD)	recurrent severe infections, bilateral pulmonary consolidation and pleural effusion, multiple enlarged mediastinal and bilateral hilar lymph nodes	genetic testing and clinical suspicion	unknown
+PMC13044143	Others	-	-	-	disseminated BCG disease	pharyngeal congestion, bilateral tonsillar hypertrophy, coarse breath sounds, high fever	clinical diagnosis based on history of BCG vaccination, weak PPD positivity, multiple lymphadenopathies, and response to anti-tuberculosis therapy	unknown
+PMC13044143	Others	CYBA	-	-	-	-	-	unknown
+PMC13044143	Others	-	-	-	Chronic Granulomatous Disease (Type 4, A22° CGD), Severe Pneumonia, Pleural Effusion, Disseminated BCG Disease	-	-	unknown
+PMC13044143	Others	-	-	-	Chronic Granulomatous Disease (CGD)	impaired NBT reduction, defective respiratory burst, right lower lobe consolidation and lymphadenopathy	functional tests confirmed impaired NBT reduction and defective respiratory burst	pathogenic
+PMC13044143	Others	-	-	-	-	no infection recurrence, normal growth and development, and resolution of chest CT lesions	-	unknown
+PMC13044143	Others	No variant information is present in the given paragraph, as it appears to be an author contributions section rather than a scientific results or discussion section.						
+PMC12992144	abstract	ATP2B1	c.2140A>C	p.Thr714Pro	autosomal dominant intellectual developmental disorder 66 (MRD66)	infantile spasms, global developmental delay (GDD), severe growth restriction	cytoplasmic mislocalization of the mutant protein and significant increase in basal Ca 2+ levels	pathogenic
+PMC12992144	Introduction	-	-	-	Neurodevelopmental disorders (NDDs)	early-onset seizures and developmental delay	disrupted intracellular Ca 2+ signaling	unknown
+PMC12992144	Introduction	CACNA1H	-	-	epileptogenesis	neuronal hyperexcitability and seizures	lower activation thresholds and prolong channel opening, causing pathological Ca 2+ influx	pathogenic
+PMC12992144	Introduction	ATP2B1	-	-	-	-	essential non-redundant role in development, embryonic lethality in Atp2b1 homozygous knockout mice	unknown
+PMC12992144	Introduction	ATP2B1	-	-	Autosomal dominant intellectual developmental disorder 66 (MRD66)	global developmental delay (GDD), mild-to-moderate intellectual disability (ID), seizures, autism spectrum disorder (ASD), subtle dysmorphic features	de novo variants, limiting the understanding of robust genotype-phenotype correlations	pathogenic
+PMC12992144	Introduction	ATP2B1	-	p.Thr714Pro	neurodevelopmental disorder	infantile spasms and GDD	disrupts critical hydrogen bonding within the catalytic P-domain, causes PMCA1 mislocalization, and ablates Ca2+ efflux capacity	pathogenic
+PMC12992144	Results	ATP2B1	c.2140A>C	p.Thr714Pro	MRD66	-	multiple lines of computational evidence and conservation of Thr714 residue across species	likely pathogenic
+PMC12992144	Results	ATP2B1	c.2140A>C	p.Thr714Pro	-	-	evolutionary conservation and functional importance of the Thr714 residue	unknown
+PMC12992144	Results	ATP2B1	-	-	-	-	-	unknown
+PMC12992144	Results	-	-	-	-	-	-	unknown
+PMC12992144	Results	ATP2B1	-	p.Thr714Pro	-	steric clashes and loss of critical hydrogen bonds	steric incompatibility and loss of critical hydrogen bonds	pathogenic
+PMC12992144	Results	ATP2B1	-	p.Thr714Pro	-	-	eliminates the hydroxyl group, preventing hydrogen bond formation with Asn711	unknown
+PMC12992144	Results	ATP2B1	-	p.Thr714Pro	-	mislocalization, diminished fluorescence signal at the plasma membrane	mislocalization and impaired trafficking to the plasma membrane	pathogenic
+PMC12992144	Results	ATP2B1	-	p.Thr714Pro	-	diffuse cytoplasmic distribution with minimal plasma membrane signal, elevated basal intracellular Ca 2+ levels	mislocalization of the protein and altered calcium levels	likely pathogenic
+PMC12992144	Results	ATP2B1	-	p.Thr714Pro	calcium dyshomeostasis	elevated basal intracellular Ca 2+ levels	aberrant accumulation of cytosolic calcium, compromised Ca 2+ extrusion capacity	pathogenic
+PMC12992144	Discussion	ATP2B1	c.2140A>C	p.Thr714Pro	MRD66	global developmental delay with infantile spasms	impairs ATP2B1 function by causing its mislocalization away from the plasma membrane, leading to loss of calcium efflux capacity and haploinsufficiency	pathogenic
+PMC12992144	Discussion	ATP2B1	-	-	neurodevelopmental malformation syndrome with primary hypoparathyroidism	neurodevelopmental malformation	associated with biallelic variants	pathogenic
+PMC12992144	Discussion	ATP2B1	-	-	MRD66	neurodevelopmental delay	associated with de novo variants	pathogenic
+PMC12992144	Discussion	ATP2B1	-	-	MRD66	GDD, variable ID, behavioral abnormalities, seizures, growth retardation	haploinsufficiency	pathogenic
+PMC12992144	Discussion	ATP2B1	-	p.Thr714Pro	MRD66	defective trafficking to the plasma membrane and failure to maintain low resting cytosolic Ca2+	disrupts key hydrogen bonds, destabilizing the local structure, and loss of calcium transport activity	pathogenic
+PMC12992144	Discussion	ATP2B1	-	p.Arg763Pro	MRD66	-	loss-of-function	pathogenic
+PMC12992144	Discussion	ATP2B1	-	p.Arg789Cys	MRD66	-	loss-of-function	pathogenic
+PMC12992144	Discussion	ATP2B1	-	p.Asp239Gly	MRD66	mislocalization phenotype	loss of calcium transport activity	pathogenic
+PMC12992144	Discussion	ATP2B1	-	p.Thr264Ile	MRD66	mislocalization phenotype	loss of calcium transport activity	pathogenic
+PMC12992144	Discussion	ATP2B1	-	p.Arg991Gln	MRD66	mislocalization phenotype	loss of calcium transport activity	pathogenic
+PMC12992144	Discussion	ATP2B1	c.3060 + 2T>G	-	MRD66	asymptomatic	not determined by inheritance pattern alone, but by the extent of functional impairment	likely benign
+PMC12992144	Discussion	ATP2B1	-	-	neurodevelopmental disorder	early-onset seizures, neurodevelopmental deficits, multi-system malformations, primary hypoparathyroidism, distinctive craniofacial and skeletal features, periventricular heterotopia	calcium dyshomeostasis	pathogenic
+PMC12992144	Discussion	ATP2B1	-	-	MRD66	elevated resting Ca 2+	validated indicator of ATP2B1 dysfunction	unknown
+PMC12992144	Discussion	ATP2B1	-	p.Thr714Pro	MRD66	calcium dysregulation, seizure	defective plasma membrane trafficking and intrinsic impairment of catalytic function	pathogenic
+PMC12992144	Others	ATP2B1	-	-	early-onset epileptic encephalopathy and developmental delay	severe developmental impairment and infantile spasms	disrupts calcium balance in cells through improper protein localization and reduced calcium export	pathogenic
+PMC12992144	Others	-	-	-	epilepsy	-	-	unknown
+PMC12992144	Others	-	-	-	-	-	-	unknown
+PMC12992144	Others	ATP2B1	c.2140A>C	p.Thr714Pro	-	-	comparative visualization and analysis of the wild-type (WT) and mutant protein conformations	unknown
+PMC12992144	Others	ATP2B1	c.2140A>C	p.T714P	-	-	-	unknown
+PMC12992144	Others	ATP2B1	-	T714P	-	-	-	unknown
+PMC12992144	Others	ATP2B1	-	T714P	-	abnormal basal cytosolic calcium concentration	abnormal basal cytosolic calcium concentration	unknown
+PMC12992144	Others	No variant information is present in the given paragraph, as it appears to be an author contributions section rather than a scientific results or discussion section.						
+PMC12858432	abstract	AP4M1	c.258delG	p.A87Pfs*44	Spastic paraplegia 50 (SPG50)	intellectual disability, seizures, muscle weakness, deep white matter hyperintensity	loss of function, disrupts proper intramolecular interactions	pathogenic
+PMC12858432	Introduction	AP-4	-	-	Hereditary spastic paraplegia (HSP), Spastic paraplegia 50 (SPG50)	infantile hypotonia, lower-limb spasticity, developmental delay, intellectual disability, microcephaly	loss-of-function mutations	pathogenic
+PMC12858432	Introduction	AP4B1	-	-	neuronal dysfunction	cargo retention	disruption of AP-4 complex function	pathogenic
+PMC12858432	Introduction	AP4E1	-	-	neuronal dysfunction	cargo retention	disruption of AP-4 complex function	pathogenic
+PMC12858432	Introduction	AP4M1	-	-	neuronal dysfunction	cargo retention	disruption of AP-4 complex function	pathogenic
+PMC12858432	Introduction	AP4S1	-	-	neuronal dysfunction	cargo retention	disruption of AP-4 complex function	pathogenic
+PMC12858432	Introduction	ARF1	-	-	SPG50	-	disruption of the ARF1-AP4M1 interaction	pathogenic
+PMC12858432	Introduction	AP4M1	-	-	SPG50	intellectual disability and related neurological manifestations	produces a defective protein, resulting in AP-4 dysfunction	pathogenic
+PMC12858432	Discussion	AP4M1	-	-	SPG50 (a form of HSP)	-	autosomal recessive mutations	pathogenic
+PMC12858432	Discussion	AP4M1	c.258delG	p.Ala87Profs*44	SPG50	-	premature termination, disruption of protein-protein interactions	pathogenic
+PMC12858432	Discussion	AP4M1	-	-	hereditary spastic paraplegia	spasticity, developmental delay, increased white matter density	strong disease association, phenotype diversity	pathogenic
+PMC12858432	Discussion	AP4M1	-	-	-	-	-	unknown
+PMC12858432	Discussion	AP4M1	-	-	spastic paraplegia	-	disrupt interactions with other proteins through structural or functional alterations	likely pathogenic
+PMC12858432	Discussion	AP4B1	-	-	spastic paraplegia	-	-	unknown
+PMC12858432	Discussion	AP4E1	-	-	spastic paraplegia	-	-	unknown
+PMC12858432	Discussion	AP4S1	-	-	spastic paraplegia	-	-	unknown
+PMC12858432	Discussion	-	-	-	SPG50	-	inherent limitations, extreme rarity of SPG50	unknown
+PMC12858432	Discussion	-	-	-	inherited disorders	-	enables carrier testing and prenatal diagnosis	unknown
+PMC12858432	Others	-	-	-	SPG50	intellectual disability, seizures, muscle weakness, hyperintensity in deep white matter on MRI	-	unknown
+PMC12858432	Others	-	-	-	-	-	-	unknown
+PMC12858432	Others	AP4M1	c.258delG	p.A87Pfs*44	-	-	classified as pathogenic according to the American College of Medical Genetics (ACMG) guidelines	pathogenic
+PMC12858432	Others	-	c.258delG	-	-	-	Sanger sequencing confirmed the variant	unknown
+PMC12858432	Others	AP4M1	-	-	-	impaired structural integrity and reduced functional interaction	decrease in protein stability, substantial protein destabilization	pathogenic
+PMC12858432	Others	AP4M1	c.258delG	-	-	frameshift and premature stop codon	frameshift and premature stop codon	pathogenic
+PMC12858432	Others	AP4M1	c.258delG	-	-	improper binding	disrupt function and disrupt additional biological pathways	likely pathogenic
+PMC12858432	Others	AP4M1	c.258delG	-	-	altered binding patterns, disrupted or shifted binding residues	altered binding patterns, disrupted or shifted binding residues	likely pathogenic
+PMC12858432	Others	AP4M1	c.258delG	p.A87Pfs*44	AP4M1-related SPG50	intellectual disability, hyperintensity in deep white matter, seizures, and motor dysfunction	frameshift variant leading to a premature stop codon, loss-of-function (LOF), and clinical features	pathogenic
+PMC12858432	Others	AP4M1	c.258delG	p.A87Pfs*44	SPG50 disease	intellectual disability, seizures, muscle weakness, increased signal intensity in the deep white matter	substantial loss of protein function	pathogenic
+PMC12858432	Others		-	-	-	-	-	unknown
+PMC12858432	Others	None	-	-	-	-	-	unknown
