@@ -7,9 +7,15 @@ PubMind is a large language model (LLM)-assisted framework for <ins>**Pub**</ins
 
 PubMind is an AI-driven framework that uses large language models (LLMs) to extract genetic variant–disease–pathogenicity associations directly from biomedical literature. It combines fine-tuned BERT models for input filtering with instruction-tuned LLMs for extracting variant, disease, and functional evidence, covering SNVs, CNVs, SVs, and gene fusions. Extracted variants are normalized to genomic and transcript coordinates and stored in PubMind-DB, a web-accessible knowledgebase. Applied to >41M PubMed abstracts and >5M PMC full texts, PubMind-DB contains ~0.7M consolidated unique variants with rich annotations, of which only ~10% overlap with ClinVar—yet >80% of those show concordant pathogenicity labels, including full agreement for four-star expert-reviewed variants. PubMind provides a scalable, generalizable, and open-source framework that transforms unstructured text into structured genomic knowledge, supporting variant interpretation and precision medicine.
 
-## Prerequisite
+## Prerequisites and Installation
 
-Please refer to `requirements.txt` for required packages.
+Please refer to `environment.yml` and `requirements.txt` for required environments and packages. For installation, please use the two-step approach below:
+
+```bash
+conda env create -f environment.yml
+conda activate pubmind
+pip install -r requirements.txt
+```
 
 ## Run PubMind
 

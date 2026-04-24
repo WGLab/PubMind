@@ -1,0 +1,12 @@
+name: pubmind
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - python=3.10
+  - ipykernel
+  - ipywidgets
+  - tesseract
+  - nccl
+  - libpq

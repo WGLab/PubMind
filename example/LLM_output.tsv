@@ -14,7 +14,7 @@ PMC5628943	Results	IRF6	irf6 Δ8bp	p.Trp264*	-	undetectable irf6 transcripts, un
 PMC5628943	Results	IRF6	-	p.F252L	cleft lip/palate (CL/P)	periderm rupture phenotype	unable to rescue the maternal-null irf6 -/- rupture phenotype	likely pathogenic
 PMC5628943	Results	IRF6	-	p.V274I	cleft lip/palate (CL/P)	periderm rupture phenotype	able to rescue the rupture phenotype	benign
 PMC5628943	Results	IRF6	-	-	-	periderm rupture	rescue of periderm rupture phenotype in maternal-null irf6 -/- embryos	unknown
-PMC5628943	Results	IRF6	specific DNA mutation	specific protein mutation	disease	phenotype	pathogenicity reasoning	pathogenicity
+PMC5628943	Results	IRF6	-	V247M	-	periderm rupture	failure to rescue periderm rupture phenotype	pathogenic
 PMC5628943	Results	IRF6	-	p.R45Q	orofacial cleft	-	rescued the periderm rupture phenotype of maternal-null irf6 -/- embryos, but with limited evidence	unknown
 PMC5628943	Results	IRF6	-	p.R45W	orofacial cleft	-	rescued the periderm rupture phenotype of maternal-null irf6 -/- embryos, but with limited evidence	unknown
 PMC5628943	Results	IRF6	-	p.G70R	orofacial cleft	-	rescued the periderm rupture phenotype of maternal-null irf6 -/- embryos, but with limited evidence	unknown
@@ -28,7 +28,7 @@ PMC5628943	Results	IRF6	-	p.P76L	-	craniofacial abnormalities	rescued by human I
 PMC5628943	Results	IRF6	-	p.T100A	-	craniofacial abnormalities	rescued by human IRF6 missense gene variant mRNA microinjections	unknown
 PMC5628943	Results	IRF6	-	p.P222L	-	craniofacial abnormalities	rescued by human IRF6 missense gene variant mRNA microinjections	unknown
 PMC5628943	Discussion	IRF6	-	-	orofacial clefts	-	-	unknown
-PMC5628943	Discussion	IRF6	-	p.R45W	Van der Woude Syndrome (VWS)	variable expressivity of phenotypes	rescued maternal-null irf6 -/- periderm rupture and function quantitatively to the same degree as wild type IRF6	likely benign
+PMC5628943	Discussion	IRF6	-	p.R45W	Van der Woude Syndrome (VWS)	periderm rupture	rescued maternal-null irf6 -/- periderm rupture and function quantitatively to the same degree as wild type IRF6	likely benign
 PMC5628943	Discussion	IRF6	-	p.R45Q	-	periderm rupture phenotype	retained full function in zebrafish model	likely benign
 PMC5628943	Discussion	IRF6	-	p.R45W	-	periderm rupture phenotype	retained full function in zebrafish model	likely benign
 PMC5628943	Discussion	IRF6	-	p.G70R	-	periderm rupture phenotype	retained full function in zebrafish model	likely benign
