@@ -16,6 +16,7 @@ conda env create -f environment.yml
 conda activate pubmind
 pip install -r requirements.txt
 ```
+Typical installtion time is about 15-30mins, depends on the computer environment and system.
 
 ## Run PubMind
 
