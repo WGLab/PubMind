@@ -37,11 +37,11 @@ PubMind frameworkds includes the following modules:
    
 ## PubMind-DB
 
-PubMind-DB could be accessed here: https://pubmind.wglab.org/
+PubMind-DB could be accessed here: https://pubmind.wglab.org/. An API is also available for batch access. If you need the PubMind-DB with pathogenicity predictions and confidence scores for all variants, you can download it from [ANNOVAR](https://annovar.openbioinformatics.org). If you need the full PubMind-DB with variant references, reasoning and evidences, please see License terms below.
 
-## Reference (Preprint)
+## Reference
 
-Wang, P. and K. Wang (2025). [PubMind: Literature-Based Genetic Variant Extraction and Functional Annotation Using Large Language Models.](https://www.biorxiv.org/content/10.1101/2025.10.13.682183v1) bioRxiv: 2025.2010.2013.682183.
+Wang, P. and K. Wang (2025). [PubMind: Literature-Based Genetic Variant Extraction and Functional Annotation Using Large Language Models.]([https://www.biorxiv.org/content/10.1101/2025.10.13.682183v1](https://www.nature.com/articles/s41467-026-76834-4)) Nature Communications: 2026.
 
 ## License
 
