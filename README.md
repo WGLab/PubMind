@@ -41,7 +41,7 @@ PubMind-DB could be accessed here: https://pubmind.wglab.org/. An API is also av
 
 ## Reference
 
-Wang, P. and K. Wang (2025). [PubMind: Literature-Based Genetic Variant Extraction and Functional Annotation Using Large Language Models.]([https://www.biorxiv.org/content/10.1101/2025.10.13.682183v1](https://www.nature.com/articles/s41467-026-76834-4)) Nature Communications: 2026.
+Wang, P. and K. Wang (2026). [PubMind: Literature-Based Genetic Variant Extraction and Functional Annotation Using Large Language Models.](https://www.nature.com/articles/s41467-026-76834-4) Nature Communications: in press.
 
 ## License
 
